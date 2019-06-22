@@ -7,7 +7,7 @@
     "materialize-css": "^1.0.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "serve": "nodemon server/index.js",
