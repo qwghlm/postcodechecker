@@ -5,8 +5,8 @@ const postcodeRegex = /^[A-Z]{1,2}[0-9]{1,2}[A-Z]?\s?[0-9][A-Z]{2}$/i;
 
 function App() {
 
-  const [postcode, setPostcode] = useState("CB1 3QE");
-  const [buttonEnabled, setButtonEnabled] = useState(postcode.match(postcodeRegex));
+  const [postcode, setPostcode] = useState("");
+  const [buttonEnabled, setButtonEnabled] = useState(false);
   const [response, setResponse] = useState(null);
   const [loading, setLoading] = useState(false)
 
