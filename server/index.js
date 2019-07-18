@@ -1,8 +1,21 @@
 const express = require('express');
+const graphqlHTTP = require('express-graphql');
+const { buildSchema } = require('graphql');
+
 const app = express();
 
-app.get('/api', function(req, res) {
-  res.json({});
-});
+const schema = buildSchema(`
+  type Query {
+    postcode(search: String!): String
+  }
+`);
+
+const root = { postcode: () => 'Hello world' };
+
+app.post('/api', graphqlHTTP({
+  schema: schema,
+  rootValue: root,
+  graphiql: true,
+}));
 
 app.listen(9000);
