@@ -5,7 +5,8 @@ import resource
 import sys
 from pyproj import Transformer
 
-# NOTE: This must be downloaded from http://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-may-2019
+# NOTE: This must be downloaded from
+# http://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-may-2019
 ONSPD_FILE = "./src/ONSPD_MAY_2019_UK.csv"
 
 bng_to_wgs84 = Transformer.from_crs("epsg:27700", "epsg:4326")
