@@ -24,7 +24,7 @@ def run():
         print(f"Must download & unzip file {ONSPD_FILE}")
         sys.exit(1)
 
-    postcodes_fixture = open("fixtures/postcode.csv", "w")
+    postcodes_fixture = open("fixtures/postcodes.csv", "w")
     postcodes = csv.DictWriter(
         postcodes_fixture, ["id", "postcode", "latitude", "longitude"]
     )
@@ -50,15 +50,17 @@ def run():
             {
                 "id": normalized_postcode,
                 "postcode": postcode,
-                "latitude": round(latitude, 6),
-                "longitude": round(longitude, 6),
+                "latitude": "{0:.6f}".format(latitude),
+                "longitude": "{0:.6f}".format(longitude),
             }
         )
 
         count += 1
         if count % 100 == 0:
             memory = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
-            sys.stdout.write(f"{count} postcodes done, up to {postcode}, {memory} bytes used...\r")
+            sys.stdout.write(
+                f"{count} postcodes done, up to {postcode}, {memory} bytes used...\r"
+            )
             sys.stdout.flush()
 
     postcodes_fixture.flush()

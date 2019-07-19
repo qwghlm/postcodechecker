@@ -5,9 +5,9 @@ const postcodeRegex = /^[A-Z]{1,2}[0-9]{1,2}[A-Z]?\s?[0-9][A-Z]{2}$/i;
 
 function App() {
 
-  const [postcode, setPostcode] = useState("");
-  const [buttonEnabled, setButtonEnabled] = useState(false);
-  const [response, setResponse] = useState(null);
+  const [postcode, setPostcode] = useState("CB1 3QE");
+  const [buttonEnabled, setButtonEnabled] = useState(true);
+  const [searchResult, setSearchResult] = useState(null);
   const [loading, setLoading] = useState(false)
 
   const onChange = (e) => {
@@ -18,13 +18,18 @@ function App() {
 
   const onSearchSubmit = (e) => {
     e.preventDefault();
-    const query = `query PostCode($search: String!) {
-      postcode(search: $search)
+    const query = `query Postcode($id: String!) {
+      postcode(id: $id) {
+        postcode
+        latitude
+        longitude
+      }
     }`;
     setLoading(true);
-    graphQL(query, { search: postcode })
+    graphQL(query, { id: postcode })
       .then(data => {
-        setResponse(data);
+        const { postcode } = data;
+        setSearchResult(postcode);
         setLoading(false);
       });
   }
@@ -43,15 +48,15 @@ function App() {
         </div>
         <div className="input-field col s2">
           <button className="btn" disabled={!buttonEnabled}>
-            { loading ? <i class="material-icons">hourglass_empty</i> : "Search" }
+            { loading ? <i className="material-icons">hourglass_empty</i> : "Search" }
           </button>
         </div>
       </form>
 
-      { response && <React.Fragment>
-        <h4>Information about {postcode}</h4>
+      { searchResult && <React.Fragment>
+        <h4>Information about {searchResult.postcode}</h4>
 
-        <p>{response.postcode}</p>
+        <p>Latitude: {searchResult.latitude} &ndash; Longitude: {searchResult.longitude}</p>
       </React.Fragment>
       }
 
