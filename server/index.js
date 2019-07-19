@@ -1,6 +1,8 @@
 const express = require('express');
 const graphqlHTTP = require('express-graphql');
-const { buildSchema, GraphQLObjectType, GraphQLString, GraphQLFloat, GraphQLSchema } = require('graphql');
+const { GraphQLObjectType, GraphQLString, GraphQLFloat, GraphQLSchema } = require('graphql');
+
+// TODO Split this up into bits
 
 // Database setup
 require('dotenv').config()
@@ -38,6 +40,9 @@ const RootQuery = new GraphQLObjectType({
           type: GraphQLString
         }
       },
+
+      // TODO SQL injection?
+      // TODO What happens with no result?
       resolve(parentValue, args) {
         const id = args.id.toUpperCase().replace(/\s/, "");
         const query = `SELECT * FROM postcodes WHERE id='${id}'`;
@@ -52,13 +57,13 @@ const schema = new GraphQLSchema({
   query: RootQuery
 });
 
-// TODO What does this do??? Is it needed?
+// TODO What does this do? Is it needed?
 const root = { postcode: () => 'Please specify a search' };
 
 app.post('/api', graphqlHTTP({
   schema: schema,
   rootValue: root,
-  graphiql: true,
+  graphiql: true, // TODO What does this do?
 }));
 
 app.listen(9000);
