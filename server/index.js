@@ -46,12 +46,14 @@ const RootQuery = new GraphQLObjectType({
         },
       },
 
-      // TODO SQL injection?
-      // TODO What happens with no result?
       resolve(parentValue, args) {
         const id = args.id.toUpperCase().replace(/\s/, "");
-        const query = `SELECT * FROM postcodes WHERE id='${id}'`;
-        return db.conn.one(query).then((data) => data);
+        const query = "SELECT * FROM postcodes WHERE id=$1";
+        return db.conn.one(query, [id])
+          .then((data) => data)
+          .catch((error) => {
+            return null;
+          })
       },
     },
   },
