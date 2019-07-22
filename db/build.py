@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import csv
 from datetime import datetime
-import glob
 import resource
 import sys
 from pyproj import Transformer

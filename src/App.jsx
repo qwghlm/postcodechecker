@@ -22,10 +22,15 @@ function App() {
         postcode
         latitude
         longitude
+        constituency {
+          id
+          name
+        }
       }
     }`;
     setLoading(true);
     graphQL(query, { id: postcode }).then((data) => {
+      console.log(data)
       const { postcode } = data;
       setSearchResult(postcode);
       setLoading(false);
@@ -68,6 +73,10 @@ function App() {
           <p>
             Latitude: {searchResult.latitude} &ndash; Longitude:{" "}
             {searchResult.longitude}
+          </p>
+
+          <p>
+            Located in the parliamentary constituency of <strong>{searchResult.constituency.name}</strong>.
           </p>
         </React.Fragment>
       )}

@@ -25,6 +25,16 @@ const db = { conn: pgp(connection) };
 // Webserver setup
 const app = express();
 
+const PlaceType = new GraphQLObjectType({
+  name: "Place",
+  type: "Query",
+  fields: {
+    id: { type: GraphQLString },
+    name: { type: GraphQLString },
+    type: { type: GraphQLString },
+  }
+});
+
 const PostcodeType = new GraphQLObjectType({
   name: "Postcode",
   type: "Query",
@@ -32,6 +42,19 @@ const PostcodeType = new GraphQLObjectType({
     postcode: { type: GraphQLString },
     latitude: { type: GraphQLFloat },
     longitude: { type: GraphQLFloat },
+    constituency: {
+      type: PlaceType,
+      resolve(parentValue, args, request) {
+        const { id } = parentValue;
+        const query = "SELECT places.* FROM postcodes__places LEFT JOIN places ON place_id = places.id WHERE postcode_id=$1 AND places.type='WPC'";
+        return db.conn.one(query, [id])
+          .then((data) => data)
+          .catch((error) => {
+            console.error(error);
+            return null;
+          });
+      }
+    },
   },
 });
 
@@ -48,10 +71,11 @@ const RootQuery = new GraphQLObjectType({
 
       resolve(parentValue, args) {
         const id = args.id.toUpperCase().replace(/\s/, "");
-        const query = "SELECT * FROM postcodes WHERE id=$1";
+        const query = "SELECT * FROM postcodes WHERE postcodes.id=$1";
         return db.conn.one(query, [id])
           .then((data) => data)
           .catch((error) => {
+            console.error(error);
             return null;
           })
       },
@@ -63,15 +87,10 @@ const schema = new GraphQLSchema({
   query: RootQuery,
 });
 
-// TODO What does this do? Is it needed?
-const root = { postcode: () => "Please specify a search" };
-
 app.post(
   "/api",
   graphqlHTTP({
-    schema: schema,
-    rootValue: root,
-    graphiql: true, // TODO What does this do?
+    schema,
   })
 );
 
