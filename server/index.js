@@ -32,7 +32,7 @@ const PlaceType = new GraphQLObjectType({
     id: { type: GraphQLString },
     name: { type: GraphQLString },
     type: { type: GraphQLString },
-  }
+  },
 });
 
 const PostcodeType = new GraphQLObjectType({
@@ -46,14 +46,16 @@ const PostcodeType = new GraphQLObjectType({
       type: PlaceType,
       resolve(parentValue, args, request) {
         const { id } = parentValue;
-        const query = "SELECT places.* FROM postcodes__places LEFT JOIN places ON place_id = places.id WHERE postcode_id=$1 AND places.type='WPC'";
-        return db.conn.one(query, [id])
+        const query =
+          "SELECT places.* FROM postcodes__places LEFT JOIN places ON place_id = places.id WHERE postcode_id=$1 AND places.type='WPC'";
+        return db.conn
+          .one(query, [id])
           .then((data) => data)
           .catch((error) => {
             console.error(error);
             return null;
           });
-      }
+      },
     },
   },
 });
@@ -72,12 +74,13 @@ const RootQuery = new GraphQLObjectType({
       resolve(parentValue, args) {
         const id = args.id.toUpperCase().replace(/\s/, "");
         const query = "SELECT * FROM postcodes WHERE postcodes.id=$1";
-        return db.conn.one(query, [id])
+        return db.conn
+          .one(query, [id])
           .then((data) => data)
           .catch((error) => {
             console.error(error);
             return null;
-          })
+          });
       },
     },
   },
