@@ -1,100 +1,61 @@
-const express = require("express");
-const graphqlHTTP = require("express-graphql");
-const {
-  GraphQLObjectType,
-  GraphQLString,
-  GraphQLFloat,
-  GraphQLSchema,
-} = require("graphql");
+const { db } = require("./db");
+const { ApolloServer, gql } = require('apollo-server');
 
-// TODO Split this up into bits
+// Type definitions define the "shape" of your data and specify
+// which ways the data can be fetched from the GraphQL server.
+const typeDefs = gql`
 
-// Database setup
-require("dotenv").config();
-const pgp = require("pg-promise")();
+  type Place {
+    id: String
+    name: String
+    type: String
+  }
 
-const username = process.env.DB_USERNAME;
-const password = process.env.DB_PASSWORD;
-const host = process.env.DB_HOST;
-const port = process.env.DB_PORT;
-const database = process.env.DB_DATABASE;
+  type Postcode {
+    postcode: String
+    latitude: Float
+    longitude: Float
+    constituency: Place
+  }
 
-const connection = `postgres://${username}:${password}@${host}:${port}/${database}`;
-const db = { conn: pgp(connection) };
+  type Query {
+    postcode(id: String): Postcode
+  }
+`;
 
-// Webserver setup
-const app = express();
-
-const PlaceType = new GraphQLObjectType({
-  name: "Place",
-  type: "Query",
-  fields: {
-    id: { type: GraphQLString },
-    name: { type: GraphQLString },
-    type: { type: GraphQLString },
-  },
-});
-
-const PostcodeType = new GraphQLObjectType({
-  name: "Postcode",
-  type: "Query",
-  fields: {
-    postcode: { type: GraphQLString },
-    latitude: { type: GraphQLFloat },
-    longitude: { type: GraphQLFloat },
-    constituency: {
-      type: PlaceType,
-      resolve(parentValue, args, request) {
-        const { id } = parentValue;
-        const query =
-          "SELECT places.* FROM postcodes__places LEFT JOIN places ON place_id = places.id WHERE postcode_id=$1 AND places.type='WPC'";
-        return db.conn
-          .one(query, [id])
-          .then((data) => data)
-          .catch((error) => {
-            console.error(error);
-            return null;
-          });
-      },
+// Resolvers define the technique for fetching the types in the
+// schema.  We'll retrieve books from the "books" array above.
+const resolvers = {
+  Query: {
+    postcode: (parent, args, context, info) => {
+      let { id } = args;
+      id = id.toUpperCase().replace(/\s/, "");
+      const query = "SELECT * FROM postcodes WHERE postcodes.id=$1";
+      return db.conn
+        .one(query, [id])
+        .then((data) => data)
+        .catch((error) => {
+          console.error(error);
+          return null;
+        });
     },
   },
+  Postcode: {
+    constituency: (parent, args, context, info) => {
+      let { id } = parent;
+      const query = "SELECT places.* FROM postcodes__places LEFT JOIN places ON place_id = places.id WHERE postcode_id=$1 AND places.type='WPC'";
+      return db.conn
+        .one(query, [id])
+        .then((data) => data)
+        .catch((error) => {
+          console.error(error);
+          return null;
+        });
+    }
+  }
+};
+
+const server = new ApolloServer({ typeDefs, resolvers });
+server.listen(9000).then(({ url }) => {
+  console.log(`🚀  Server ready at ${url}`);
 });
-
-const RootQuery = new GraphQLObjectType({
-  name: "RootQueryType",
-  fields: {
-    postcode: {
-      type: PostcodeType,
-      args: {
-        id: {
-          type: GraphQLString,
-        },
-      },
-
-      resolve(parentValue, args) {
-        const id = args.id.toUpperCase().replace(/\s/, "");
-        const query = "SELECT * FROM postcodes WHERE postcodes.id=$1";
-        return db.conn
-          .one(query, [id])
-          .then((data) => data)
-          .catch((error) => {
-            console.error(error);
-            return null;
-          });
-      },
-    },
-  },
-});
-
-const schema = new GraphQLSchema({
-  query: RootQuery,
-});
-
-app.post(
-  "/api",
-  graphqlHTTP({
-    schema,
-  })
-);
-
-app.listen(9000);
