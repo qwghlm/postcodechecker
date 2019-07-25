@@ -1,89 +1,108 @@
 import React, { useState } from "react";
 import graphQL from "./lib/graphql";
 
-const postcodeRegex = /^[A-Z]{1,2}[0-9]{1,2}[A-Z]?\s?[0-9][A-Z]{2}$/i;
+function ElectionResult({ first_name, surname, party, votes }) {
+  return <tr>
+    <td>{first_name} {surname}</td>
+    <td>{party}</td>
+    <td>{votes}</td>
+  </tr>;
+}
 
-function SearchResult({ result }) {
+function Election({ name, results }) {
+  return <React.Fragment>
+    <h6>{name}</h6>
 
-  if (result === null) {
+    <table>
+      <tbody>
+      { results.map((result, i) => <ElectionResult key={i} {...result} />)}
+      </tbody>
+    </table>
+
+  </React.Fragment>
+}
+
+function Constituency({ id, name, elections }) {
+  if (id === undefined) {
     return <React.Fragment>
-      <h4>Sorry</h4>
-
-      <p>No data for that postcode could be found</p>
+      <p>Sorry, we could not find any data for that constituency</p>
     </React.Fragment>
   }
-
-  const { postcode, latitude, longitude, constituency } = result;
   return (
     <React.Fragment>
-      <h4>Information about {postcode}</h4>
+      <h4>Information about {name}</h4>
 
-      <p>
-        Latitude: {latitude} &ndash; Longitude: {longitude}
-      </p>
+      <p>Code: <strong>{id}</strong></p>
 
-      <p>
-        Located in the parliamentary constituency of{" "}
-        <strong>{constituency.name}</strong>.
-      </p>
+      { elections.map((election, i) => <Election key={i} {...election} />)}
+
     </React.Fragment>
   );
 }
 
 function App() {
-  const [postcode, setPostcode] = useState("CB1 3QE");
-  const [buttonEnabled, setButtonEnabled] = useState(true);
-  const [searchResult, setSearchResult] = useState(undefined);
+  const [constituency, setConstituency] = useState("E14000530");
+  const [constituencyData, setConstituencyData] = useState(undefined);
   const [loading, setLoading] = useState(false);
+  const [disabled, setDisabled] = useState(constituency.length === 0);
 
   const onChange = (e) => {
-    const newPostcode = e.currentTarget.value;
-    setPostcode(newPostcode);
-    setButtonEnabled(newPostcode.match(postcodeRegex));
+    const { value } = e.currentTarget;
+    setConstituency(value);
+    setDisabled(value.length === 0);
   };
 
   const onSearchSubmit = (e) => {
     e.preventDefault();
-    const query = `query Postcode($id: String!) {
-      postcode(id: $id) {
-        postcode
-        latitude
-        longitude
-        constituency {
-          id
+    const query = `query GetPlace($id: String!) {
+      place(id: $id) {
+        id
+        name
+        elections {
+          date
           name
+          results {
+            party
+            surname
+            first_name
+            votes
+          }
         }
       }
     }`;
     setLoading(true);
-    graphQL(query, { id: postcode }).then((data) => {
-      console.log(data);
-      const { postcode } = data;
-      setSearchResult(postcode);
+    graphQL(query, { id: constituency }).then((data) => {
+      const { place } = data;
+      if (place.length === 0) {
+        setConstituencyData(null);
+      }
+      else {
+        setConstituencyData(place[0]);
+      }
       setLoading(false);
     });
   };
 
   return (
     <div className="App row">
-      <h1>Postcode checker</h1>
+      <h1>Election result checker</h1>
 
       <p>
-        To find out more about a postcode, enter one below and clock "Search"
+        To find out more about a constituency, enter an ID below and click "Search"
       </p>
 
       <form action="#" className="col s12" onSubmit={onSearchSubmit}>
         <div className="input-field col s10">
           <input
             type="text"
-            placeholder="Enter a postcode"
-            name="postcode"
-            value={postcode}
+            placeholder="Enter a constituency ID"
+            name="constituency"
+            value={constituency}
             onChange={onChange}
           />
         </div>
         <div className="input-field col s2">
-          <button className="btn" disabled={!buttonEnabled}>
+          <button className="btn" disabled={disabled}>
             {loading ? (
               <i className="material-icons">hourglass_empty</i>
             ) : (
@@ -93,7 +112,7 @@ function App() {
         </div>
       </form>
 
-      {searchResult !== undefined && <SearchResult result={searchResult} />}
+      {constituencyData !== undefined && <Constituency {...constituencyData} />}
     </div>
   );
 }
