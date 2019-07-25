@@ -1,0 +1,653 @@
+id,name,type
+E14000530,Aldershot,WPC
+E14000531,Aldridge-Brownhills,WPC
+E14000532,Altrincham and Sale West,WPC
+E14000533,Amber Valley,WPC
+E14000534,Arundel and South Downs,WPC
+E14000535,Ashfield,WPC
+E14000536,Ashford,WPC
+E14000537,Ashton-under-Lyne,WPC
+E14000538,Aylesbury,WPC
+E14000539,Banbury,WPC
+E14000540,Barking,WPC
+E14000541,Barnsley Central,WPC
+E14000542,Barnsley East,WPC
+E14000543,Barrow and Furness,WPC
+E14000544,Basildon and Billericay,WPC
+E14000545,Basingstoke,WPC
+E14000546,Bassetlaw,WPC
+E14000547,Bath,WPC
+E14000548,Batley and Spen,WPC
+E14000549,Battersea,WPC
+E14000550,Beaconsfield,WPC
+E14000551,Beckenham,WPC
+E14000552,Bedford,WPC
+E14000553,Bermondsey and Old Southwark,WPC
+E14000554,Berwick-upon-Tweed,WPC
+E14000555,Bethnal Green and Bow,WPC
+E14000556,Beverley and Holderness,WPC
+E14000557,Bexhill and Battle,WPC
+E14000558,Bexleyheath and Crayford,WPC
+E14000559,Birkenhead,WPC
+E14000560,"Birmingham, Edgbaston",WPC
+E14000561,"Birmingham, Erdington",WPC
+E14000562,"Birmingham, Hall Green",WPC
+E14000563,"Birmingham, Hodge Hill",WPC
+E14000564,"Birmingham, Ladywood",WPC
+E14000565,"Birmingham, Northfield",WPC
+E14000566,"Birmingham, Perry Barr",WPC
+E14000567,"Birmingham, Selly Oak",WPC
+E14000568,"Birmingham, Yardley",WPC
+E14000569,Bishop Auckland,WPC
+E14000570,Blackburn,WPC
+E14000571,Blackley and Broughton,WPC
+E14000572,Blackpool North and Cleveleys,WPC
+E14000573,Blackpool South,WPC
+E14000574,Blaydon,WPC
+E14000575,Blyth Valley,WPC
+E14000576,Bognor Regis and Littlehampton,WPC
+E14000577,Bolsover,WPC
+E14000578,Bolton North East,WPC
+E14000579,Bolton South East,WPC
+E14000580,Bolton West,WPC
+E14000581,Bootle,WPC
+E14000582,Boston and Skegness,WPC
+E14000583,Bosworth,WPC
+E14000584,Bournemouth East,WPC
+E14000585,Bournemouth West,WPC
+E14000586,Bracknell,WPC
+E14000587,Bradford East,WPC
+E14000588,Bradford South,WPC
+E14000589,Bradford West,WPC
+E14000590,Braintree,WPC
+E14000591,Brent Central,WPC
+E14000592,Brent North,WPC
+E14000593,Brentford and Isleworth,WPC
+E14000594,Brentwood and Ongar,WPC
+E14000595,Bridgwater and West Somerset,WPC
+E14000596,Brigg and Goole,WPC
+E14000597,"Brighton, Kemptown",WPC
+E14000598,"Brighton, Pavilion",WPC
+E14000599,Bristol East,WPC
+E14000600,Bristol North West,WPC
+E14000601,Bristol South,WPC
+E14000602,Bristol West,WPC
+E14000603,Broadland,WPC
+E14000604,Bromley and Chislehurst,WPC
+E14000605,Bromsgrove,WPC
+E14000606,Broxbourne,WPC
+E14000607,Broxtowe,WPC
+E14000608,Buckingham,WPC
+E14000609,Burnley,WPC
+E14000610,Burton,WPC
+E14000611,Bury North,WPC
+E14000612,Bury South,WPC
+E14000613,Bury St Edmunds,WPC
+E14000614,Calder Valley,WPC
+E14000615,Camberwell and Peckham,WPC
+E14000616,Camborne and Redruth,WPC
+E14000617,Cambridge,WPC
+E14000618,Cannock Chase,WPC
+E14000619,Canterbury,WPC
+E14000620,Carlisle,WPC
+E14000621,Carshalton and Wallington,WPC
+E14000622,Castle Point,WPC
+E14000623,Central Devon,WPC
+E14000624,Central Suffolk and North Ipswich,WPC
+E14000625,Charnwood,WPC
+E14000626,Chatham and Aylesford,WPC
+E14000627,Cheadle,WPC
+E14000628,Chelmsford,WPC
+E14000629,Chelsea and Fulham,WPC
+E14000630,Cheltenham,WPC
+E14000631,Chesham and Amersham,WPC
+E14000632,Chesterfield,WPC
+E14000633,Chichester,WPC
+E14000634,Chingford and Woodford Green,WPC
+E14000635,Chippenham,WPC
+E14000636,Chipping Barnet,WPC
+E14000637,Chorley,WPC
+E14000638,Christchurch,WPC
+E14000639,Cities of London and Westminster,WPC
+E14000640,City of Chester,WPC
+E14000641,City of Durham,WPC
+E14000642,Clacton,WPC
+E14000643,Cleethorpes,WPC
+E14000644,Colchester,WPC
+E14000645,Colne Valley,WPC
+E14000646,Congleton,WPC
+E14000647,Copeland,WPC
+E14000648,Corby,WPC
+E14000649,Coventry North East,WPC
+E14000650,Coventry North West,WPC
+E14000651,Coventry South,WPC
+E14000652,Crawley,WPC
+E14000653,Crewe and Nantwich,WPC
+E14000654,Croydon Central,WPC
+E14000655,Croydon North,WPC
+E14000656,Croydon South,WPC
+E14000657,Dagenham and Rainham,WPC
+E14000658,Darlington,WPC
+E14000659,Dartford,WPC
+E14000660,Daventry,WPC
+E14000661,Denton and Reddish,WPC
+E14000662,Derby North,WPC
+E14000663,Derby South,WPC
+E14000664,Derbyshire Dales,WPC
+E14000665,Devizes,WPC
+E14000666,Dewsbury,WPC
+E14000667,Don Valley,WPC
+E14000668,Doncaster Central,WPC
+E14000669,Doncaster North,WPC
+E14000670,Dover,WPC
+E14000671,Dudley North,WPC
+E14000672,Dudley South,WPC
+E14000673,Dulwich and West Norwood,WPC
+E14000674,Ealing Central and Acton,WPC
+E14000675,Ealing North,WPC
+E14000676,"Ealing, Southall",WPC
+E14000677,Easington,WPC
+E14000678,East Devon,WPC
+E14000679,East Ham,WPC
+E14000680,East Hampshire,WPC
+E14000681,East Surrey,WPC
+E14000682,East Worthing and Shoreham,WPC
+E14000683,East Yorkshire,WPC
+E14000684,Eastbourne,WPC
+E14000685,Eastleigh,WPC
+E14000686,Eddisbury,WPC
+E14000687,Edmonton,WPC
+E14000688,Ellesmere Port and Neston,WPC
+E14000689,Elmet and Rothwell,WPC
+E14000690,Eltham,WPC
+E14000691,Enfield North,WPC
+E14000692,"Enfield, Southgate",WPC
+E14000693,Epping Forest,WPC
+E14000694,Epsom and Ewell,WPC
+E14000695,Erewash,WPC
+E14000696,Erith and Thamesmead,WPC
+E14000697,Esher and Walton,WPC
+E14000698,Exeter,WPC
+E14000699,Fareham,WPC
+E14000700,Faversham and Mid Kent,WPC
+E14000701,Feltham and Heston,WPC
+E14000702,Filton and Bradley Stoke,WPC
+E14000703,Finchley and Golders Green,WPC
+E14000704,Folkestone and Hythe,WPC
+E14000705,Forest of Dean,WPC
+E14000706,Fylde,WPC
+E14000707,Gainsborough,WPC
+E14000708,Garston and Halewood,WPC
+E14000709,Gateshead,WPC
+E14000710,Gedling,WPC
+E14000711,Gillingham and Rainham,WPC
+E14000712,Gloucester,WPC
+E14000713,Gosport,WPC
+E14000714,Grantham and Stamford,WPC
+E14000715,Gravesham,WPC
+E14000716,Great Grimsby,WPC
+E14000717,Great Yarmouth,WPC
+E14000718,Greenwich and Woolwich,WPC
+E14000719,Guildford,WPC
+E14000720,Hackney North and Stoke Newington,WPC
+E14000721,Hackney South and Shoreditch,WPC
+E14000722,Halesowen and Rowley Regis,WPC
+E14000723,Halifax,WPC
+E14000724,Haltemprice and Howden,WPC
+E14000725,Halton,WPC
+E14000726,Hammersmith,WPC
+E14000727,Hampstead and Kilburn,WPC
+E14000728,Harborough,WPC
+E14000729,Harlow,WPC
+E14000730,Harrogate and Knaresborough,WPC
+E14000731,Harrow East,WPC
+E14000732,Harrow West,WPC
+E14000733,Hartlepool,WPC
+E14000734,Harwich and North Essex,WPC
+E14000735,Hastings and Rye,WPC
+E14000736,Havant,WPC
+E14000737,Hayes and Harlington,WPC
+E14000738,Hazel Grove,WPC
+E14000739,Hemel Hempstead,WPC
+E14000740,Hemsworth,WPC
+E14000741,Hendon,WPC
+E14000742,Henley,WPC
+E14000743,Hereford and South Herefordshire,WPC
+E14000744,Hertford and Stortford,WPC
+E14000745,Hertsmere,WPC
+E14000746,Hexham,WPC
+E14000747,Heywood and Middleton,WPC
+E14000748,High Peak,WPC
+E14000749,Hitchin and Harpenden,WPC
+E14000750,Holborn and St Pancras,WPC
+E14000751,Hornchurch and Upminster,WPC
+E14000752,Hornsey and Wood Green,WPC
+E14000753,Horsham,WPC
+E14000754,Houghton and Sunderland South,WPC
+E14000755,Hove,WPC
+E14000756,Huddersfield,WPC
+E14000757,Huntingdon,WPC
+E14000758,Hyndburn,WPC
+E14000759,Ilford North,WPC
+E14000760,Ilford South,WPC
+E14000761,Ipswich,WPC
+E14000762,Isle of Wight,WPC
+E14000763,Islington North,WPC
+E14000764,Islington South and Finsbury,WPC
+E14000765,Jarrow,WPC
+E14000766,Keighley,WPC
+E14000767,Kenilworth and Southam,WPC
+E14000768,Kensington,WPC
+E14000769,Kettering,WPC
+E14000770,Kingston and Surbiton,WPC
+E14000771,Kingston upon Hull East,WPC
+E14000772,Kingston upon Hull North,WPC
+E14000773,Kingston upon Hull West and Hessle,WPC
+E14000774,Kingswood,WPC
+E14000775,Knowsley,WPC
+E14000776,Lancaster and Fleetwood,WPC
+E14000777,Leeds Central,WPC
+E14000778,Leeds East,WPC
+E14000779,Leeds North East,WPC
+E14000780,Leeds North West,WPC
+E14000781,Leeds West,WPC
+E14000782,Leicester East,WPC
+E14000783,Leicester South,WPC
+E14000784,Leicester West,WPC
+E14000785,Leigh,WPC
+E14000786,Lewes,WPC
+E14000787,Lewisham East,WPC
+E14000788,Lewisham West and Penge,WPC
+E14000789,"Lewisham, Deptford",WPC
+E14000790,Leyton and Wanstead,WPC
+E14000791,Lichfield,WPC
+E14000792,Lincoln,WPC
+E14000793,"Liverpool, Riverside",WPC
+E14000794,"Liverpool, Walton",WPC
+E14000795,"Liverpool, Wavertree",WPC
+E14000796,"Liverpool, West Derby",WPC
+E14000797,Loughborough,WPC
+E14000798,Louth and Horncastle,WPC
+E14000799,Ludlow,WPC
+E14000800,Luton North,WPC
+E14000801,Luton South,WPC
+E14000802,Macclesfield,WPC
+E14000803,Maidenhead,WPC
+E14000804,Maidstone and The Weald,WPC
+E14000805,Makerfield,WPC
+E14000806,Maldon,WPC
+E14000807,Manchester Central,WPC
+E14000808,"Manchester, Gorton",WPC
+E14000809,"Manchester, Withington",WPC
+E14000810,Mansfield,WPC
+E14000811,Meon Valley,WPC
+E14000812,Meriden,WPC
+E14000813,Mid Bedfordshire,WPC
+E14000814,Mid Derbyshire,WPC
+E14000815,Mid Dorset and North Poole,WPC
+E14000816,Mid Norfolk,WPC
+E14000817,Mid Sussex,WPC
+E14000818,Mid Worcestershire,WPC
+E14000819,Middlesbrough,WPC
+E14000820,Middlesbrough South and East Cleveland,WPC
+E14000821,Milton Keynes North,WPC
+E14000822,Milton Keynes South,WPC
+E14000823,Mitcham and Morden,WPC
+E14000824,Mole Valley,WPC
+E14000825,Morecambe and Lunesdale,WPC
+E14000826,Morley and Outwood,WPC
+E14000827,New Forest East,WPC
+E14000828,New Forest West,WPC
+E14000829,Newark,WPC
+E14000830,Newbury,WPC
+E14000831,Newcastle upon Tyne Central,WPC
+E14000832,Newcastle upon Tyne East,WPC
+E14000833,Newcastle upon Tyne North,WPC
+E14000834,Newcastle-under-Lyme,WPC
+E14000835,Newton Abbot,WPC
+E14000836,"Normanton, Pontefract and Castleford",WPC
+E14000837,North Cornwall,WPC
+E14000838,North Devon,WPC
+E14000839,North Dorset,WPC
+E14000840,North Durham,WPC
+E14000841,North East Bedfordshire,WPC
+E14000842,North East Cambridgeshire,WPC
+E14000843,North East Derbyshire,WPC
+E14000844,North East Hampshire,WPC
+E14000845,North East Hertfordshire,WPC
+E14000846,North East Somerset,WPC
+E14000847,North Herefordshire,WPC
+E14000848,North Norfolk,WPC
+E14000849,North Shropshire,WPC
+E14000850,North Somerset,WPC
+E14000851,North Swindon,WPC
+E14000852,North Thanet,WPC
+E14000853,North Tyneside,WPC
+E14000854,North Warwickshire,WPC
+E14000855,North West Cambridgeshire,WPC
+E14000856,North West Durham,WPC
+E14000857,North West Hampshire,WPC
+E14000858,North West Leicestershire,WPC
+E14000859,North West Norfolk,WPC
+E14000860,North Wiltshire,WPC
+E14000861,Northampton North,WPC
+E14000862,Northampton South,WPC
+E14000863,Norwich North,WPC
+E14000864,Norwich South,WPC
+E14000865,Nottingham East,WPC
+E14000866,Nottingham North,WPC
+E14000867,Nottingham South,WPC
+E14000868,Nuneaton,WPC
+E14000869,Old Bexley and Sidcup,WPC
+E14000870,Oldham East and Saddleworth,WPC
+E14000871,Oldham West and Royton,WPC
+E14000872,Orpington,WPC
+E14000873,Oxford East,WPC
+E14000874,Oxford West and Abingdon,WPC
+E14000875,Pendle,WPC
+E14000876,Penistone and Stocksbridge,WPC
+E14000877,Penrith and The Border,WPC
+E14000878,Peterborough,WPC
+E14000879,"Plymouth, Moor View",WPC
+E14000880,"Plymouth, Sutton and Devonport",WPC
+E14000881,Poole,WPC
+E14000882,Poplar and Limehouse,WPC
+E14000883,Portsmouth North,WPC
+E14000884,Portsmouth South,WPC
+E14000885,Preston,WPC
+E14000886,Pudsey,WPC
+E14000887,Putney,WPC
+E14000888,Rayleigh and Wickford,WPC
+E14000889,Reading East,WPC
+E14000890,Reading West,WPC
+E14000891,Redcar,WPC
+E14000892,Redditch,WPC
+E14000893,Reigate,WPC
+E14000894,Ribble Valley,WPC
+E14000895,Richmond (Yorks),WPC
+E14000896,Richmond Park,WPC
+E14000897,Rochdale,WPC
+E14000898,Rochester and Strood,WPC
+E14000899,Rochford and Southend East,WPC
+E14000900,Romford,WPC
+E14000901,Romsey and Southampton North,WPC
+E14000902,Rossendale and Darwen,WPC
+E14000903,Rother Valley,WPC
+E14000904,Rotherham,WPC
+E14000905,Rugby,WPC
+E14000906,"Ruislip, Northwood and Pinner",WPC
+E14000907,Runnymede and Weybridge,WPC
+E14000908,Rushcliffe,WPC
+E14000909,Rutland and Melton,WPC
+E14000910,Saffron Walden,WPC
+E14000911,Salford and Eccles,WPC
+E14000912,Salisbury,WPC
+E14000913,Scarborough and Whitby,WPC
+E14000914,Scunthorpe,WPC
+E14000915,Sedgefield,WPC
+E14000916,Sefton Central,WPC
+E14000917,Selby and Ainsty,WPC
+E14000918,Sevenoaks,WPC
+E14000919,Sheffield Central,WPC
+E14000920,Sheffield South East,WPC
+E14000921,"Sheffield, Brightside and Hillsborough",WPC
+E14000922,"Sheffield, Hallam",WPC
+E14000923,"Sheffield, Heeley",WPC
+E14000924,Sherwood,WPC
+E14000925,Shipley,WPC
+E14000926,Shrewsbury and Atcham,WPC
+E14000927,Sittingbourne and Sheppey,WPC
+E14000928,Skipton and Ripon,WPC
+E14000929,Sleaford and North Hykeham,WPC
+E14000930,Slough,WPC
+E14000931,Solihull,WPC
+E14000932,Somerton and Frome,WPC
+E14000933,South Basildon and East Thurrock,WPC
+E14000934,South Cambridgeshire,WPC
+E14000935,South Derbyshire,WPC
+E14000936,South Dorset,WPC
+E14000937,South East Cambridgeshire,WPC
+E14000938,South East Cornwall,WPC
+E14000939,South Holland and The Deepings,WPC
+E14000940,South Leicestershire,WPC
+E14000941,South Norfolk,WPC
+E14000942,South Northamptonshire,WPC
+E14000943,South Ribble,WPC
+E14000944,South Shields,WPC
+E14000945,South Staffordshire,WPC
+E14000946,South Suffolk,WPC
+E14000947,South Swindon,WPC
+E14000948,South Thanet,WPC
+E14000949,South West Bedfordshire,WPC
+E14000950,South West Devon,WPC
+E14000951,South West Hertfordshire,WPC
+E14000952,South West Norfolk,WPC
+E14000953,South West Surrey,WPC
+E14000954,South West Wiltshire,WPC
+E14000955,"Southampton, Itchen",WPC
+E14000956,"Southampton, Test",WPC
+E14000957,Southend West,WPC
+E14000958,Southport,WPC
+E14000959,Spelthorne,WPC
+E14000960,St Albans,WPC
+E14000961,St Austell and Newquay,WPC
+E14000962,St Helens North,WPC
+E14000963,St Helens South and Whiston,WPC
+E14000964,St Ives,WPC
+E14000965,Stafford,WPC
+E14000966,Staffordshire Moorlands,WPC
+E14000967,Stalybridge and Hyde,WPC
+E14000968,Stevenage,WPC
+E14000969,Stockport,WPC
+E14000970,Stockton North,WPC
+E14000971,Stockton South,WPC
+E14000972,Stoke-on-Trent Central,WPC
+E14000973,Stoke-on-Trent North,WPC
+E14000974,Stoke-on-Trent South,WPC
+E14000975,Stone,WPC
+E14000976,Stourbridge,WPC
+E14000977,Stratford-on-Avon,WPC
+E14000978,Streatham,WPC
+E14000979,Stretford and Urmston,WPC
+E14000980,Stroud,WPC
+E14000981,Suffolk Coastal,WPC
+E14000982,Sunderland Central,WPC
+E14000983,Surrey Heath,WPC
+E14000984,Sutton and Cheam,WPC
+E14000985,Sutton Coldfield,WPC
+E14000986,Tamworth,WPC
+E14000987,Tatton,WPC
+E14000988,Taunton Deane,WPC
+E14000989,Telford,WPC
+E14000990,Tewkesbury,WPC
+E14000991,The Cotswolds,WPC
+E14000992,The Wrekin,WPC
+E14000993,Thirsk and Malton,WPC
+E14000994,Thornbury and Yate,WPC
+E14000995,Thurrock,WPC
+E14000996,Tiverton and Honiton,WPC
+E14000997,Tonbridge and Malling,WPC
+E14000998,Tooting,WPC
+E14000999,Torbay,WPC
+E14001000,Torridge and West Devon,WPC
+E14001001,Totnes,WPC
+E14001002,Tottenham,WPC
+E14001003,Truro and Falmouth,WPC
+E14001004,Tunbridge Wells,WPC
+E14001005,Twickenham,WPC
+E14001006,Tynemouth,WPC
+E14001007,Uxbridge and South Ruislip,WPC
+E14001008,Vauxhall,WPC
+E14001009,Wakefield,WPC
+E14001010,Wallasey,WPC
+E14001011,Walsall North,WPC
+E14001012,Walsall South,WPC
+E14001013,Walthamstow,WPC
+E14001014,Wansbeck,WPC
+E14001015,Wantage,WPC
+E14001016,Warley,WPC
+E14001017,Warrington North,WPC
+E14001018,Warrington South,WPC
+E14001019,Warwick and Leamington,WPC
+E14001020,Washington and Sunderland West,WPC
+E14001021,Watford,WPC
+E14001022,Waveney,WPC
+E14001023,Wealden,WPC
+E14001024,Weaver Vale,WPC
+E14001025,Wellingborough,WPC
+E14001026,Wells,WPC
+E14001027,Welwyn Hatfield,WPC
+E14001028,Wentworth and Dearne,WPC
+E14001029,West Bromwich East,WPC
+E14001030,West Bromwich West,WPC
+E14001031,West Dorset,WPC
+E14001032,West Ham,WPC
+E14001033,West Lancashire,WPC
+E14001034,West Suffolk,WPC
+E14001035,West Worcestershire,WPC
+E14001036,Westminster North,WPC
+E14001037,Westmorland and Lonsdale,WPC
+E14001038,Weston-Super-Mare,WPC
+E14001039,Wigan,WPC
+E14001040,Wimbledon,WPC
+E14001041,Winchester,WPC
+E14001042,Windsor,WPC
+E14001043,Wirral South,WPC
+E14001044,Wirral West,WPC
+E14001045,Witham,WPC
+E14001046,Witney,WPC
+E14001047,Woking,WPC
+E14001048,Wokingham,WPC
+E14001049,Wolverhampton North East,WPC
+E14001050,Wolverhampton South East,WPC
+E14001051,Wolverhampton South West,WPC
+E14001052,Worcester,WPC
+E14001053,Workington,WPC
+E14001054,Worsley and Eccles South,WPC
+E14001055,Worthing West,WPC
+E14001056,Wycombe,WPC
+E14001057,Wyre and Preston North,WPC
+E14001058,Wyre Forest,WPC
+E14001059,Wythenshawe and Sale East,WPC
+E14001060,Yeovil,WPC
+E14001061,York Central,WPC
+E14001062,York Outer,WPC
+L99999999,(pseudo) Channel Islands,WPC
+M99999999,(pseudo) Isle of Man,WPC
+N06000001,Belfast East,WPC
+N06000002,Belfast North,WPC
+N06000003,Belfast South,WPC
+N06000004,Belfast West,WPC
+N06000005,East Antrim,WPC
+N06000006,East Londonderry,WPC
+N06000007,Fermanagh and South Tyrone,WPC
+N06000008,Foyle,WPC
+N06000009,Lagan Valley,WPC
+N06000010,Mid Ulster,WPC
+N06000011,Newry and Armagh,WPC
+N06000012,North Antrim,WPC
+N06000013,North Down,WPC
+N06000014,South Antrim,WPC
+N06000015,South Down,WPC
+N06000016,Strangford,WPC
+N06000017,Upper Bann,WPC
+N06000018,West Tyrone,WPC
+S14000001,Aberdeen North,WPC
+S14000002,Aberdeen South,WPC
+S14000003,Airdrie and Shotts,WPC
+S14000004,Angus,WPC
+S14000005,Argyll and Bute,WPC
+S14000006,"Ayr, Carrick and Cumnock",WPC
+S14000007,Banff and Buchan,WPC
+S14000008,"Berwickshire, Roxburgh and Selkirk",WPC
+S14000009,"Caithness, Sutherland and Easter Ross",WPC
+S14000010,Central Ayrshire,WPC
+S14000011,"Coatbridge, Chryston and Bellshill",WPC
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",WPC
+S14000013,Dumfries and Galloway,WPC
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",WPC
+S14000015,Dundee East,WPC
+S14000016,Dundee West,WPC
+S14000017,Dunfermline and West Fife,WPC
+S14000018,East Dunbartonshire,WPC
+S14000019,"East Kilbride, Strathaven and Lesmahagow",WPC
+S14000020,East Lothian,WPC
+S14000021,East Renfrewshire,WPC
+S14000022,Edinburgh East,WPC
+S14000023,Edinburgh North and Leith,WPC
+S14000024,Edinburgh South,WPC
+S14000025,Edinburgh South West,WPC
+S14000026,Edinburgh West,WPC
+S14000027,Na h-Eileanan an Iar,WPC
+S14000028,Falkirk,WPC
+S14000029,Glasgow Central,WPC
+S14000030,Glasgow East,WPC
+S14000031,Glasgow North,WPC
+S14000032,Glasgow North East,WPC
+S14000033,Glasgow North West,WPC
+S14000034,Glasgow South,WPC
+S14000035,Glasgow South West,WPC
+S14000036,Glenrothes,WPC
+S14000037,Gordon,WPC
+S14000038,Inverclyde,WPC
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",WPC
+S14000040,Kilmarnock and Loudoun,WPC
+S14000041,Kirkcaldy and Cowdenbeath,WPC
+S14000042,Lanark and Hamilton East,WPC
+S14000043,Linlithgow and East Falkirk,WPC
+S14000044,Livingston,WPC
+S14000045,Midlothian,WPC
+S14000046,Moray,WPC
+S14000047,Motherwell and Wishaw,WPC
+S14000048,North Ayrshire and Arran,WPC
+S14000049,North East Fife,WPC
+S14000050,Ochil and South Perthshire,WPC
+S14000051,Orkney and Shetland,WPC
+S14000052,Paisley and Renfrewshire North,WPC
+S14000053,Paisley and Renfrewshire South,WPC
+S14000054,Perth and North Perthshire,WPC
+S14000055,"Ross, Skye and Lochaber",WPC
+S14000056,Rutherglen and Hamilton West,WPC
+S14000057,Stirling,WPC
+S14000058,West Aberdeenshire and Kincardine,WPC
+S14000059,West Dunbartonshire,WPC
+W07000041,Ynys Môn,WPC
+W07000042,Delyn,WPC
+W07000043,Alyn and Deeside,WPC
+W07000044,Wrexham,WPC
+W07000045,Llanelli,WPC
+W07000046,Gower,WPC
+W07000047,Swansea West,WPC
+W07000048,Swansea East,WPC
+W07000049,Aberavon,WPC
+W07000050,Cardiff Central,WPC
+W07000051,Cardiff North,WPC
+W07000052,Rhondda,WPC
+W07000053,Torfaen,WPC
+W07000054,Monmouth,WPC
+W07000055,Newport East,WPC
+W07000056,Newport West,WPC
+W07000057,Arfon,WPC
+W07000058,Aberconwy,WPC
+W07000059,Clwyd West,WPC
+W07000060,Vale of Clwyd,WPC
+W07000061,Dwyfor Meirionnydd,WPC
+W07000062,Clwyd South,WPC
+W07000063,Montgomeryshire,WPC
+W07000064,Ceredigion,WPC
+W07000065,Preseli Pembrokeshire,WPC
+W07000066,Carmarthen West and South Pembrokeshire,WPC
+W07000067,Carmarthen East and Dinefwr,WPC
+W07000068,Brecon and Radnorshire,WPC
+W07000069,Neath,WPC
+W07000070,Cynon Valley,WPC
+W07000071,Merthyr Tydfil and Rhymney,WPC
+W07000072,Blaenau Gwent,WPC
+W07000073,Bridgend,WPC
+W07000074,Ogmore,WPC
+W07000075,Pontypridd,WPC
+W07000076,Caerphilly,WPC
+W07000077,Islwyn,WPC
+W07000078,Vale of Glamorgan,WPC
+W07000079,Cardiff West,WPC
+W07000080,Cardiff South and Penarth,WPC
