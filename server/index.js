@@ -1,5 +1,46 @@
 const { db } = require("./db");
 const { ApolloServer, gql } = require('apollo-server');
+const DataLoader = require('dataloader');
+
+const placesQuery = `SELECT *, (
+    SELECT ARRAY(SELECT results.id FROM results WHERE results.place_id = places.id AND results.election_id = ANY(election_ids)) AS result_ids
+  )
+  FROM (
+    SELECT *, (
+      SELECT ARRAY(SELECT elections.id FROM elections WHERE elections.type = places.type) AS election_ids
+    )
+    FROM places
+  ) AS places`;
+
+const electionsQuery = `SELECT * FROM elections WHERE elections.id IN ($1:csv)`;
+const resultsQuery = `SELECT * FROM results WHERE results.id IN ($1:csv)`;
+
+const electionsLoader = new DataLoader(keys => {
+  return db.conn
+    .any(electionsQuery, [keys])
+    .then((data) => {
+      const lookup = data.reduce((acc, val) => ({...acc, [val.id]: val}), {});
+      return keys.map(id => (id in lookup) ? lookup[id] : null);
+    })
+    .catch((error) => {
+      console.error(error);
+      return [];
+    });
+});
+
+const resultsLoader = new DataLoader(keys => {
+  return db.conn
+    .any(resultsQuery, [keys])
+    .then((data) => {
+      const lookup = data.reduce((acc, val) => ({...acc, [val.id]: val}), {});
+      return keys.map(id => (id in lookup) ? lookup[id] : null);
+    })
+    .catch((error) => {
+      console.error(error);
+      return [];
+    });
+});
+
 
 const typeDefs = gql`
 
@@ -28,11 +69,13 @@ const typeDefs = gql`
   }
 `;
 
+
+
 const resolvers = {
   Query: {
     place: (parent, args, context, info) => {
       const { id } = args;
-      let query = "SELECT * FROM places"
+      let query = placesQuery
       let params = [];
       if (id !== undefined) {
         query += " WHERE places.id=$1";
@@ -49,28 +92,15 @@ const resolvers = {
   },
   Place: {
     elections: (parent, args, context, info) => {
-      const { type, id } = parent;
-      const query = "SELECT * FROM elections WHERE elections.type=$1";
-      return db.conn
-        .any(query, [type])
-        .then((data) => data.map(item => ({...item, placeID: id })))
-        .catch((error) => {
-          console.error(error);
-          return [];
-        });
+      const { election_ids, result_ids } = parent;
+      return election_ids.map(electionID => electionsLoader.load(electionID))
+        .map(item => item.then(data => ({...data, result_ids})));
     }
   },
   Election: {
     results: (parent, args, context, info) => {
-      const { id: electionID, placeID } = parent;
-      const query = "SELECT * FROM results WHERE results.election_id=$1 AND results.place_id=$2";
-      return db.conn
-        .any(query, [electionID, placeID])
-        .then((data) => data)
-        .catch((error) => {
-          console.error(error);
-          return [];
-        });
+      const { result_ids } = parent;
+      return result_ids.map(resultID => resultsLoader.load(resultID))
     }
   },
 };
