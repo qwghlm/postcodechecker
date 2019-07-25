@@ -1,83 +1,88 @@
 import React, { useState } from "react";
+import Autosuggest from 'react-autosuggest';
+
 import graphQL from "./lib/graphql";
+import { Constituency } from "./components"
 
-function ElectionResult({ first_name, surname, party, votes }) {
-  return <tr>
-    <td>{first_name} {surname}</td>
-    <td>{party}</td>
-    <td>{votes}</td>
-  </tr>;
-}
-
-function Election({ name, results }) {
-  return <React.Fragment>
-    <h6>{name}</h6>
-
-    <table>
-      <tbody>
-      { results.map((result, i) => <ElectionResult key={i} {...result} />)}
-      </tbody>
-    </table>
-
-  </React.Fragment>
-}
-
-function Constituency({ id, name, elections }) {
-  if (id === undefined) {
-    return <React.Fragment>
-      <p>Sorry, we could not find any data for that constituency</p>
-    </React.Fragment>
+const DETAIL_QUERY = `query GetPlaces($id: String!) {
+  place(id: $id) {
+    id
+    name
+    elections {
+      date
+      name
+      results {
+        party
+        surname
+        first_name
+        votes
+      }
+    }
   }
-  return (
-    <React.Fragment>
-      <h4>Information about {name}</h4>
+}`;
 
-      <p>Code: <strong>{id}</strong></p>
-
-      { elections.map((election, i) => <Election key={i} {...election} />)}
-
-    </React.Fragment>
-  );
-}
+const SEARCH_QUERY = `query SearchPlace($query: String!) {
+  search(query: $query) {
+    id
+    name
+  }
+}`;
 
 function App() {
-  const [constituency, setConstituency] = useState("E14000530");
-  const [constituencyData, setConstituencyData] = useState(undefined);
-  const [loading, setLoading] = useState(false);
-  const [disabled, setDisabled] = useState(constituency.length === 0);
 
-  const onChange = (e) => {
-    const { value } = e.currentTarget;
-    setConstituency(value);
-    setDisabled(value.length === 0);
+  const [suggestions, setSuggestions] = useState([]);
+  const [constituency, setConstituency] = useState("");
+  const [constituencyID, setConstituencyID] = useState(null);
+  const [constituencyData, setConstituencyData] = useState(undefined);
+
+  const [loading, setLoading] = useState(false);
+
+  const onChange = (e, { newValue }) => {
+    setConstituency(newValue);
+    if (e.type == "change" && constituencyID !== null) {
+      setConstituencyID(null)
+    }
   };
+
+  const onSuggestionSelected = (e, { suggestion }) => {
+    const { id } = suggestion;
+    setConstituencyID(id);
+  }
+
+  const onSuggestionsFetchRequested = ({ value }) => {
+    if (value.length < 3) {
+      return;
+    }
+    graphQL(SEARCH_QUERY, { query: value }).then((data) => {
+      const { search } = data;
+      setSuggestions(search);
+    })
+  }
+
+  const onSuggestionsClearRequested = () => {
+    setSuggestions([]);
+  }
+
+  const getSuggestionValue = ({name}) => name;
+  const renderSuggestion = ({name}) => <div>{name}</div>;
+
+  const renderInputComponent = inputProps => <input
+    type="text"
+    placeholder="Enter a constituency name"
+    name="constituency"
+    {...inputProps}
+  />
 
   const onSearchSubmit = (e) => {
     e.preventDefault();
-    const query = `query GetPlace($id: String!) {
-      place(id: $id) {
-        id
-        name
-        elections {
-          date
-          name
-          results {
-            party
-            surname
-            first_name
-            votes
-          }
-        }
-      }
-    }`;
     setLoading(true);
-    graphQL(query, { id: constituency }).then((data) => {
+    graphQL(DETAIL_QUERY, { id: constituencyID }).then((data) => {
       const { place } = data;
-      if (place.length === 0) {
+      if (!place) {
         setConstituencyData(null);
       }
       else {
-        setConstituencyData(place[0]);
+        setConstituencyData(place);
       }
       setLoading(false);
     });
@@ -88,21 +93,26 @@ function App() {
       <h1>Election result checker</h1>
 
       <p>
-        To find out more about a constituency, enter an ID below and click "Search"
+        To find out more about a constituency, enter a name below, select and click "Search"
       </p>
 
       <form action="#" className="col s12" onSubmit={onSearchSubmit}>
         <div className="input-field col s10">
-          <input
-            type="text"
-            placeholder="Enter a constituency ID"
-            name="constituency"
-            value={constituency}
-            onChange={onChange}
+
+          <Autosuggest
+            suggestions={suggestions}
+            onSuggestionsFetchRequested={onSuggestionsFetchRequested}
+            onSuggestionsClearRequested={onSuggestionsClearRequested}
+            onSuggestionSelected={onSuggestionSelected}
+            getSuggestionValue={getSuggestionValue}
+            renderSuggestion={renderSuggestion}
+            renderInputComponent={renderInputComponent}
+            inputProps={{ onChange, value: constituency }}
           />
+
         </div>
         <div className="input-field col s2">
-          <button className="btn" disabled={disabled}>
+          <button className="btn" disabled={constituencyID == null}>
             {loading ? (
               <i className="material-icons">hourglass_empty</i>
             ) : (
