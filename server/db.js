@@ -1,6 +1,17 @@
 // Database setup
 require("dotenv").config();
-const pgp = require("pg-promise")();
+
+// Debug code for the console
+const initOptions = {
+  query(e) {
+    console.log('QUERY:', e.query);
+  },
+  receive(data, { duration }, e) {
+    console.log(`Executed in ${duration}ms`);
+  }
+};
+
+const pgp = require("pg-promise")(initOptions);
 
 const username = process.env.DB_USERNAME;
 const password = process.env.DB_PASSWORD;
