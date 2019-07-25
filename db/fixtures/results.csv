@@ -1,0 +1,3305 @@
+election_id,place_id,party,surname,first_name,votes
+1,E14000530,Green Party,WALLACE,Donna Maria,1090
+1,E14000530,UKIP,SWALES,John Roy,1796
+1,E14000530,Liberal Democrats,HILLIAR,Alan Richard,3637
+1,E14000530,Labour,PUFFETT,Gary John,15477
+1,E14000530,Conservative,DOCHERTY,Leo,26950
+1,E14000531,MRLP,BEECH,Mark William,565
+1,E14000531,Liberal Democrats,GARRETT,Ian Anthony George,1343
+1,E14000531,Labour,FISHER,John Gary,12010
+1,E14000531,Conservative,MORTON,Wendy,26317
+1,E14000532,Liberal Party,TAYLOR,Neil,299
+1,E14000532,Green Party,COGGINS,Gerealdine,1000
+1,E14000532,Liberal Democrats,BROPHY,Jane,4051
+1,E14000532,Labour,WESTERN,Andrew,20507
+1,E14000532,Conservative,BRADY,Graham,26933
+1,E14000533,Independent,BAMFORD,Daniel Joseph,551
+1,E14000533,Green Party,MCGUINNESS,Matthew,650
+1,E14000533,Liberal Democrats,SMITH,Catherine Mary,1100
+1,E14000533,Labour,DAWSON,James Clifford Hedley,17605
+1,E14000533,Conservative,MILLS,Nigel John,25905
+1,E14000534,UKIP,WALLACE,John Richard,1668
+1,E14000534,Green Party,PRIOR,Johanna,2542
+1,E14000534,Liberal Democrats,KAPADIA,Shweta,4783
+1,E14000534,Labour,FIFE,Caroline Joan,13690
+1,E14000534,Conservative,HERBERT,Nick,37573
+1,E14000535,Green Party,RANGI,Arranjit Singh,398
+1,E14000535,Liberal Democrats,CHARLESWORTH,Robert Andrew,969
+1,E14000535,UKIP,YOUNG,Raymond,1885
+1,E14000535,Ashfield,TURNER,Gail,4612
+1,E14000535,Conservative,HARPER,Anthony,20844
+1,E14000535,Labour,DE PIERO,Gloria,21285
+1,E14000536,Green Party,ROSSI,Amanda,1402
+1,E14000536,UKIP,O'BRIAN,Gerald Michael,2218
+1,E14000536,Liberal Democrats,GEE-TURNER,Adrian John,3101
+1,E14000536,Labour,GATHERN,Sally Ann,17840
+1,E14000536,Conservative,GREEN,Damian Howard,35318
+1,E14000537,Green Party,HUNTER-ROSSALL,Anderw David,534
+1,E14000537,Liberal Democrats,HICKS,Carly May,646
+1,E14000537,UKIP,JACKSON,Maurice,1878
+1,E14000537,Conservative,RANKIN,Jack Michael,12710
+1,E14000537,Labour,RAYNER,Angela,24005
+1,E14000538,Independent,MICHAEL,	Kyle Arron Paul,620
+1,E14000538,Green Party,SIMPSON ,	Coral Rose Kathleen,1237
+1,E14000538,UKIP,SRAO ,	Vijay Singh,1296
+1,E14000538,Liberal Democrats,LAMBERT,	Steven Michael,5660
+1,E14000538,Labour,BATEMAN,	Mark Trevor,17657
+1,E14000538,Conservative,LIDINGTON,	Dav Roy,32313
+1,E14000539,Independent,EDWARDS,Roseanne,927
+1,E14000539,Green Party,MIDDLETON,Ian Michael,1225
+1,E14000539,UKIP,BIRD,Dickie,1581
+1,E14000539,Liberal Democrats,HOWSON,John Orrell,3452
+1,E14000539,Labour,WOODCOCK,Sean Lee,20989
+1,E14000539,Conservative,PRENTIS,Victoria Mary Boswell,33388
+1,E14000540,Independent,FALVEY,Noel,295
+1,E14000540,Liberal Democrats,PEARCE,Pauline,599
+1,E14000540,Green Party,BUTTERFIELD,Shannon,724
+1,E14000540,UKIP,GRAVETT,Roger Edwin,3031
+1,E14000540,Conservative,TALATI,Minesh,10711
+1,E14000540,Labour,HODGE,Margaret Eve,32319
+1,E14000541,English Democrats,MORRIS,Stephen,211
+1,E14000541,Liberal Democrats,RIDGWAY,John Anthony David,549
+1,E14000541,Green Party,TROTMAN,Richard Thomas James,570
+1,E14000541,UKIP,FELTON,Gavin,3339
+1,E14000541,Conservative,FORD,Amanda Jayne,9436
+1,E14000541,Labour,JARVIS,Daniel Owen,24982
+1,E14000542,English Democrats,RIDDIOUGH,Kevin David,287
+1,E14000542,Liberal Democrats,TURNER,Nicola Jane,750
+1,E14000542,Yorkshire,DEVOY,Antony John,1215
+1,E14000542,UKIP,DALTON,James,3247
+1,E14000542,Conservative,LLOYD,Andrew Paul,10997
+1,E14000542,Labour,PEACOCK,Stephanie Louise,24280
+1,E14000543,Green Party,O�HARA,Robert  (Known As Rob),375
+1,E14000543,UKIP,PIPER,Alan Nigel,962
+1,E14000543,Liberal Democrats,BIRCHALL,Loraine,1278
+1,E14000543,Conservative,FELL,Simon Richard James,22383
+1,E14000543,Labour,WOODCOCK,John Zak,22592
+1,E14000544,Liberal Democrats,HARRISON,Antonia Michelle,1548
+1,E14000544,UKIP,HUGHES,Tina Rose,2008
+1,E14000544,Labour,BLOCK,Kayte Reeta,13981
+1,E14000544,Conservative,BARON,John Charles,27381
+1,E14000545,LP,NEVILLE,Scott,213
+1,E14000545,Green Party,WINTER,Richard Simon,1106
+1,E14000545,UKIP,STONE,Alan Harvey,1681
+1,E14000545,Liberal Democrats,SHAW,John Daniel,3406
+1,E14000545,Labour,BRIDGEMAN,Terry,20044
+1,E14000545,Conservative,MILLER,Maria Frances Lewis,29510
+1,E14000546,Independent,TURNER,Nigel,1014
+1,E14000546,Liberal Democrats,DUVEEN,Leon Maurice,1154
+1,E14000546,Conservative,SIMPSON,Annette,22615
+1,E14000546,Labour,MANN,John,27467
+1,E14000547,Green Party,FIELD,Eleanor Rosemary,1126
+1,E14000547,Labour,RAYMENT,Joseph Michael,7279
+1,E14000547,Conservative,HOWLETT,Benjamin John,17742
+1,E14000547,Liberal Democrats,HOBHOUSE,Wera Benedicta,23436
+1,E14000548,Independent,HANIF,Mohammed Kasif,58
+1,E14000548,Green Party,FREEMAN,Alan John,695
+1,E14000548,Independent,LUKIC,Aleks,1076
+1,E14000548,Liberal Democrats,LAWSON,John Craig,1224
+1,E14000548,Conservative,MYATT,Ann Elizabeth,20883
+1,E14000548,Labour,BRABIN,Tracy Lynn,29844
+1,E14000549,SP,LAMBERT,Daniel Peter,32
+1,E14000549,UKIP,POWER,Eugene,357
+1,E14000549,Green Party,DAVIS,Lois Elaine,866
+1,E14000549,Independent,COGHLAN,Christopher Austin Francis,1234
+1,E14000549,Liberal Democrats,DAVIS,Richard Adam,4401
+1,E14000549,Conservative,ELLISON,Jane Elizabeth,22876
+1,E14000549,Labour,DE CORDOVA,Marsha Chantol,25292
+1,E14000550,Green Party,SECKER,Russell Justin Robert,1396
+1,E14000550,UKIP,SHEARME,John Edward,1609
+1,E14000550,Liberal Democrats,CHAPMAN,Peter Jeffrey,4448
+1,E14000550,Labour,ENGLISH,James Robert,12016
+1,E14000550,Conservative,GRIEVE,Dominic Charles Roberts,36559
+1,E14000551,Green Party,FABRICANT,Ruth,1380
+1,E14000551,Liberal Democrats,IRELAND,Julie Mary,4073
+1,E14000551,Labour,AHMAD,Marina Masuma Bin Kabir,15545
+1,E14000551,Conservative,STEWART,Bob,30632
+1,E14000552,Green Party,BYWATER,Lucy Clare�,1008
+1,E14000552,Liberal Democrats,VANN,Henry Paul,2837
+1,E14000552,Conservative,FULLER,Richard,21923
+1,E14000552,Labour,YASIN,Mohammad,22712
+1,E14000553,Independent,CLARKE,James Stuart,113
+1,E14000553,Green Party,TYSON,Jonathan William,639
+1,E14000553,UKIP,JONES,Elizabeth Eirwen,838
+1,E14000553,Conservative,BAILLIE,Siobhan Kathleen,7581
+1,E14000553,Liberal Democrats,HUGHES,Simon Henry Ward,18189
+1,E14000553,Labour,COYLE,Neil,31161
+1,E14000554,Green Party,STEWART,Thomas Leslie,787
+1,E14000554,Liberal Democrats,PORKSEN,Julien,8916
+1,E14000554,Labour,DICKINSON,Scott James,10364
+1,E14000554,Conservative,TEVELYAN,Anne-Marie Belinda,22145
+1,E14000555,UKIP,DE WULVERTON,Ian Roy,894
+1,E14000555,Green Party,POLSON,Alistair James,1516
+1,E14000555,Liberal Democrats,DYER,William Peter Henry,2982
+1,E14000555,Independent,MASROOR,Ajmal Hussain,3888
+1,E14000555,Conservative,CHIRICO,Charlotte Alice,7576
+1,E14000555,Labour,ALI,Rushanara,42969
+1,E14000556,Green Party,HOWARTH,Richard John,716
+1,E14000556,Yorkshire,WALTON,Lee Richard,1158
+1,E14000556,Liberal Democrats,HEALY,Denis,2808
+1,E14000556,Labour,BOAL,Johanna Rose,18457
+1,E14000556,Conservative,STUART,Graham Charles,32499
+1,E14000557,Green Party,KENT,Jonathan Christopher,1438
+1,E14000557,UKIP,BASTIN,Geoffrey Bernard,2006
+1,E14000557,Liberal Democrats,KEMP,Joel Peter,4485
+1,E14000557,Labour,BAYLISS,Christine Ann,14689
+1,E14000557,Conservative,MERRIMAN,Huw William,36854
+1,E14000558,BNP,FINCH,Peter Robert,290
+1,E14000558,Green Party,LOBO,Ivor James,601
+1,E14000558,Liberal Democrats,REYNOLDS,Simone,1201
+1,E14000558,UKIP,FERRO,Mike,1944
+1,E14000558,Labour,BORELLA,Stefano Paolo,16040
+1,E14000558,Conservative,EVENNETT,David Anthony,25113
+1,E14000559,Green Party,CLOUGH,Jayne Louise Stephanie,943
+1,E14000559,Liberal Democrats,BRAME,Allan John,1118
+1,E14000559,Conservative,GARDINER,Stewart Anthony,8044
+1,E14000559,Labour,FIELD,Frank,33558
+1,E14000560,ENU,RODGERS,Dick,155
+1,E14000560,Green Party,KIFF,Alice,562
+1,E14000560,Liberal Democrats,GREEN,Colin Francis,1564
+1,E14000560,Conservative,SQUIRE,Caroline,17207
+1,E14000560,Labour,GILL,Preet,24124
+1,E14000561,Green Party,LOVATT,James,610
+1,E14000561,Liberal Democrats,HOLTOM,Ann,750
+1,E14000561,Conservative,ALDEN,Robert James Cambray,14286
+1,E14000561,Labour,DROMEY,Jack,21571
+1,E14000562,Green Party,COX,Patrick,831
+1,E14000562,Liberal Democrats,EVANS,Jerry,3137
+1,E14000562,Conservative,RANGER,Reena,8199
+1,E14000562,Labour,GODSIFF,Roger Duncan,42143
+1,E14000563,Green Party,THOMAS,Clare,387
+1,E14000563,Liberal Democrats,BENNION,Phil,805
+1,E14000563,UKIP,KHAN,Mohammed Gultasab,1016
+1,E14000563,Conservative,REZA,Ahmereen,6580
+1,E14000563,Labour,BYRNE,Liam Dominic,37606
+1,E14000564,Green Party,DENNIS,Kefentse,533
+1,E14000564,Liberal Democrats,DARGUE,Lee James,1156
+1,E14000564,Conservative,BROWNING,Andrew Richard,5452
+1,E14000564,Labour,MAHMOOD,Shabana,34166
+1,E14000565,Green Party,MASTERS,Eleanor,864
+1,E14000565,Liberal Democrats,HARMER,Roger Kingdon,959
+1,E14000565,Conservative,POWELL-CHANDLER,Meg,18929
+1,E14000565,Labour,BURDEN,Richard Haines,23596
+1,E14000566,OBP,SINGH,Harjinder,99
+1,E14000566,Green Party,RANA,Vijay,591
+1,E14000566,SLP,BHATOE,Shangara Singh,592
+1,E14000566,Liberal Democrats,SINGH,Harjun,1080
+1,E14000566,Conservative,HODIVALA,Charlotte Cyrus,11726
+1,E14000566,Labour,MAHMOOD,Khalid,30109
+1,E14000567,Green Party,PRITCHARD,Julien,876
+1,E14000567,Liberal Democrats,RADCLIFFE,David Stephen,1644
+1,E14000567,Conservative,SHRUBSOLE,Sophie Olivia,15629
+1,E14000567,Labour,MCCABE,Steve,30836
+1,E14000568,Independent,NOWSHED,Abu,100
+1,E14000568,Green Party,GARGHAN,Christopher,280
+1,E14000568,UKIP,CLAYTON,Paul Stephen,1916
+1,E14000568,Liberal Democrats,HEMMING,John Alexander Melvin,7984
+1,E14000568,Conservative,AFZAL,Mohammed,8824
+1,E14000568,Labour,PHILLIPS,Jess,25398
+1,E14000569,BNP,WALKER,Adam,991
+1,E14000569,Liberal Democrats,MORRISSEY,Ciaran Joseph,1176
+1,E14000569,Conservative,ADAMS,Christopher Fraser,20306
+1,E14000569,Labour,GOODMAN,Helen Catherine,20808
+1,E14000570,Liberal Democrats,AHMED,Irfan,709
+1,E14000570,Independent,MILLER,Duncan Robert,878
+1,E14000570,Conservative,EASTWOOD,Robert John,12780
+1,E14000570,Labour,HOLLERN,Catherine Malloy,33148
+1,E14000571,CPA,AJOKU,Abi,174
+1,E14000571,Green Party,JONES,David,462
+1,E14000571,Liberal Democrats,GADSDEN,Charles Richard George,737
+1,E14000571,UKIP,POWER,Martin,1825
+1,E14000571,Conservative,GOSS,David Phillip,8657
+1,E14000571,Labour,STRINGER,Graham Eric,28258
+1,E14000572,Green Party,ROYLE,Duncan John,381
+1,E14000572,Liberal Democrats,CLOSE,Susan Jane,747
+1,E14000572,UKIP,WHITE,Paul Martin,1392
+1,E14000572,Labour,WEBB,Christopher Paul,18232
+1,E14000572,Conservative,MAYNARD,Paul Christopher,20255
+1,E14000573,Green Party,WARNOCK,John Peter,341
+1,E14000573,Liberal Democrats,GREENE,Bill,634
+1,E14000573,UKIP,MATTHEWS,Noel,1339
+1,E14000573,Conservative,ANTHONY,Peter,15058
+1,E14000573,Labour,MARSDEN,Gordon,17581
+1,E14000574,WWFN,MARSCHILD,Lisabela Zxywhiddm,81
+1,E14000574,LP,MARCHETTI,Michael David,114
+1,E14000574,Green Party,MCNALLY,Paul Martin,583
+1,E14000574,UKIP,TOLLEY,Raymond John,2459
+1,E14000574,Liberal Democrats,WALLACE,Jonathon Charles,4366
+1,E14000574,Conservative,SMITH,Thomas Rodger,13502
+1,E14000574,Labour,TWIST,Mary Elizabeth,26979
+1,E14000575,Green Party,FURNESS,Dawn,918
+1,E14000575,Liberal Democrats,REID,Jeff,1947
+1,E14000575,Conservative,LEVY,Ian,15855
+1,E14000575,Labour,CAMPBELL,Ronnie,23770
+1,E14000576,Green Party,BISHOP,Andrew Laurence,993
+1,E14000576,UKIP,LOWE,Charles Patrick,1861
+1,E14000576,Independent,SANDERSON,Paul David,2088
+1,E14000576,Liberal Democrats,OPPLER,Francis Richard James,3352
+1,E14000576,Labour,BUTCHER,Alan Terence,12782
+1,E14000576,Conservative,GIBB,Nicolas John,30276
+1,E14000577,Liberal Democrats,SHIPMAN,Ross,1372
+1,E14000577,UKIP,ROSE,Phillip Sanders,2129
+1,E14000577,Conservative,HARRISION,Helen Jane,18865
+1,E14000577,Labour,SKINNER,Dennis Edward,24153
+1,E14000578,Green Party,SPENCER,Elizabeth Rosemary Claire,357
+1,E14000578,Liberal Democrats,FOX,Warren Lee,1316
+1,E14000578,UKIP,LAMB,Harry,1567
+1,E14000578,Conservative,DALY,James Barry,19073
+1,E14000578,Labour,CRAUSBY,David Anthony,22870
+1,E14000579,Green Party,JOHNSON,Alan,537
+1,E14000579,Liberal Democrats,HARASIWKA,Franko,781
+1,E14000579,UKIP,ARMSTRONG,Jeffery Thomas,2779
+1,E14000579,Conservative,POCHIN,Sarah Joanne,12550
+1,E14000579,Labour,QURESHI,Yasmin,25676
+1,E14000580,Liberal Democrats,FORREST,Rebecca Ann,1485
+1,E14000580,UKIP,TIGHE,Martin,1587
+1,E14000580,Labour,HILLING,Julie Ann Doris,23523
+1,E14000580,Conservative,GREEN,Christopher James,24459
+1,E14000581,SLP,BRYAN,Kim,424
+1,E14000581,Green Party,GIBBON,Alison Moira,709
+1,E14000581,Liberal Democrats,NEWMAN,David Ian,837
+1,E14000581,Conservative,FIFIELD,Charles Grant,6059
+1,E14000581,Labour,DOWD,Peter,42259
+1,E14000582,Blue,GILBERT,Michael William,283
+1,E14000582,Green Party,PERCIVAL,Vicky Patricia,547
+1,E14000582,Liberal Democrats,SMITH,Philip,771
+1,E14000582,UKIP,NUTTALL,Paul Andrew,3308
+1,E14000582,Labour,KENNY,Paul Robert,10699
+1,E14000582,Conservative,WARMAN,Matthew Robert,27271
+1,E14000583,Green Party,GREGG,Micheael Roy,1047
+1,E14000583,Liberal Democrats,MULLANEY,Michael Timothy,9744
+1,E14000583,Labour,KEALEY,Christopher J,13513
+1,E14000583,Conservative,TREDINNICK,David Arthur Stephen,31864
+1,E14000584,Independent,WILSON,Kieron Edward ,304
+1,E14000584,Green Party,KEDDIE ,Alasdair ,1236
+1,E14000584,UKIP,HUGHES,David ,1405
+1,E14000584,Liberal Democrats,NICHOLAS ,Jon Martin ,3168
+1,E14000584,Labour,SEMPLE,Mel ,17284
+1,E14000584,Conservative,ELLWOOD,Tobias Martin ,25221
+1,E14000585,Pirates,HALSEY,Jason ,418
+1,E14000585,Green Party,BULL,Simon Richard George ,1247
+1,E14000585,Liberal Democrats,DUNN,Phil ,2929
+1,E14000585,Labour,STOKES,David ,16101
+1,E14000585,Conservative,BURNS,Conor ,23812
+1,E14000586,Independent,BARRETO,Olivio,437
+1,E14000586,UKIP,AMOS,Len,1521
+1,E14000586,Liberal Democrats,SMITH,Patrick Robert,4186
+1,E14000586,Labour,BIDWELL,Paul Steven,16866
+1,E14000586,Conservative,LEE,Phillip James,32882
+1,E14000587,Green Party,STANFORD,Andrew John,289
+1,E14000587,BfB,PARKINS,Paul Graeme,420
+1,E14000587,Liberal Democrats,JEWELL,Mark George,843
+1,E14000587,UKIP,BARRAS,Jonathan Daniel Stewart,1372
+1,E14000587,Independent,WARD,David,3576
+1,E14000587,Conservative,TRAFFORD,Mark Russell,9291
+1,E14000587,Labour,HUSSAIN,Imran,29831
+1,E14000588,Green Party,PARKINSON,Darren James,370
+1,E14000588,English Democrats,MUCHEWICZ,Therese,377
+1,E14000588,Liberal Democrats,THOMAS,Stuart David,516
+1,E14000588,UKIP,PLACE,Stephen Anthony,1758
+1,E14000588,Conservative,GRAHAM,Tanya Ilsa,15664
+1,E14000588,Labour,CUMMINS,Judith Mary,22364
+1,E14000589,Independent,SADIQ,Muhammad,54
+1,E14000589,Independent,HUSSAIN,Khadim,65
+1,E14000589,Green Party,HICKSON,Celia Ruth,481
+1,E14000589,Liberal Democrats,GRIFFITHS,Alun Owen,712
+1,E14000589,UKIP,HODGSON,Derrick John,885
+1,E14000589,Independent,YAQOOB,Salma,6345
+1,E14000589,Conservative,GRANT,George Peter Beaumont,7542
+1,E14000589,Labour,SHAH,Naseem Akhtar,29444
+1,E14000590,Green Party,PASHBY,Thomas James,916
+1,E14000590,UKIP,BINGLEY,Richard Audubon,1835
+1,E14000590,Liberal Democrats,TURNER,Peter John Russell,2251
+1,E14000590,Labour,FINCKEN,Malcolm John,14451
+1,E14000590,Conservative,CLEVERLY,James Spencer,32873
+1,E14000591,UKIP,NORTH,Janice Marion April,556
+1,E14000591,Green Party,HENDERSON,Shaka,802
+1,E14000591,Liberal Democrats,GEORGIOU,Anton,2519
+1,E14000591,Conservative,BHANSALI,Vikrant Rahoul,10211
+1,E14000591,Labour,BUTLER,Dawn Petula,38208
+1,E14000592,Independent,JEFFERS,Elcena,239
+1,E14000592,Green Party,LICHTEN,Michaela Mary Constance,660
+1,E14000592,Liberal Democrats,LORBER,Paul,1614
+1,E14000592,Conservative,JOGIA,Ameet,18435
+1,E14000592,Labour,GARDINER,Barry Strachan,35496
+1,E14000593,Liberal Democrats,BOURKE,Joseph Gerald,3083
+1,E14000593,Conservative,MACLEOD,Mary,23182
+1,E14000593,Labour,CADBURY,Ruth Margaret,35364
+1,E14000594,Independent,KOUSOULOU,Louca Antony,104
+1,E14000594,Green Party,JEATER,Paul Francis,915
+1,E14000594,UKIP,MCGOUGH,Michael Jack,1845
+1,E14000594,Liberal Democrats,CHILVERS,Karen Louise,4426
+1,E14000594,Labour,BARRETT,Gareth Paul,10809
+1,E14000594,Conservative,BURGHART,Michael Alex,34811
+1,E14000595,Green Party,POWELL,Kayleigh,1059
+1,E14000595,UKIP,SMEDLEY,Simon,2102
+1,E14000595,Liberal Democrats,KRAVIS,Marcus,6332
+1,E14000595,Labour,HINCKES,Wesley John,16663
+1,E14000595,Conservative,LIDDELL-GRAINGER,Ian,32111
+1,E14000596,Green Party,MONTEIRO DOS SANTOS PIRES,Isabel,550
+1,E14000596,Liberal Democrats,LONSDALE,Jerry,836
+1,E14000596,UKIP,JEFFREYS,David Michael,1596
+1,E14000596,Labour,SMITH,Terence Alexander Henry,14856
+1,E14000596,Conservative,PERCY,Andrew Theakstone,27219
+1,E14000597,Independent,HAZE ,Doktor ,212
+1,E14000597,Liberal Democrats,TESTER ,Emily Louise ,1457
+1,E14000597,Conservative,KIRBY ,Simon ,18835
+1,E14000597,Labour,RUSSELL-MOYLE ,Lloyd ,28703
+1,E14000598,Independent,YEOMANS ,Nick ,376
+1,E14000598,UKIP,BUCHANAN ,Ian Verdun ,630
+1,E14000598,Conservative,WARMAN ,Emma ,11082
+1,E14000598,Labour,CURTIS ,Solomon ,15450
+1,E14000598,Green Party,LUCAS ,Caroline ,30149
+1,E14000599,Green Party,FRANCIS,Lorraine Antoinette,1110
+1,E14000599,Liberal Democrats,LUCAS,Chris,1389
+1,E14000599,Conservative,CLARKE,Theo,17453
+1,E14000599,Labour,MCCARTHY,Kerry Gillian,30847
+1,E14000600,Green Party,BOUSA,Sharmila Elizabeth,1243
+1,E14000600,Liberal Democrats,DOWNIE,Celia Mary,2814
+1,E14000600,Conservative,LESLIE,Charlotte Ann,22639
+1,E14000600,Labour,JONES,Darren Paul,27400
+1,E14000601,Independent,LANGLEY,John,116
+1,E14000601,Green Party,DYER,Tony,1428
+1,E14000601,UKIP,KEALEY,Ian Edmund,1672
+1,E14000601,Liberal Democrats,NUTLAND,Benjamin Michael James,1821
+1,E14000601,Conservative,WESTON,Mark David Roscoe,16679
+1,E14000601,Labour,SMYTH,Karin Marguerite,32666
+1,E14000602,MFRP,RODGERS,Jodian,101
+1,E14000602,Liberal Democrats,WILLIAMS,Stephen Roy,5201
+1,E14000602,Green Party,SCOTT CATO,Molly,9216
+1,E14000602,Conservative,TALL,Annabel Emma Elizabeth,9877
+1,E14000602,Labour,DEBBONAIRE,Thangam Elizabeth Rachel,47213
+1,E14000603,Green Party,BOSWELL,Andrew Phillip,932
+1,E14000603,UKIP,MORELAND,David John,1594
+1,E14000603,Liberal Democrats,RILEY,Steve,4449
+1,E14000603,Labour,SIMPSON,Iain Edward,16590
+1,E14000603,Conservative,SIMPSON,Keith Robert,32406
+1,E14000604,Green Party,ROBERTSON,Roisin Therese Siobhan,1150
+1,E14000604,UKIP,JENNER,Emmett,1383
+1,E14000604,Liberal Democrats,WEBBER,Sam Dunning,3369
+1,E14000604,Labour,HYDE,Sara,15585
+1,E14000604,Conservative,NEILL,Robert James Macgillivray,25175
+1,E14000605,Green Party,ESPOSITO,Giovanni,1139
+1,E14000605,Liberal Democrats,LEWIS,Neil Christopher,2488
+1,E14000605,Labour,THOMPSON,Michael,16920
+1,E14000605,Conservative,JAVID,Sajid,33493
+1,E14000606,Green Party,EVANS,Tabitha Jane,848
+1,E14000606,Liberal Democrats,GRAHAM,Andy,1481
+1,E14000606,UKIP,FAULKNER,Tony,1918
+1,E14000606,Labour,NORGROVE,Selina Elizabeth,13723
+1,E14000606,Conservative,WALKER,Charles Ashley Rupert,29515
+1,E14000607,Green Party,MORTON,Patricia May,681
+1,E14000607,UKIP,LOI,Claude-Francois,1477
+1,E14000607,Liberal Democrats,HALLAM,Timothy Robert,2247
+1,E14000607,Labour,MARSHALL,Gregory,25120
+1,E14000607,Conservative,SOUBRY,Anna Mary,25983
+1,E14000608,UKIP,MAPLETOFT ,	Brian James,4168
+1,E14000608,Independent,RAVEN ,	Scott Darren,5638
+1,E14000608,Green Party,SHEPPARD ,	Michael John,8574
+1,E14000608,Speaker,BERCOW ,	John Simon,34299
+1,E14000609,Green Party,FISK,Laura,461
+1,E14000609,UKIP,COMMIS,Tom,2472
+1,E14000609,Liberal Democrats,BIRTWISTLE,Gordon,6046
+1,E14000609,Conservative,WHITE,Paul,12479
+1,E14000609,Labour,COOPER,Julie Elizabeth,18832
+1,E14000610,Green Party,HALES,Simon,824
+1,E14000610,Liberal Democrats,HARDWICK,Domonic,1262
+1,E14000610,Labour,MCKIERNAN,John,18889
+1,E14000610,Conservative,GRIFFITHS,Andrew,28936
+1,E14000611,Liberal Democrats,BAUM,Richard Leslie,912
+1,E14000611,Conservative,NUTTALL,David John,21308
+1,E14000611,Labour,FRITH,James Richard,25683
+1,E14000612,Independent,WRIGHT,Peter,244
+1,E14000612,Liberal Democrats,PAGE,Andrew James Billson,1065
+1,E14000612,UKIP,HENDERSON,Ian Christopher,1316
+1,E14000612,Conservative,LARGAN,Robert,21200
+1,E14000612,Labour,LEWIS,Ivan,27165
+1,E14000613,Independent,BYRNE,Liam,852
+1,E14000613,Green Party,GEAKE,Helen Mary,2596
+1,E14000613,Liberal Democrats,KROFANTY,Helen Wanda,3565
+1,E14000613,Labour,EDWARDS,William Paul,18353
+1,E14000613,Conservative,CHURCHILL,Johanna Peta,36794
+1,E14000614,Green Party,TURNER,Kieran Luke,631
+1,E14000614,Independent,HOLDEN,Robert ,1034
+1,E14000614,UKIP,ROGAN,Paul Graham,1466
+1,E14000614,Liberal Democrats,BATTYE,Janet Mary ,1952
+1,E14000614,Labour,FENTON GLYNN,Joshua (Knownas Josh),26181
+1,E14000614,Conservative,WHITTAKER,Craig,26790
+1,E14000615,WRP,AMINATA,Sellu,131
+1,E14000615,CPA,TOWEY,Raymond Martin,227
+1,E14000615,Green Party,MARGOLIES,Eleanor Phoebe,1627
+1,E14000615,Liberal Democrats,BUKOLA,Michael Adewale,3413
+1,E14000615,Conservative,SPENCER,Benjamin Walter Jack,7349
+1,E14000615,Labour,HARMAN,Harriet Ruth,44665
+1,E14000616,Green Party,GARBETT,Geoff,1052
+1,E14000616,Liberal Democrats,WILLIAMS,Geoff,2979
+1,E14000616,Labour,WINTER,Graham Robert,21424
+1,E14000616,Conservative,EUSTICE,Charles George,23001
+1,E14000617,RDP,GARRET,Kieth Alexander,133
+1,E14000617,Green Party,TUCKWOOD,Stuart James,1265
+1,E14000617,Conservative,HAYWARD,John,9133
+1,E14000617,Liberal Democrats,HUPPERT,Julian Leon,16371
+1,E14000617,Labour,ZEICHNER,Daniel,29032
+1,E14000618,Liberal Democrats,GREEN,Nathaniel Jacob,794
+1,E14000618,Green Party,WOODHEAD,Paul Edward,815
+1,E14000618,UKIP,ALLEN,Paul Gregory,2018
+1,E14000618,Labour,DADGE,Paul Andrew,17927
+1,E14000618,Conservative,MILLING,Amanda Anne,26318
+1,E14000619,Green Party,STANTON,Henry,1282
+1,E14000619,Liberal Democrats,FLANAGAN,James Derek,4561
+1,E14000619,Conservative,BRAZIER,Julian,25385
+1,E14000619,Labour,DUFFIELD,Rosie,25572
+1,E14000620,Liberal Democrats,THORNTON,Peter Carlyle,1256
+1,E14000620,UKIP,MILLS,Fiona Rachel,1455
+1,E14000620,Labour,ALCROFT,Ruth Elizabeth,18873
+1,E14000620,Conservative,STEVESON,Andrew John,21472
+1,E14000621,CPA,DICKENSON,Ashley,189
+1,E14000621,Independent,MATTEY,Nick,434
+1,E14000621,Green Party,KHAN,Shasha,501
+1,E14000621,Labour,IBRAHIM,Emina,9360
+1,E14000621,Conservative,MAXWELL SCOTT,Matthew Joseph,19450
+1,E14000621,Liberal Democrats,BRAKE,Tom,20819
+1,E14000622,Liberal Democrats,HOLDER,Tom,1049
+1,E14000622,UKIP,KURTEN,David Michael,2381
+1,E14000622,Labour,COOKE,Joseph Patrick,11204
+1,E14000622,Conservative,HARRISON,Rebecca Elizabeth Scott,30076
+1,E14000623,The Liberals,KNIGHT,Llyod Andrew Mark William,470
+1,E14000623,NHAP,DEAN,John William,871
+1,E14000623,UKIP,MATTHEWS,Tim,1326
+1,E14000623,Green Party,WILLIAMSON,Andy,1531
+1,E14000623,Liberal Democrats,WHITE,Alex James,6770
+1,E14000623,Labour,ROBILLARD WEBB,Lisa Collette,15598
+1,E14000623,Conservative,STRIDE,Mel,31278
+1,E14000624,UKIP,SEARLE,Stephan Anthony,1635
+1,E14000624,Green Party,SCOTT,Regan John,1659
+1,E14000624,Liberal Democrats,VAN DE WEYER,Aidan,2431
+1,E14000624,Labour,HUGHES,Elizabeth Patricia,16807
+1,E14000624,Conservative,POULTER,Dr Dan,33992
+1,E14000625,BNP,DENHAM,Stephen Joseph,322
+1,E14000625,Green Party,COX,Nicholas David,1036
+1,E14000625,UKIP,CONNOR,Victoria Jayne,1471
+1,E14000625,Liberal Democrats,SANSOME,Simon,2052
+1,E14000625,Labour,KELLY-WALSH,Sean Gerard,16977
+1,E14000625,Conservative,ARGAR,Edward John Comport,33318
+1,E14000626,CPA,GIBSON,John Wesley Julian Lorenzo ,260
+1,E14000626,Green Party,HYDE,Bernard Edward ,573
+1,E14000626,Liberal Democrats,QUINTON,Thomas Henry Alexander ,1116
+1,E14000626,UKIP,BUSHILL,Nicole ,2225
+1,E14000626,Labour,MAPLE,Vince ,15129
+1,E14000626,Conservative,CROUCH,Tracey Elizabeth Anne ,25587
+1,E14000627,Labour,MILLER,Martin,10417
+1,E14000627,Liberal Democrats,HUNTER,Mark James,19824
+1,E14000627,Conservative,ROBINSON,Mary,24331
+1,E14000628,Green Party,HOSSAIN,Reza,821
+1,E14000628,UKIP,CARTER,Nigel,1645
+1,E14000628,Liberal Democrats,ROBINSON,Stephen John,6916
+1,E14000628,Labour,VINCE,Chris,16953
+1,E14000628,Conservative,FORD,Vicky,30525
+1,E14000629,UKIP,SETON-MARSDEN,Alasdair,524
+1,E14000629,Green Party,CASHMORE,William John,807
+1,E14000629,Liberal Democrats,ROWNTREE,Louise Sarah Anne,4627
+1,E14000629,Labour,DEATH,Alan Colin,13991
+1,E14000629,Conservative,HANDS,Gregory William,22179
+1,E14000630,Green Party,VAN COEVORDEN,Adam Paul,943
+1,E14000630,Labour,WHITE,Kieth,5408
+1,E14000630,Liberal Democrats,HORWOOD,Martin Charles,24046
+1,E14000630,Conservative,CHALK,Alex,26615
+1,E14000631,UKIP,MEACOCK,David George,1525
+1,E14000631,Green Party,BOOTH,Alan John Gray,1660
+1,E14000631,Liberal Democrats,JONES,Peter Maxwell,7179
+1,E14000631,Labour,DLUZEWSKA,Nina Clair,11374
+1,E14000631,Conservative,GILLIAN,Cheryl Elise Kendall,33514
+1,E14000632,Green Party,WADSWORTH,David John,777
+1,E14000632,UKIP,BENT,Stuart Flintoff,1611
+1,E14000632,Liberal Democrats,SNOWDON,Tom,2612
+1,E14000632,Conservative,PITFIELD,Spencer Simpson,16661
+1,E14000632,Labour,PERKINS,Matthew Toby,26266
+1,E14000633,Patria,EMERSON,Andrew,84
+1,E14000633,UKIP,MONCREIFF,Andrew Malcolm,1650
+1,E14000633,Green Party,BARRIE,Heather Margaret,1992
+1,E14000633,Liberal Democrats,BROWN,Jonathan,6749
+1,E14000633,Labour,FARWELL,Mark Andrew,13411
+1,E14000633,Conservative,KEEGAN,Gillian,36032
+1,E14000634,Green Party,KING,Sinead Aoife,1204
+1,E14000634,Liberal Democrats,UNGER,Deborah Clare,2043
+1,E14000634,Labour,MAHMOOD,Bilal,20638
+1,E14000634,Conservative,DUNCAN SMITH,Iain,23076
+1,E14000635,Labour,NEWMAN,Andrew David,11236
+1,E14000635,Liberal Democrats,BELCHER,Helen Clare,14637
+1,E14000635,Conservative,DONELAN,Michelle,31267
+1,E14000636,Green Party,FLETCHER,Phil,1406
+1,E14000636,Liberal Democrats,RAY,Marisha,3012
+1,E14000636,Labour,WHYSALL,Emma,25326
+1,E14000636,Conservative,VILLIERS,Theresa,25679
+1,E14000637,Green Party,LAGEARD,Rpeter Dino,530
+1,E14000637,Liberal Democrats,FENN,Stephen John,1126
+1,E14000637,Conservative,MOON,Caroline Jane,23233
+1,E14000637,Labour,HOYLE,Lindsay Harvey,30745
+1,E14000638,Green Party,RIGBY,Christopher James,1325
+1,E14000638,Liberal Democrats,COX,Michael Francis,4020
+1,E14000638,Labour,CANAVAN,Patrick,10059
+1,E14000638,Conservative,CHOPE,Christopher Robert,35230
+1,E14000639,YPP,WEENEN,Benjamin David,43
+1,E14000639,Independent,THE MAHARAJA OF KASHMIR,Ankil Love,59
+1,E14000639,Independent,LORD,Tim,173
+1,E14000639,UKIP,BHATTI,Anil,426
+1,E14000639,Green Party,MCNALLY,Lawrence Francis,821
+1,E14000639,Liberal Democrats,FOX,Bridget Caroline,4270
+1,E14000639,Labour,DOGUS,Ibrahim,14857
+1,E14000639,Conservative,FIELD,Mark Christopher,18005
+1,E14000640,Liberal Democrats,JEWKES,Lizzie,1551
+1,E14000640,Conservative,GALLAGHER,Will,22847
+1,E14000640,Labour,MATHESON,Chris,32023
+1,E14000641,YPP,COLLINGS,Jonathan Charles,45
+1,E14000641,Independent,CLARK,James Christopher,399
+1,E14000641,Green Party,ELMER,Jonathan,797
+1,E14000641,UKIP,BINT,Malcolm David,1116
+1,E14000641,Liberal Democrats,HOPGOOD,Amanda Jayne,4787
+1,E14000641,Conservative,LAWRIE,Richard Marshall Alexander Robert,14408
+1,E14000641,Labour,BLACKMAN-WOODS,Roberta Carol,26772
+1,E14000642,Independent,MARTIN,Nicholas Keith,210
+1,E14000642,EDP,TILBROOK,Robin Charles William,289
+1,E14000642,Independent,SHEARER,Caroline Amanda,449
+1,E14000642,Green Party,SOUTHALL,Christopher,719
+1,E14000642,Liberal Democrats,GRACE,David Aubertin,887
+1,E14000642,UKIP,OAKLEY,Paul James,3357
+1,E14000642,Labour,OSBEN,Natasha Coleen,11203
+1,E14000642,Conservative,WATLING,Giles Francis,27031
+1,E14000643,Green Party,EMMERSON,Llyod Layton,470
+1,E14000643,Liberal Democrats,HOROBIN,Roy,1110
+1,E14000643,UKIP,BLAKE,Tony,2022
+1,E14000643,Labour,KEITH,Peter John,16921
+1,E14000643,Conservative,VICKERS,Martin John,27321
+1,E14000644,CPA,RENNIE,Robin Calder,177
+1,E14000644,Green Party,GOACHER,Mark George,828
+1,E14000644,Liberal Democrats,RUSSELL,Robert Edward (Bob),9087
+1,E14000644,Labour,YOUNG,Timothy Jon,18888
+1,E14000644,Conservative,QUINCE,William James (Will),24565
+1,E14000645,Independent,SADIO,Patricia Fiona,313
+1,E14000645,Green Party,KING,Sonia Grenfell,892
+1,E14000645,Liberal Democrats,BURKE,Cahal,2494
+1,E14000645,Conservative,MCCARTNEY,Jason Alexander,27903
+1,E14000645,Labour,WALKER,Thelma Doris,28818
+1,E14000646,Green Party,HEATH,Alexander,999
+1,E14000646,UKIP,DAVIES,Mark Falcon,1289
+1,E14000646,Liberal Democrats,HIRST,Peter John,2902
+1,E14000646,Labour,CORCORAN,Sam,19211
+1,E14000646,Conservative,BRUCE,Fiona Claire,31830
+1,E14000647,UKIP,CROSSMAN,Herbert Winford,1094
+1,E14000647,Liberal Democrats,HANSON,Rebecca Charlotte,1404
+1,E14000647,Labour,TROUGHTON,Gillian Ruth,19367
+1,E14000647,Conservative,HARRISON,Trudy Lynne,21062
+1,E14000648,Green Party,SCRUTTON,Steven,579
+1,E14000648,UKIP,WATTS,Sam,1495
+1,E14000648,Liberal Democrats,STANBRA,Christopher Charles,1545
+1,E14000648,Labour,MILLER,Bethany Marie,26844
+1,E14000648,Conservative,PURSGLOVE,Thomas Christopher John,29534
+1,E14000649,Independent,MAHMOOD,Afzal,81
+1,E14000649,Green Party,HANDLEY,Matthew Stephen,502
+1,E14000649,Liberal Democrats,FIELD,Russell David,1157
+1,E14000649,UKIP,TAGGAR,Avtar,1350
+1,E14000649,Conservative,MAYER,Timothy James,13919
+1,E14000649,Labour,FLETCHER,Colleen Margaret,29499
+1,E14000650,Green Party,GRAY,Stephen Robert George,666
+1,E14000650,Independent,NORRIS,Ciar�n Michael Thomas,1164
+1,E14000650,Liberal Democrats,HILTON,Andrew John,1286
+1,E14000650,UKIP,GEE,Michael Stanley Mark Simon,1525
+1,E14000650,Conservative,KOTECHA,Resham,18314
+1,E14000650,Labour,ROBINSON,Geoffrey,26894
+1,E14000651,Independent,FINDLAY,Sandra,224
+1,E14000651,Green Party,CHALLENOR,Aimee,604
+1,E14000651,UKIP,ROGERS,Ian Arthur,1037
+1,E14000651,Liberal Democrats,JUDGE,Greg Paul,1343
+1,E14000651,Conservative,LOWE,Michelle Jane Maria,17927
+1,E14000651,Labour,CUNNINGHAM,James Dolan,25874
+1,E14000652,Liberal Democrats,SCEPANOVIC,Marko,1878
+1,E14000652,Labour,LUNNON,Timothy George,22969
+1,E14000652,Conservative,SMITH,Henry Edward Millar,25426
+1,E14000653,Liberal Democrats,CROWTHER,David,1334
+1,E14000653,UKIP,STANLEY,Michael Frank,1885
+1,E14000653,Conservative,TIMPSON,Edward,25880
+1,E14000653,Labour,SMITH,Laura,25928
+1,E14000654,Independent,LOCKE,Don,71
+1,E14000654,CPA,BOADU,John,177
+1,E14000654,Green Party,HAGUE,Tracey Jo,626
+1,E14000654,UKIP,STAVELEY,Peter,1040
+1,E14000654,Liberal Democrats,HICKSON,Gill,1083
+1,E14000654,Conservative,BARWELL,Gavin Laurence,24221
+1,E14000654,Labour,JONES,Sarah,29873
+1,E14000655,Independent,BERKS,Lee,170
+1,E14000655,UKIP,SWADLING,Michael,753
+1,E14000655,Green Party,UNDERWOOD,Peter,983
+1,E14000655,Liberal Democrats,PINDAR,Maltby John,1656
+1,E14000655,Conservative,KASUMU,Samuel Fisayo,11848
+1,E14000655,Labour,REED,Steve,44213
+1,E14000656,CPA,OMAMOGHO,David,213
+1,E14000656,UKIP,GARNER,Kathleen,1116
+1,E14000656,Green Party,SHELLEY,Catherine,1125
+1,E14000656,Liberal Democrats,JONES,Anna Clare,3541
+1,E14000656,Labour,BRATHWAITE,Jennifer Janet,21928
+1,E14000656,Conservative,PHILP,Chris,33334
+1,E14000657,CP,LONDON,Terence,85
+1,E14000657,BNP,STURDY,Paul Leslie William,239
+1,E14000657,Liberal Democrats,FRYER,Jonathan Harold,465
+1,E14000657,Green Party,BREADING,Denis Reginald,544
+1,E14000657,UKIP,HARRIS,Peter James,3246
+1,E14000657,Conservative,MARSON,Julie,18306
+1,E14000657,Labour,CRUDDAS,Jonathan,22958
+1,E14000658,Green Party,SNEDKER,Matthew Charles,524
+1,E14000658,Liberal Democrats,CURRY,Anne-Marie,1031
+1,E14000658,UKIP,BRACK,Kevin John,1180
+1,E14000658,Conservative,CUTHBERTSON,Peter Malcolm,19401
+1,E14000658,Labour,CHAPMAN,Jennifer,22681
+1,E14000659,Independent,ADEWUNMI,Ola Michael,211
+1,E14000659,Green Party,BLATCHFORD,Andrew Danny,807
+1,E14000659,Liberal Democrats,BEARD,Simon James,1428
+1,E14000659,UKIP,FRYER,Ben Robert,2544
+1,E14000659,Labour,KAINI,Bachchu Kallash,18024
+1,E14000659,Conservative,JOHNSON,Gareth Alam,31210
+1,E14000660,Green Party,WILDMAN,Jamie Paul,957
+1,E14000660,UKIP,GIBBINS,Ian Paul,1497
+1,E14000660,Liberal Democrats,SIMPSON,Andrew Stuart John,4015
+1,E14000660,Labour,RAMSEY,Aiden John,13730
+1,E14000660,Conservative,HEATON-HARRIS,Christopher,35464
+1,E14000661,MRLP,BLEASE,David John,217
+1,E14000661,Green Party,HAYES,Gareth,486
+1,E14000661,Liberal Democrats,ANKERS,Catherine Louise,853
+1,E14000661,UKIP,SEDDON,Joshua Gareth,1798
+1,E14000661,Conservative,KANA,Rozila,11084
+1,E14000661,Labour,GWYNNE,Andrew John,25161
+1,E14000662,UKIP,PIPER,William George Kitson,1181
+1,E14000662,Liberal Democrats,CARE,Lucy Helen,2262
+1,E14000662,Conservative,SOLLOWAY,Amanda Jane,21607
+1,E14000662,Labour,WILLIAMSON,Christopher,23622
+1,E14000663,Green Party,SLEEMAN,Ian Christopher,454
+1,E14000663,Liberal Democrats,NAITTA,Harjinder Singh,1229
+1,E14000663,UKIP,GRAVES,Alan Wayne,2011
+1,E14000663,Conservative,WILLIAMS,Evonne,15182
+1,E14000663,Labour,BECKETT,Margaret Mary,26430
+1,E14000664,Humanity,GREENWOOD,Robin,282
+1,E14000664,Green Party,BUCKLER,Matthew,1002
+1,E14000664,Liberal Democrats,HOLLYER,Andrew,3126
+1,E14000664,Labour,BOTHAM,Andy,15417
+1,E14000664,Conservative,MCLOUGHLIN,Patrick Allen,29744
+1,E14000665,Wessex,GUNTER,Jim,223
+1,E14000665,Green Party,DAWNAY,Emma Jane Clarissa,1606
+1,E14000665,UKIP,PAGE,Timothy Algernon Clement,1706
+1,E14000665,Liberal Democrats,COLEMAN,Christopher Francis,4706
+1,E14000665,Labour,SHAIKH,Imtiyaz,10608
+1,E14000665,Conservative,PERRY,Claire Louise,31744
+1,E14000666,Green Party,COPE,Simon John,1024
+1,E14000666,Liberal Democrats,HUSSAIN,Ednan,1214
+1,E14000666,Conservative,PRESCOTT,Beth,25493
+1,E14000666,Labour,SHERRIFF,Paula Michelle,28814
+1,E14000667,Liberal Democrats,SMITH,Anthony John,856
+1,E14000667,Yorkshire,MANION,Stevie Shaun,1599
+1,E14000667,Conservative,BELL,Aaron Stuart,19182
+1,E14000667,Labour,FLINT,Caroline Louise,24351
+1,E14000668,Liberal Democrats,BRELSFORD,Alison Elaine,973
+1,E14000668,Independent,TODD,Roland Eddie,1006
+1,E14000668,Yorkshire,WHITWOOD,Christopher Michael,1346
+1,E14000668,Conservative,HUNT,Thomas Patrick,14784
+1,E14000668,Labour,WINTERTON,Rosalie,24915
+1,E14000669,English Democrats,ALLEN,David Stewart,363
+1,E14000669,Independent,CALLADINE,Frank Lloyd,366
+1,E14000669,Liberal Democrats,ADAMSON,Robert Moray,706
+1,E14000669,Yorkshire,BRIDGES,Charles Terence John,741
+1,E14000669,UKIP,PARKINSON,Kim,2738
+1,E14000669,Conservative,ADOH,Shade,11687
+1,E14000669,Labour,MILIBAND,Edward Samuel,25711
+1,E14000670,Green Party,SAWBRIDGE,Rebecca Lois Madge,923
+1,E14000670,Liberal Democrats,DODD,Simon James,1336
+1,E14000670,UKIP,WAUCHOPE,Piers,1722
+1,E14000670,Labour,BLAIR,Stacey Burns,20774
+1,E14000670,Conservative,ELPHICKE,Brett Charles Anthony,27211
+1,E14000671,Green Party,NIXON,Andrew James,240
+1,E14000671,Liberal Democrats,FRANCE,Benjamin,368
+1,E14000671,UKIP,ETHERIDGE,William Milroy,2144
+1,E14000671,Conservative,JONES,Leslie,18068
+1,E14000671,Labour,AUSTIN,Ian,18090
+1,E14000672,Green Party,MAXWELL,Jennifer Anne,382
+1,E14000672,Liberal Democrats,BRAMALL,Jonathan Michael,625
+1,E14000672,UKIP,BOLTON,Mitchell,1791
+1,E14000672,Labour,MILLWARD,Natasha,13858
+1,E14000672,Conservative,WOOD,Michael Jon,21588
+1,E14000673,Independent,CHONG,Yen Lin,103
+1,E14000673,Independent,LAMBERT,Robin Andrew David,121
+1,E14000673,Green Party,NICHOLLS,Julian Rashid,1408
+1,E14000673,Liberal Democrats,KENT,Gail Louise,4475
+1,E14000673,Conservative,WOLF,Rachel Janet,10940
+1,E14000673,Labour,HAYES,Helen Elizabeth,39096
+1,E14000674,Liberal Democrats,BALL,Jon Timothy Ashby,3075
+1,E14000674,Conservative,MORRISSEY,Joy Inboden,19230
+1,E14000674,Labour,HUQ,Rupa Asha,33037
+1,E14000675,Green Party,HANS,Meena,743
+1,E14000675,UKIP,MCILVENNA,Peter John,921
+1,E14000675,Liberal Democrats,SANDERS,Humaira,1275
+1,E14000675,Conservative,GRANT,Isobel Lucy,14942
+1,E14000675,Labour,POUND ,Stephen Pelham,34635
+1,E14000676,WRP,THIARA,Arjinder Singh,362
+1,E14000676,UKIP,POYNTON,John Edmund,504
+1,E14000676,Green Party,WARD,Peter Mark,1037
+1,E14000676,Liberal Democrats,BAKHAI,Nigel,1892
+1,E14000676,Conservative,CONTI,Fabio,9630
+1,E14000676,Labour,SHARMA,Virendra Kumar,31720
+1,E14000677,Green Party,WARIN,Martin George,410
+1,E14000677,Liberal Democrats,HANCOCK,Tom David,460
+1,E14000677,UKIP,ROBERTS,Allyn Rhys,1727
+1,E14000677,North East,MCDONNELL,Susan,2355
+1,E14000677,Conservative,CAMPBELL,Barnabas William Erskine,8260
+1,E14000677,Labour,MORRIS,Grahame Mark,23152
+1,E14000678,Independent,VAL DAVIES,Michael D,128
+1,E14000678,Independent,FAITHFULL,Peter H,150
+1,E14000678,UKIP,GRAHAM,Brigitte,1203
+1,E14000678,Liberal Democrats,EDEN,Alison M,1468
+1,E14000678,Labour,ROSS,Jan,6857
+1,E14000678,Independent,WRIGHT,Claire L,21270
+1,E14000678,Conservative,SWIRE,Hugo,29306
+1,E14000679,Independent,RAHMAN,Mirza Zillur,130
+1,E14000679,Friends,AFZAL,Muhammad,311
+1,E14000679,Green Party,OTI-OBIHARA,Chidi Anthony,474
+1,E14000679,Liberal Democrats,WILLIAMS,Glanville Einstein,656
+1,E14000679,UKIP,OXLEY,Daniel Charles,697
+1,E14000679,Conservative,FINLAYSON,Kirsty Miranda,7241
+1,E14000679,Labour,TIMMS,Stephen Creswell,47124
+1,E14000680,The Justice & Anti-Corruption Party,JERRARD,Susan Christine,571
+1,E14000680,Green Party,KNIGHT,Richard Godfrey,1760
+1,E14000680,Liberal Democrats,ROBINSON,Richard Anthony,8403
+1,E14000680,Labour,DASGUPTA,Rohit Kumar,9411
+1,E14000680,Conservative,HINDS,Damian Patrick George,35263
+1,E14000681,Green Party,SOUTHWORTH,Benedict,1100
+1,E14000681,UKIP,WINDSOR,Helena Mary,2227
+1,E14000681,Independent,PARR,Andy,2973
+1,E14000681,Liberal Democrats,LEE,David John,6197
+1,E14000681,Labour,TAILOR,Hitesh,11396
+1,E14000681,Conservative,GYIMAH,Sam,35310
+1,E14000682,Independent,LUTWYCHE,Andrew James,432
+1,E14000682,NHAP,WALKER,Carl John,575
+1,E14000682,Green Party,GROVES WILLIAMS,Leslie Christine,1273
+1,E14000682,UKIP,GLENNON,Michael Joseph,1444
+1,E14000682,Liberal Democrats,HENMAN,Oliver James,2523
+1,E14000682,Labour,COOK,Sophie Rose,20882
+1,E14000682,Conservative,LOUGHTON,Timothy Paul,25988
+1,E14000683,Green Party,JACKSON,Michael David,943
+1,E14000683,Yorkshire,NORMAN,Timothy Robert Ord,1015
+1,E14000683,UKIP,DENNIS,Andrew Philip,1986
+1,E14000683,Liberal Democrats,MINNS,Carl,2134
+1,E14000683,Labour,CLARK,Alan,16436
+1,E14000683,Conservative,KNIGHT,Greg,31442
+1,E14000684,Green Party,HOUGH,Alex,510
+1,E14000684,Labour,LAMBERT,Jake,4671
+1,E14000684,Conservative,ANSELL,Caroline Julie,25315
+1,E14000684,Liberal Democrats,LLOYD,Stephen Anthony Christopher,26924
+1,E14000685,Green Party,MELDRUM,Ronald Nicholas,750
+1,E14000685,UKIP,JONES,Malcolm,1477
+1,E14000685,Labour,PAYNE,Jillian Margaret,11454
+1,E14000685,Liberal Democrats,THORNTON,Michael Douglas,14710
+1,E14000685,Conservative,DAVIES,Miriam Jane Alice,28889
+1,E14000686,Pirates,HILL,Morgan Robert,179
+1,E14000686,Green Party,GREEN,Mark Richard,785
+1,E14000686,UKIP,BICKLEY,John Joseph,1109
+1,E14000686,Liberal Democrats,PRIESTNER,Ian Douglas,2804
+1,E14000686,Labour,REYNOLDS,Cathy,17250
+1,E14000686,Conservative,SANDBACH,Antoinette Geraldine,29192
+1,E14000687,Green Party,GILL,Benjamin James,633
+1,E14000687,Liberal Democrats,SCHMITZ,David Reuben,858
+1,E14000687,UKIP,SUSSMAN,Nigel James,860
+1,E14000687,Conservative,DANIELS,Gonul,10106
+1,E14000687,Labour,OSAMOR,Kate Ofunne,31221
+1,E14000688,Green Party,BAKER,Steven,342
+1,E14000688,UKIP,FRICKER,Fred,821
+1,E14000688,Liberal Democrats,GOUGH,Ed,892
+1,E14000688,Conservative,JONES,Nigel Graham,18747
+1,E14000688,Labour,MADDERS,Justin Piers Richard,30137
+1,E14000689,Green Party,BROWN,Dylan,995
+1,E14000689,Yorkshire,CLOVER,Matthew Barnaby,1042
+1,E14000689,Liberal Democrats,GOLTON,Stewart,2606
+1,E14000689,Labour,NAGLE,David Patrick,22547
+1,E14000689,Conservative,SHELBROOKE,Alec,32352
+1,E14000690,BNP,CLARKE,John James,738
+1,E14000690,Liberal Democrats,HALL?MATTHEWS,David Nicolas John,1457
+1,E14000690,Conservative,HARTLEY,Matt,18832
+1,E14000690,Labour,EFFORD,Clive Stanley,25128
+1,E14000691,Green Party,LINTON ,Bill ,574
+1,E14000691,UKIP,CAIRNS ,Deborah ,848
+1,E14000691,Liberal Democrats,DA COSTA ,Nicholas ,1036
+1,E14000691,Conservative,DE BOIS ,Nick ,17930
+1,E14000691,Labour,RYAN ,Joan Marie ,28177
+1,E14000692,Green Party,FLINT,David Christopher,780
+1,E14000692,Liberal Democrats,MORGAN,Pippa,1925
+1,E14000692,Conservative,BURROWES,David William,20634
+1,E14000692,Labour,CHARALAMBOUS,Bambos,24989
+1,E14000693,YPP,HALL,Thomas Bartholomew,110
+1,E14000693,Green Party,HEAP,Simon Alexander,1233
+1,E14000693,UKIP,O'FLYNN,Patrick James,1871
+1,E14000693,Liberal Democrats,WHITEHOUSE,Jonathan Matthew,2884
+1,E14000693,Labour,PRESTON,Liam Benjamin,13219
+1,E14000693,Conservative,LAING,Eleanor Fulton,31462
+1,E14000694,Green Party,BAKER,Janice,1714
+1,E14000694,Liberal Democrats,GEE,Stephen Mark,7401
+1,E14000694,Labour,MAYNE,Edward Owen,14838
+1,E14000694,Conservative,GRAYLING,Christopher Stephen,35313
+1,E14000695,Independent,DUNN,Roy,519
+1,E14000695,Green Party,HIERONS,Ralph Timothy,675
+1,E14000695,Liberal Democrats,GARNETT,Martin Charles,1243
+1,E14000695,Labour,ATKINSON,Catherine,21405
+1,E14000695,Conservative,THROUP,Maggie,25939
+1,E14000696,Independent,ODDIRI,Doro,80
+1,E14000696,CPA,OLODU,Temitope,243
+1,E14000696,Green Party,LETSAE,Claudine,507
+1,E14000696,Liberal Democrats,WADDINGTON,Simon Ian,750
+1,E14000696,UKIP,JOHNSON,Ronie Devere,1728
+1,E14000696,Conservative,BAXTER,Edward Donald Andrew,15571
+1,E14000696,Labour,PEARCE,Teresa,25585
+1,E14000697,Independent,REYNOLDS,Della,198
+1,E14000697,MRLP,BADGER,Baron,318
+1,E14000697,UKIP,IONS,David William,1034
+1,E14000697,Green Party,PALMER,Olivia Joy,1074
+1,E14000697,Liberal Democrats,DAVIS,Andrew,10374
+1,E14000697,Labour,HYLANDS,Lana Victoria,11773
+1,E14000697,Conservative,RAAB,Domonic Rennie,35071
+1,E14000698,Independent,BISHOP,Jonathon Edward,67
+1,E14000698,Independent,WEST,Jonathon Haddin,212
+1,E14000698,Green Party,LEVY,Joseph Jacques,1027
+1,E14000698,Liberal Democrats,NEWCOMBE,Alexandra Vanessa,1562
+1,E14000698,Conservative,TAGHDISSIAN,James,18219
+1,E14000698,Labour,BRADSHAW,Benjamin Peter James,34336
+1,E14000699,Green Party,GRINDEY,Miles,1302
+1,E14000699,UKIP,BLEWETT,Tony,1541
+1,E14000699,Liberal Democrats,WINNINGTON,Matthew Ray,3896
+1,E14000699,Labour,RANDALL,Matthew James,14360
+1,E14000699,Conservative,FERNANDES,Suella,35915
+1,E14000700,Green Party,GOULD,Alastair Brian,1431
+1,E14000700,UKIP,MCGIFFEN,Mark John,1702
+1,E14000700,Liberal Democrats,NAGHI,David Sandru,3249
+1,E14000700,Labour,DESMOND,Michael Barry,12977
+1,E14000700,Conservative,WHATELY,Helen Olivia Bicknell,30390
+1,E14000701,Green Party,FIRKINS,John Anthony,809
+1,E14000701,Liberal Democrats,MALIK,Hina,1387
+1,E14000701,UKIP,AGNEW,John Stuart,1510
+1,E14000701,Conservative,JASSAL,Samir,16859
+1,E14000701,Labour,MALHOTRA-SALUJA,Seema,32462
+1,E14000702,Green Party,WARNER,Diana Lewen,1162
+1,E14000702,Liberal Democrats,FIELDING,Eva,3052
+1,E14000702,Labour,RYLATT,Naomi,21149
+1,E14000702,Conservative,LOPRESTI,Jack,25339
+1,E14000703,UKIP,PRICE,Andrew,462
+1,E14000703,Green Party,WARD,Adele,919
+1,E14000703,Liberal Democrats,DAVIES,Jonathan,3463
+1,E14000703,Labour,NEWMARK,Jeremy,22942
+1,E14000703,Conservative,FREER,Mike,24599
+1,E14000704,Independent,SLADE,Naomi May,114
+1,E14000704,Independent,PLUMSTEAD,David,493
+1,E14000704,Green Party,WHYBROW,Martin Edward,2498
+1,E14000704,UKIP,PRIESTLEY,Stephen,2565
+1,E14000704,Liberal Democrats,BEAUMONT,Lynne,4222
+1,E14000704,Labour,DAVISON,Laura Frances,16786
+1,E14000704,Conservative,COLLINS,Damian,32197
+1,E14000705,Independent,BURRETT,Julian Marcus,570
+1,E14000705,UKIP,WARRENDER,Ernie,1237
+1,E14000705,Liberal Democrats,ELLARD,Janet Katherine Olive,2029
+1,E14000705,Labour,STAMMERS,Shaun,18594
+1,E14000705,Conservative,HARPER,Mark,28096
+1,E14000705,Green Party,GREENWOOD,James Carwithen,1241
+1,E14000706,Green Party,ROTHERY,Tina Louise,1263
+1,E14000706,Liberal Democrats,VAN MIERLO,Frederick Isaac,2341
+1,E14000706,Labour,SULLIVAN,Jerrod William,15529
+1,E14000706,Conservative,MENZIES,Mark Andrew,27334
+1,E14000707,Green Party,PEARSON,Victoria Elizabeth Jayne,1238
+1,E14000707,Liberal Democrats,ROLLINGS,Lesley Anne,3630
+1,E14000707,Labour,TITE,Catherine,14767
+1,E14000707,Conservative,LEIGH,Edward Julian Edgar,31790
+1,E14000708,Green Party,BROWN,Lawrence,750
+1,E14000708,Liberal Democrats,MARTIN,Anna Clare,1723
+1,E14000708,Conservative,MARSDEN,Adam Ernest,9450
+1,E14000708,Labour,EAGLE,Maria,41599
+1,E14000709,Green Party,REDFERN,Andrew James,611
+1,E14000709,Liberal Democrats,HINDLE,Frank,1709
+1,E14000709,UKIP,BELL,Mark Ronald,2281
+1,E14000709,Conservative,HANKINSON,Lauren Anne,10076
+1,E14000709,Labour,MEARNS,James Ian,27426
+1,E14000710,Green Party,CONNICK,Rebecca,515
+1,E14000710,Liberal Democrats,SWIFT,Robert Andrew,1052
+1,E14000710,UKIP,WATERS,Lee,1143
+1,E14000710,Conservative,ABBOTT,Carolyn,22139
+1,E14000710,Labour,COAKER,Vernon,26833
+1,E14000711,CPA,PEACOCK,Roger James ,127
+1,E14000711,Green Party,GREGORY,Clive Bryn Malcolm ,520
+1,E14000711,Liberal Democrats,CHAPLIN,Paul ,1372
+1,E14000711,UKIP,COOK,Martin Anthony ,2097
+1,E14000711,Labour,STAMP,Andy ,17661
+1,E14000711,Conservative,CHISHTI,Rehman ,27091
+1,E14000712,MRLP,RIDGEON,George,210
+1,E14000712,Green Party,HARTLEY,Gerald Owen,754
+1,E14000712,UKIP,WOOLF,Daniel Joseph,1495
+1,E14000712,Liberal Democrats,HILTON,Jeremy Eric,2716
+1,E14000712,Labour,KIRBY,Barry Peter,21688
+1,E14000712,Conservative,GRAHAM,Richard,27208
+1,E14000713,Independent,ROBERTS,Jeffery,256
+1,E14000713,Green Party,CASSIDY,Monica,1024
+1,E14000713,UKIP,PALMER,Chloe Marie,1790
+1,E14000713,Liberal Democrats,TENNENT,Bruce Roberts,2328
+1,E14000713,Labour,DURRANT,Alanedward James,13436
+1,E14000713,Conservative,DINENAGE,Caroline Julia,30647
+1,E14000714,Green Party,THACKRAY,Rebecca Jandrell,782
+1,E14000714,Independent,MAHMOOD,Tariq,860
+1,E14000714,UKIP,KING,Marietta Eve Neild,1745
+1,E14000714,Liberal Democrats,HILL,Anita Annabelle Dora,3120
+1,E14000714,Labour,FAIRBAIRN,Barrie Anthony,14996
+1,E14000714,Conservative,BOLES,Nicholas Edward Coleridge,35090
+1,E14000715,Independent,ROGAN,Michael Leo Patrick,195
+1,E14000715,Green Party,GILLIGAN,Marna Ellish,723
+1,E14000715,Liberal Democrats,WILLIS,James Martin,1210
+1,E14000715,UKIP,FEYISETAN,Emmanuel Korede,1742
+1,E14000715,Labour,GARFORD,Mandy,17890
+1,E14000715,Conservative,HOLLOWAY,Adam James Harold,27237
+1,E14000716,Independent,MCGILLIGAN-FELL,Christina Ann,394
+1,E14000716,Liberal Democrats,BEASANT,Steve,954
+1,E14000716,UKIP,HOOKEM,Mike,1648
+1,E14000716,Conservative,GIDEON,Jo,14980
+1,E14000716,Labour,ONN,Melaine,17545
+1,E14000717,Green Party,WOODS,Harry Lee (Known As Harry Lee Webb),563
+1,E14000717,Liberal Democrats,JOYCE,James Michael,987
+1,E14000717,UKIP,BLAIKLOCK,Catherine Anne,2767
+1,E14000717,Labour,SMITH-CLARE,Michael (Known As Mike),15928
+1,E14000717,Conservative,LEWIS,Brandon Kenneth,23901
+1,E14000718,Green Party,GARRUN,Daniel Harry,1605
+1,E14000718,Liberal Democrats,ADAMS,Chris,3785
+1,E14000718,Conservative,ATTFIELD,Caroline Louise,13501
+1,E14000718,Labour,PENNYCOOK,Matthew Thomas,34215
+1,E14000719,Independent,ESSESSI,Semi,57
+1,E14000719,Peace,MORRIS,John Hugh,205
+1,E14000719,Green Party,BRAY-PERRY,Mark Andrew,1152
+1,E14000719,Labour,SMITH,Howard Daniel,10545
+1,E14000719,Liberal Democrats,FRANKLIN,Zoe,13255
+1,E14000719,Conservative,MILTON,Anne Frances,30295
+1,E14000720,Friends,CORLIS-KHAN,Coraline Aisha,59
+1,E14000720,Independent,SPIELMANN,Abraham,203
+1,E14000720,AWP,HOMAN,Jon,222
+1,E14000720,Green Party,BINNIE-LUBBOCK,Alastair,2606
+1,E14000720,Liberal Democrats,RICHARDS,Joe,3817
+1,E14000720,Conservative,GRAY,Amy,7126
+1,E14000720,Labour,ABBOTT,Diane,42265
+1,E14000721,Independent,KALAMAZAD,Dale Shaka,29
+1,E14000721,Independent,SUGG,Hgo Michael,50
+1,E14000721,WRP,LEFF,Jonty,86
+1,E14000721,CPA,WATT,Angel,113
+1,E14000721,Independent,HIGGS,Russell Shaw,143
+1,E14000721,AWP,HUDSON,Vanessa Helen,226
+1,E14000721,Green Party,JOHNSON,Rebecca,1522
+1,E14000721,Liberal Democrats,RAVAL,Dave,3168
+1,E14000721,Conservative,PARKER,Luke,6043
+1,E14000721,Labour,HILLIER,Meg,43974
+1,E14000722,Independent,WELLER,Tim,183
+1,E14000722,Green Party,ROBERTSON,James Alan,440
+1,E14000722,Liberal Democrats,SCOTT,Jamie Christian,859
+1,E14000722,UKIP,HENLEY,Stuart Carl,2126
+1,E14000722,Labour,COOPER,Ian Gordon,17759
+1,E14000722,Conservative,MORRIS,James George,23012
+1,E14000723,Liberal Democrats,BAKER,James Douglas,1070
+1,E14000723,UKIP,WEEDON,Mark,1568
+1,E14000723,Conservative,PEARSON,Christopher James,20131
+1,E14000723,Labour,LYNCH,Holly Jamie,25507
+1,E14000724,Green Party,NEEDHAM,Carole Angela,711
+1,E14000724,Yorkshire,WALLIS,Diana Paulette,942
+1,E14000724,Liberal Democrats,NOLAN,David Patrick,2482
+1,E14000724,Labour,DEVANNEY,Hollie Katie,15950
+1,E14000724,Conservative,DAVIS,David Michael,31355
+1,E14000725,Independent,TURTON,Vic,309
+1,E14000725,Liberal Democrats,BATE,Ryan Stephen Robert,896
+1,E14000725,UKIP,REDICAN,Glyn,1488
+1,E14000725,Conservative,LLOYD,Matthew,10710
+1,E14000725,Labour,TWIGG,Derek,36115
+1,E14000726,Independent,HAUZAREE,Jagdeo,44
+1,E14000726,UKIP,BOVILL,Alfred John Shearer,507
+1,E14000726,Green Party,HORN,Alexander Anker,800
+1,E14000726,Liberal Democrats,ONSTAD,Joyce Wangui,2802
+1,E14000726,Conservative,DEWHIRST,Charles Alistar Geoffrey,14724
+1,E14000726,Labour,SLAUGHTER,Andrew Francis,33375
+1,E14000727,Independent,WEISS,Rainbow George,61
+1,E14000727,Independent,EASTERBROOK,Hugh Lawrence,136
+1,E14000727,Green Party,MANSOOK,John,742
+1,E14000727,Liberal Democrats,ALAN,Kirsty Roberta,4100
+1,E14000727,Conservative,LEYLAND,Claire Louise,18904
+1,E14000727,Labour,SIDDIQ,Tulip,34464
+1,E14000728,Green Party,WOODIWISS,Darren Neil,1110
+1,E14000728,UKIP,KHONG,Teck Keong,1361
+1,E14000728,Liberal Democrats,HAQ,Zuffar Iqbal,7286
+1,E14000728,Labour,THOMAS,Andrew Clive,17706
+1,E14000728,Conservative,O�BRIEN,Neil John,30135
+1,E14000729,Green Party,CLARE,Hannah Ellen,660
+1,E14000729,Liberal Democrats,SEEFF,Geoffrey Michael,970
+1,E14000729,UKIP,GOUGH,Mark Robert Edward,1787
+1,E14000729,Labour,WAITE,Phil,17199
+1,E14000729,Conservative,HALFON,Robert Hnery,24230
+1,E14000730,Independent,FRASER,Donald George,559
+1,E14000730,Labour,SEWARDS,Mark James,11395
+1,E14000730,Liberal Democrats,FLYNN,Helen Catherine,13309
+1,E14000730,Conservative,JONES,Andrew Hanson,31477
+1,E14000731,Green Party,WALLACE,Emma Jane,771
+1,E14000731,Liberal Democrats,BERNARD,Adam Simon,1573
+1,E14000731,Labour,SHAH,Navin,23372
+1,E14000731,Conservative,BLACKMAN,Robert John,25129
+1,E14000732,UKIP,ALAGARATNAM,Rathy,470
+1,E14000732,Green Party,LANGLEY,Rowan Nicholas Charles,652
+1,E14000732,Liberal Democrats,NOYCE,Christopher David,1267
+1,E14000732,Conservative,DAVID,Hannah Mindel,17326
+1,E14000732,Labour,THOMAS,Gareth,30640
+1,E14000733,Liberal Democrats,HAGON,Andrew Michael,746
+1,E14000733,UKIP,BROUGHTON,Phillip,4801
+1,E14000733,Conservative,JACKSON,Carl,14319
+1,E14000733,Labour,HILL,Michael Robert,21969
+1,E14000734,CPA,TODD,Stephen John,141
+1,E14000734,Green Party,ROBERTS,Blake Paul,1042
+1,E14000734,UKIP,HAMMOND,Aaron Brett,1685
+1,E14000734,Liberal Democrats,GRAHAM,Dominic Charles,2787
+1,E14000734,Labour,SCOTT,Janice Rosalind (Rosalind),15565
+1,E14000734,Conservative,JENKIN,Bernard Christison,29921
+1,E14000735,Independent,WILSON,Nicholas John,412
+1,E14000735,UKIP,PHILLIPS,Michael Sheridan,1479
+1,E14000735,Liberal Democrats,PERRY,Nick,1885
+1,E14000735,Labour,CHOWNEY,Peter Donald James,25322
+1,E14000735,Conservative,RUDD,Amber,25668
+1,E14000736,Independent,BUCKLEY,Ann,984
+1,E14000736,Green Party,DAWES,Timothy Morgan,1122
+1,E14000736,UKIP,PERRY,John Prideaux,2011
+1,E14000736,Liberal Democrats,GRAY,Paul,2801
+1,E14000736,Labour,GILES,Graham William,11720
+1,E14000736,Conservative,MAK,Alan,27676
+1,E14000737,Green Party,BOWMAN,John Paul,571
+1,E14000737,Liberal Democrats,NEWTON DUNN,William Francis,601
+1,E14000737,UKIP,DIXON,Clifford,1153
+1,E14000737,Conservative,SMITH,Gregory David,13681
+1,E14000737,Labour,MCDONNELL,John Martin,31796
+1,E14000738,Green Party,MCMINN LEE,Robbie,516
+1,E14000738,Labour,MISHRA,Nav,9036
+1,E14000738,Liberal Democrats,SMART,Lisa,14533
+1,E14000738,Conservative,WRAGG,William Peter,20047
+1,E14000739,Green Party,HASSAN,Sherief Mamoun,1024
+1,E14000739,Liberal Democrats,SYMINGTON,Sally,3233
+1,E14000739,Labour,TATTERSHALL,Mandi,19290
+1,E14000739,Conservative,PENNING,Mike,28735
+1,E14000740,Liberal Democrats,MACQUEEN,Joan Mary,912
+1,E14000740,Yorkshire,ROBERTS,Martin Paul,1135
+1,E14000740,UKIP,DEWS,David Alan,2591
+1,E14000740,Conservative,JORDAN,Michael Thomas,15566
+1,E14000740,Labour,TRICKETT,Jon Hedley,25740
+1,E14000741,UKIP,WARSAME,Sabriye,568
+1,E14000741,Green Party,LEGARDA,Carmen,578
+1,E14000741,Liberal Democrats,HILL,Alasdair,1985
+1,E14000741,Labour,KATZ,Mike,24006
+1,E14000741,Conservative,OFFORD,Matthew,25078
+1,E14000742,Radical Party,GRAY,Patrick Hugo,392
+1,E14000742,UKIP,SCOTT,Tim Owen,1154
+1,E14000742,Green Party,BENNETT,Robin Francis,1864
+1,E14000742,Liberal Democrats,COYLE,Laura Rose,8485
+1,E14000742,Labour,KAVANAGH,Oliver,11455
+1,E14000742,Conservative,HOWELL,John Michael,33749
+1,E14000743,UKIP,PRICE,Gwyn James,1153
+1,E14000743,Green Party,TOYNBEE,Diana Stella,1220
+1,E14000743,Liberal Democrats,HURDS,Lucy Ann,3556
+1,E14000743,Independent,KENYON,James Llewellyn Vivian,5560
+1,E14000743,Labour,CODA,Anna-Maria,11991
+1,E14000743,Conservative,NORMAN,Alexander Jesse,27004
+1,E14000744,Green Party,WOOLLCOMBE,David Rupert,1814
+1,E14000744,Liberal Democrats,ARGENT,Mark Timothy,4845
+1,E14000744,Labour,CHIBAH,Katherine Elisabeth,17149
+1,E14000744,Conservative,PRISK,Michael Mark,36184
+1,E14000745,Green Party,SUMMERHAYES,Sophie,990
+1,E14000745,UKIP,HOY,David Thomas,1564
+1,E14000745,Liberal Democrats,JORDAN,Joseph Francis Patrick,2794
+1,E14000745,Labour,SMITH,Fiona Katherine,14977
+1,E14000745,Conservative,DOWDEN,Oliver James,31928
+1,E14000746,UKIP,MILES,Francis Stuart,930
+1,E14000746,Green Party,FOOT,Wesley James,1253
+1,E14000746,Liberal Democrats,HALL,Fiona Jane,3285
+1,E14000746,Labour,POWERS,Stephen Alan,15760
+1,E14000746,Conservative,OPPERMAN,Guy Thomas,24996
+1,E14000747,Conservative,CLARKSON,Christopher Mark,18961
+1,E14000747,Labour,MCINNES,Elizabeth Anne,26578
+1,E14000747,UKIP,SEVILLE,Lee Jason,3239
+1,E14000747,Liberal Democrats,WINLOW,William,1087
+1,E14000748,Liberal Democrats,LAWLEY,Charles Edward,2669
+1,E14000748,Conservative,BINGHAM,Andrew Russell,24431
+1,E14000748,Labour,GEORGE,Ruth Stephanie Nicole,26753
+1,E14000749,CPA,CORDLE,Sidney Clifford,242
+1,E14000749,Independent,BLAKE,Raymond Paul,629
+1,E14000749,Green Party,CANO,Richard Alexander,1329
+1,E14000749,Liberal Democrats,ANNAND,Hugh Martin James,6236
+1,E14000749,Labour,HAYES,John Simon,19158
+1,E14000749,Conservative,AFOLAMI,Abimbola,31189
+1,E14000750,English Democrats,POLNCEUS,Janus,93
+1,E14000750,UKIP,GAME,Giles,727
+1,E14000750,Green Party,BERRY ,Sian Rebecca,1980
+1,E14000750,Liberal Democrats,CROSHER,Steven,4020
+1,E14000750,Conservative,BARNES,Tim,10834
+1,E14000750,Labour,STARMER,Keir,41343
+1,E14000751,BNP,FURNESS,David,318
+1,E14000751,Green Party,CATON,Peter,1077
+1,E14000751,Liberal Democrats,MITCHELL,Jonathan Stuart,1371
+1,E14000751,UKIP,WEBB,Lawrence James,3502
+1,E14000751,Labour,GILL,Sukhninder Singh,16027
+1,E14000751,Conservative,DOCKERILL,Julia Louise,33750
+1,E14000752,WRP,ATHOW,Anna Christine,55
+1,E14000752,CPA,SPIBY,Helen,93
+1,E14000752,UKIP,PRICE,Ruth,429
+1,E14000752,WEP,ALI,Nimco,551
+1,E14000752,Green Party,HALL,Sam,1181
+1,E14000752,Conservative,LAKE,Emma Louise,9246
+1,E14000752,Liberal Democrats,BARNES,Dawn,10000
+1,E14000752,Labour,WEST,Catherine,40738
+1,E14000753,Peace,DUGGAN,James Joseph,263
+1,E14000753,Something New,SMITH,Raymond James,375
+1,E14000753,UKIP,ARTHUR,Roger John,1533
+1,E14000753,Green Party,ROSS,Catherine Mary,1844
+1,E14000753,Liberal Democrats,MILLSON,Morwen Elizabeth,7644
+1,E14000753,Labour,BRADY,Susannah Mary,13422
+1,E14000753,Conservative,QUIN,Jeremy Mark,36906
+1,E14000754,Independent,WATSON,Mick,479
+1,E14000754,Green Party,BRADLEY,Richard Peter,725
+1,E14000754,Liberal Democrats,EDGEWORTH,Paul John,908
+1,E14000754,UKIP,JOYCE,Michael Anthony,2379
+1,E14000754,Conservative,HOWELL,Paul,12324
+1,E14000754,Labour,PHILLIPSON,Bridget Maeve,24665
+1,E14000755,Independent,SABEL ,Charley ,187
+1,E14000755,Green Party,MAC CAFFERTY ,Phelim ,971
+1,E14000755,Liberal Democrats,HYNDS ,Carrie ,1311
+1,E14000755,Conservative,ADAMS ,Kristy ,18185
+1,E14000755,Labour,KYLE ,Peter ,36942
+1,E14000756,Independent,THOKKUDUBIYYAPU,Marteen Suneel Reddy,75
+1,E14000756,Yorkshire,KATENGA,Bikashi,274
+1,E14000756,Liberal Democrats,ALI,Zulfiqar,1155
+1,E14000756,Green Party,COOPER,Andrew Varah,1395
+1,E14000756,Conservative,BENTON,Scott Lloyd,14465
+1,E14000756,Labour,SHEERMAN,Barry John,26470
+1,E14000757,Green Party,MACLENNAN,	Thomas,1095
+1,E14000757,UKIP,BULLEN,	Paul,2180
+1,E14000757,Liberal Democrats,CANTRILL,	Roderick Giles,5090
+1,E14000757,Labour,JOHNSON,	Nicholas Grant,18440
+1,E14000757,Conservative,DJANOGLY,	Jonathan Simon,32915
+1,E14000758,Liberal Democrats,JONES,Leslie,824
+1,E14000758,UKIP,BROWN,Janet,1953
+1,E14000758,Conservative,HORKIN,Kevin Thomas,18305
+1,E14000758,Labour,JONES,Graham Peter,24120
+1,E14000759,Independent,OSEN,Doris Deborah,368
+1,E14000759,Liberal Democrats,CLARE,Richard,1034
+1,E14000759,Conservative,SCOTT,Lee,20950
+1,E14000759,Labour,STREETING,Wesley Paul William,30589
+1,E14000760,Friends Party,KHAN,Kane,65
+1,E14000760,UKIP,SAEED,Tariq,477
+1,E14000760,Green Party,WARRINGTON,Anne Rosemary,542
+1,E14000760,Liberal Democrats,AHMED,Farid,772
+1,E14000760,Conservative,CHAPMAN,Christopher James,12077
+1,E14000760,Labour,GAPES,Michael John,43724
+1,E14000761,Independent,TABANE,David T,121
+1,E14000761,Green Party,ARMSTRONG,Charlotte,840
+1,E14000761,Liberal Democrats,HYYRYLAINEN-TRETT,Adrian James,1187
+1,E14000761,UKIP,GOULD,Colin Anthony,1372
+1,E14000761,Conservative,GUMMER,Benedict Michael,23393
+1,E14000761,Labour,MARTIN,Alexander Gordon,24224
+1,E14000762,Independent,JONES-EVANS,Julie Marie,1592
+1,E14000762,UKIP,PITCHER,Daryll,1921
+1,E14000762,Liberal Democrats,BELFITT,Nick,2740
+1,E14000762,Green Party,LOWTHION,Vix,12915
+1,E14000762,Labour,CRITCHLEY,Julian Mark Donald,17121
+1,E14000762,Conservative,SEELY,Bob,38190
+1,E14000763,CLP,MENDOZA,Andres,7
+1,E14000763,SP,MARTIN,Bill,21
+1,E14000763,Independent,CAMERON-BLACKIE,Susanne,41
+1,E14000763,MRLP,KNAPP,Knigel,106
+1,E14000763,Independent,FOSTER,Michael Adam,208
+1,E14000763,UKIP,FRASER,Keith Graham,413
+1,E14000763,Green Party,RUSSELL,Caroline,2229
+1,E14000763,Liberal Democrats,ANGUS,Keith,4946
+1,E14000763,Conservative,CLARK,James Tovey,6871
+1,E14000763,Labour,CORBYN,Jeremy Bernard,40086
+1,E14000764,UKIP,MUSWELL,Pete,929
+1,E14000764,Green Party,HAMDACHE,Bernail,1198
+1,E14000764,Liberal Democrats,DESMIER,Alain Cyril Matthew,5809
+1,E14000764,Conservative,CHARALAMBOUS,Jason Theo George,9925
+1,E14000764,Labour,THORNBERRY,Emily,30188
+1,E14000765,Green Party,HERBERT,David,745
+1,E14000765,Liberal Democrats,MAUGHAN,Peter James,1163
+1,E14000765,UKIP,ASKWITH,James Lee,2338
+1,E14000765,Conservative,GWYNN,Robin,10757
+1,E14000765,Labour,HEPBURN,Stephen,28020
+1,E14000766,Independent,CRABTREE,David William,534
+1,E14000766,Green Party,BROWN,Rosalind Margaret,790
+1,E14000766,Liberal Democrats,WALKER,Matthew James,1226
+1,E14000766,UKIP,LATHAM,Paul John,1291
+1,E14000766,Conservative,HOPKINS,Kristan Frederick,23817
+1,E14000766,Labour,GROGAN,John Timothy,24056
+1,E14000767,UKIP,COTTAM,Harry Francis,929
+1,E14000767,Green Party,BALLANTYNE,Robert,1133
+1,E14000767,Liberal Democrats,DICKSON,Richard Guy,4921
+1,E14000767,Labour,SINGH,Bajinder,13131
+1,E14000767,Conservative,WRIGHT,Jeremy Paul,31207
+1,E14000768,AGS,LLOYD,John Robert,49
+1,E14000768,Independent,MARSHALL,Peter Charles Christopher,98
+1,E14000768,Independent,TORRANCE,James William,393
+1,E14000768,Green Party,NADEL,Jennifer Dunham,767
+1,E14000768,Liberal Democrats,MULLIN,Annabel Jean Charlotte,4724
+1,E14000768,Conservative,BORWICK,Victoria Lorne Peta,16313
+1,E14000768,Labour,DENT COAD,Emma,16333
+1,E14000769,Green Party,REEVES,	Robert James,1116
+1,E14000769,Liberal Democrats,AUSTIN,	Suzanna Marie,1618
+1,E14000769,Labour,SCRIMSHAW,	Michael,18054
+1,E14000769,Conservative,HOLLOBONE,	Philip Thomas,28616
+1,E14000770,Independent,BASMAN,Michael John,100
+1,E14000770,MRLP,CHINNERY,Jason,168
+1,E14000770,Green Party,WALKER,Christopher John,536
+1,E14000770,UKIP,MATTHEWS,Graham Charles,675
+1,E14000770,Labour,SOUTH,Laurence Charles Jesse,9203
+1,E14000770,Conservative,BERRY,Michael James Ellwood,23686
+1,E14000770,Liberal Democrats,DAVEY,Edward Jonathon,27810
+1,E14000771,Green Party,BROWN,Julia Rae,493
+1,E14000771,Liberal Democrats,MARCHINGTON,Andrew Clive Glover,1258
+1,E14000771,UKIP,FOX,Mark Alan,2573
+1,E14000771,Conservative,BURTON,Simon Edward,10959
+1,E14000771,Labour,TURNER,Karl,21355
+1,E14000772,Green Party,DEANE,Martin John,604
+1,E14000772,UKIP,KITCHENER,Harold John,1601
+1,E14000772,Liberal Democrats,ROSS,Michael James,1869
+1,E14000772,Conservative,NICI-TOWNEND,Lia,9363
+1,E14000772,Labour,JOHNSON,Diana Ruth,23685
+1,E14000773,LP,TAYLOR,William Anthony,67
+1,E14000773,Green Party,LAMIMAN,Michael John,332
+1,E14000773,UKIP,SHORES,Gary Colin,1399
+1,E14000773,Independent,DEWBERRY,Michelle Louise Faye,1898
+1,E14000773,Liberal Democrats,THOMAS,Claire,2210
+1,E14000773,Conservative,MACKAY,Christine Ann,10317
+1,E14000773,Labour,HARDY,Emma Ann,18342
+1,E14000774,Green Party,FUREY-KING,Matt,984
+1,E14000774,Liberal Democrats,WILKINSON,Karen,1749
+1,E14000774,Labour,THRELFALL,Mhairi,19254
+1,E14000774,Conservative,SKIDMORE,Chris,26754
+1,E14000775,Green Party,BAINES,Stephen Lee ,521
+1,E14000775,Liberal Democrats,CASHMAN,Carl Anthony ,1189
+1,E14000775,UKIP,MINEY,Neil Lawrence ,1285
+1,E14000775,Conservative,SPENCER,James Michael ,5137
+1,E14000775,Labour,HOWARTH,George Edward ,47351
+1,E14000776,Green Party,NOVELL,Rebecca Joy,796
+1,E14000776,Liberal Democrats,LONG,Robin Eamonn,1170
+1,E14000776,Conservative,OLLERENSHAW,Eric,18681
+1,E14000776,Labour,SMITH,Catherine Jane,25342
+1,E14000777,CPA,COETZEE,Alex,157
+1,E14000777,Liberal Democrats,NASH,Andy,1063
+1,E14000777,Green Party,CARLISLE,Ed,1189
+1,E14000777,UKIP,PALFREMAN,Bill,2056
+1,E14000777,Conservative,DAVIES,Gareth Mark,9755
+1,E14000777,Labour,BENN,Hillary James,33453
+1,E14000778,Yorkshire,OTLEY,John,422
+1,E14000778,Green Party,MORAN,Jaimes Lewis,434
+1,E14000778,Liberal Democrats,SANDERSON,Ed,739
+1,E14000778,UKIP,SPIVEY,Paul Anthony,1742
+1,E14000778,Conservative,ROBINSON,Matthew James,12676
+1,E14000778,Labour,BURGON,Richard,25428
+1,E14000779,CPA,MUTAMLRI,Tim,67
+1,E14000779,AGS,FOOTE,Celia Elizabeth,116
+1,E14000779,Yorkshire,SEDDON,Tess Eleanor,303
+1,E14000779,Green Party,FORSAITH,Ann Christine,680
+1,E14000779,Liberal Democrats,HANNAH,Jon Charles,1952
+1,E14000779,Conservative,STEPHONSON,Ryan,16445
+1,E14000779,Labour,HAMILTON,Fabian,33436
+1,E14000780,Green Party,HEMMINGWAY,Martin Francis,582
+1,E14000780,Conservative,LAMB,Alan James,9097
+1,E14000780,Liberal Democrats,MULHOLLAND,Greg,16192
+1,E14000780,Labour,SOBEL,Alex,20416
+1,E14000781,AGS,DAVIES,Mike,47
+1,E14000781,Yorkshire,JONES,Ed,378
+1,E14000781,Liberal Democrats,MCGREGOR,Alisdair Calder,905
+1,E14000781,Green Party,POINTON,Andrew Mark,1023
+1,E14000781,UKIP,THACKRAY,Mark Anthony,1815
+1,E14000781,Conservative,METCALFE,Zoe Estelle,11048
+1,E14000781,Labour,REEVES,Rachael Jane,27013
+1,E14000782,Independent,FOX,Ian Micheal,454
+1,E14000782,Green Party,WAKLEY,Melanie Jayne,1070
+1,E14000782,Liberal Democrats,DAVE,Nitesh Pravin,1343
+1,E14000782,Independent,BAROT,Sujata,1753
+1,E14000782,Conservative,HE,Yi,12688
+1,E14000782,Labour,VAZ,Keith Anthony,35116
+1,E14000783,Green Party,LEWIS,Margaret Bernadette,1177
+1,E14000783,Liberal Democrats,BISNAUTHSING,Harrish Doarkanathsing,1287
+1,E14000783,Conservative,SONECHA,Meera Manoj,10896
+1,E14000783,Labour,ASHWORTH,Jonathan Michael Graham,37157
+1,E14000784,Independent,BOWLEY,David John,121
+1,E14000784,Green Party,GOULD,Melanie Elizabeth,607
+1,E14000784,Liberal Democrats,BRADWELL,Ian Carmichael,792
+1,E14000784,UKIP,YOUNG,Stuart Ian Eric,1406
+1,E14000784,Conservative,HICKEY,Jack Robert,11763
+1,E14000784,Labour,KENDALL,Elizabeth Louise,22823
+1,E14000785,Liberal Democrats,KILPATRICK,Richard Martin,951
+1,E14000785,UKIP,BRADLEY,Mark Andrew,2783
+1,E14000785,Conservative,GRUNDY,James Nelson,16793
+1,E14000785,Labour,PLATT,Joanne Marie,26347
+1,E14000786,Labour,CHAPMAN,Daniel Anthony,6060
+1,E14000786,Liberal Democrats,BLUNDELL,Kelly-Marie,21312
+1,E14000786,Conservative,CAULFIELD,Maria Colette,26820
+1,E14000787,CPA,MARTIN,Maureen,228
+1,E14000787,Independent,WINSTON,Willow Eve,355
+1,E14000787,UKIP,FORSTER,Keith,798
+1,E14000787,Green Party,POORUN,Storm,803
+1,E14000787,Liberal Democrats,FRITH,Emily,2086
+1,E14000787,Conservative,FORTUNE,Peter Timothy,10859
+1,E14000787,Labour,ALEXANDER,Heidi,32072
+1,E14000788,Populist,WHITE,Russell,50
+1,E14000788,CPA,HORTENSE,Katherine,325
+1,E14000788,UKIP,CHEAH,Hoong-Wai,700
+1,E14000788,Green Party,WHELLER,Karen Nicola,1144
+1,E14000788,Liberal Democrats,RUSSELL,John Francis,3317
+1,E14000788,Conservative,BAILEY,Shaun,12249
+1,E14000788,Labour,REEVES,Ellie,35411
+1,E14000789,Realists,LAWRENCE,Jane,61
+1,E14000789,AWP,MCANEA,Laura Maria,225
+1,E14000789,CPA,MARTIN,Malcolm,252
+1,E14000789,Green Party,COUGLIN,John,1640
+1,E14000789,Liberal Democrats,DEAN,Bobby,2911
+1,E14000789,Conservative,MCLEAN,Melaine Lylla,7562
+1,E14000789,Labour,FOXCROFT,Vicky,42461
+1,E14000790,Green Party,GUNSTOCK,Ashley,1351
+1,E14000790,Liberal Democrats,SIMS,Ben,2961
+1,E14000790,Conservative,FARRIS,Laura Rose,9627
+1,E14000790,Labour,CRYER,John Robert,32234
+1,E14000791,Green Party,PASS,Edward Leslie,1416
+1,E14000791,Liberal Democrats,RAY,Paul William Wakelin,2653
+1,E14000791,Labour,WORSEY,Christopher Frank,15437
+1,E14000791,Conservative,FABRICANT,Michael Louis David,34018
+1,E14000792,Independent,SCOTT-BURDON,Iain Alexander,124
+1,E14000792,Independent,GRAY,Phil,312
+1,E14000792,Green Party,LORYMAN,Benjamin Jeffery Leigh,583
+1,E14000792,Liberal Democrats,KENYON,Caroline Hilda,1284
+1,E14000792,UKIP,SMITH,Nick,1287
+1,E14000792,Conservative,MCCARTNEY,Karl Ian,21795
+1,E14000792,Labour,LEE,Karen Elizabeth,23333
+1,E14000793,Liberal Democrats,SEBIRE,Tom,1187
+1,E14000793,Green Party,PITCHERS,Stephanie Louise,1582
+1,E14000793,Conservative,HALL,Pamela Theresa,4652
+1,E14000793,Labour,ELLMAN,Louise Joyce,40599
+1,E14000794,Green Party,FEELEY,Colm,523
+1,E14000794,Liberal Democrats,BROWN,Kris,638
+1,E14000794,Independent,MAY,Terry,1237
+1,E14000794,Conservative,EVANS,Laura Kathryn,3624
+1,E14000794,Labour,CARDEN,Dan,36175
+1,E14000795,Independent,HEATHERINGTON,Adam,216
+1,E14000795,Green Party,GRANT,Ted,598
+1,E14000795,Liberal Democrats,KEMP,Richard,2858
+1,E14000795,Conservative,HADDAD,Denise Louise,5251
+1,E14000795,Labour,BERGER,Luciana,34717
+1,E14000796,Independent,HUGHES,Graham David,305
+1,E14000796,Green Party,WARD,Will,329
+1,E14000796,Liberal Democrats,TWIGGER PARR,Paul John,545
+1,E14000796,Liberal Party,RADFORD,Steven,2150
+1,E14000796,Conservative,RICHARDSON,Paul Daryl,4463
+1,E14000796,Labour,TWIGG,Stephen,37371
+1,E14000797,Green Party,LEICESTER,Philip Alexander,971
+1,E14000797,UKIP,MCWILLIAM,Andrew Stuart,1465
+1,E14000797,Liberal Democrats,WALKER,David Robert Frank,1937
+1,E14000797,Labour,MIAH,Jewel,22753
+1,E14000797,Conservative,MORGAN,Nicola Ann,27022
+1,E14000798,MRLP,ARTY-POLE,The Iconic,496
+1,E14000798,Liberal Democrats,GABRIEL,Lisa Marie,1990
+1,E14000798,UKIP,NOBLE,Jonathan Howard,2460
+1,E14000798,Labour,SPEED,Julie Ann,14092
+1,E14000798,Conservative,ATKINS,Victoria,33733
+1,E14000799,Green Party,WENDT,Hilary Raborg Houchin,1054
+1,E14000799,Liberal Democrats,KIDD,Heather Mary,5336
+1,E14000799,Labour,BUCKLEY,Julia,12147
+1,E14000799,Conservative,DUNNE,Phili Martin,31433
+1,E14000800,Green Party,HALL,Simon David,648
+1,E14000800,Liberal Democrats,MARTINS,Rabi,808
+1,E14000800,Conservative,KERSWELL,Caroline June,15401
+1,E14000800,Labour,HOPKINS,Kelvin Peter,29765
+1,E14000801,Independent,ALI,Abid,160
+1,E14000801,Green Party,SCHEIMANN,Marc,439
+1,E14000801,UKIP,UB,Ujjawal,795
+1,E14000801,Liberal Democrats,STRANGE,Andrew,1056
+1,E14000801,Conservative,RUSSELL,Dean,14879
+1,E14000801,Labour,SHUKER,Gavin,28804
+1,E14000802,Independent,JOHNSON,Mark Andrew,1162
+1,E14000802,Green Party,BOOTH,James Andrew,1213
+1,E14000802,Liberal Democrats,FLOWERS,Richard Dominic,3350
+1,E14000802,Labour,PUTTICK,Neil Francis,19987
+1,E14000802,Conservative,RUTLEY,David Henry,28595
+1,E14000803,Independent,SMITH,Bobby,3
+1,E14000803,Independent,HAILEMARIAM,Yemsrach,16
+1,E14000803,JPP,REID,Julian Michael Ivo,52
+1,E14000803,CPA,VICTOR,Edmonds,69
+1,E14000803,MRLP,HOPE,Alan,119
+1,E14000803,Independent,SMITH,Grant Jonathan,152
+1,E14000803,Lord Buckethead,HARVEY,Jonathan David,249
+1,E14000803,AWP,KNIGHT,Andrew David,282
+1,E14000803,UKIP,BATTEN,Gerard Joseph,871
+1,E14000803,Green Party,WALL,Derek Norman,907
+1,E14000803,Liberal Democrats,HILL,Anthony Charles,6540
+1,E14000803,Labour,MCDONALD,Patrick Sarchfield,11261
+1,E14000803,Conservative,MAY,Theresa Mary,37718
+1,E14000804,Independent,KENWARD,Yolande Ann,172
+1,E14000804,Green Party,JEFFERY,Stuart,888
+1,E14000804,UKIP,WATTS,Pamela Elizabeth,1613
+1,E14000804,Liberal Democrats,FERMOR,Emily,8455
+1,E14000804,Labour,SIMPSON,Allen Mark,11433
+1,E14000804,Conservative,GRANT,Helen,29156
+1,E14000805,Liberal Democrats,SKIPWORTH,John Charles,1322
+1,E14000805,Independent,BRIERLEY,Bob,2663
+1,E14000805,Conservative,CARNEY,Adam Robert,14703
+1,E14000805,Labour,FOVARGUE,Yvonne Helen,28245
+1,E14000806,FUH,PERRY,Richard Andrew,257
+1,E14000806,Green Party,BETTERIDGE,Steven Robert,1073
+1,E14000806,UKIP,PRYKE,Jesse Clifford,1899
+1,E14000806,Liberal Democrats,O`CONNELL,Zoe Imogen,2181
+1,E14000806,Labour,EDWARDS,Peter William Constantine,10681
+1,E14000806,Conservative,WHITTINGDALE,John Flasby Lawrance,34111
+1,E14000807,Pirate Party,BLACKBURN,Neil Alexander,192
+1,E14000807,Green Party,SHAH,Rachael Alice,846
+1,E14000807,UKIP,CHAPMAN,Kalvin Paul,1469
+1,E14000807,Liberal Democrats,BRIDGES,John Richard,1678
+1,E14000807,Conservative,WANG,Xingang,7045
+1,E14000807,Labour,POWELL,Lucy Maria,38490
+1,E14000808,Communist,CLIFFORD,Peter,27
+1,E14000808,Independent,HOPKINS,David Michael,51
+1,E14000808,CPA,ABIDOGUN,Kemi,233
+1,E14000808,UKIP,ECKERSLEY,Phil,952
+1,E14000808,Green Party,MAYO,Jess,1038
+1,E14000808,Liberal Democrats,PEARCEY,Jackie,2597
+1,E14000808,Independent,GALLOWAY,George,2615
+1,E14000808,Conservative,JARADAT,Shaden,3355
+1,E14000808,Labour,KHAN,Mohammed Afzai,35085
+1,E14000809,WEP,CARR,Sally,234
+1,E14000809,Green Party,BANNISTER,Laura Alice,865
+1,E14000809,Conservative,HEALD,Sarah,5530
+1,E14000809,Liberal Democrats,LEECH,John,8549
+1,E14000809,Labour,SMITH,Jeff,38424
+1,E14000810,Independent,SHIELDS,Philip,1079
+1,E14000810,Liberal Democrats,PRABHAKAR,Anita,697
+1,E14000810,UKIP,PEPPER,David Sidney,2654
+1,E14000810,Labour,MEALE,Joseph Alan,22335
+1,E14000810,Conservative,BRADLEY,Benjamin David,23392
+1,E14000811,Green Party,HAYWARD,Andrew Paul,1301
+1,E14000811,UKIP,BAILEY,Paul,1435
+1,E14000811,Liberal Democrats,TOD,Martin Paul Niebuhr,5900
+1,E14000811,Labour,KING,Sheena,9932
+1,E14000811,Conservative,HOLLINGBERY,George Michael Edward,35624
+1,E14000812,Green Party,GAVIN,Alison Natasha,1416
+1,E14000812,UKIP,KAYE,Leslie John,2016
+1,E14000812,Liberal Democrats,ROGERS,Antony Richard,2663
+1,E14000812,Labour,MCNEIL,Thomas Benjamin,14675
+1,E14000812,Conservative,SPELMAN,Caroline Alice,33873
+1,E14000813,MRLP,KELLY,Ann Maria,667
+1,E14000813,Green Party,ELLIS,Gareth,1794
+1,E14000813,Liberal Democrats,FRENCH,Lisa Mary,3788
+1,E14000813,Labour,MEADES,Rhiannon Harris,17953
+1,E14000813,Conservative,DORRIES,Nadine Vanessa,38936
+1,E14000814,Green Party,MACFARLANE,Susan Janice,1168
+1,E14000814,Liberal Democrats,WAIN,Adam David,1793
+1,E14000814,Labour,MARTIN,Alison,17897
+1,E14000814,Conservative,LATHAM,Pauline Elizabeth,29513
+1,E14000815,Labour,BREW,Steve,6423
+1,E14000815,Liberal Democrats,SLADE,Vikki,13246
+1,E14000815,Conservative,TOMLINSON,Michael James,28585
+1,E14000816,Green Party,LESTER,Hannah Louise,1158
+1,E14000816,UKIP,KNOWLES,Tracy Selina,2092
+1,E14000816,Liberal Democrats,TOD,Fionna Margaret Ruth,2848
+1,E14000816,Labour,SIMPSON,Sarah Alison,16742
+1,E14000816,Conservative,FREEMAN,George William,32828
+1,E14000817,MRLP,THUNDERCLAP,Baron Von,464
+1,E14000817,UKIP,BROTHERS,Toby,1251
+1,E14000817,Green Party,JERREY,Chris,1571
+1,E14000817,Liberal Democrats,OSBORNE,Sarah Jane,7855
+1,E14000817,Labour,MOUNTAIN,Greg,15409
+1,E14000817,Conservative,SOAMES,Nicholas,35082
+1,E14000818,Green Party,WHITFIELD,Fay Emily Veare,1371
+1,E14000818,UKIP,GREENWOOD,David Thomas,1660
+1,E14000818,Liberal Democrats,ROWLEY,Alexandra Margaret,3450
+1,E14000818,Labour,GRINDROD,Fred,12641
+1,E14000818,Conservative,HUDDLESTON,Nigel Paul,35967
+1,E14000819,Green Party,MARTINEZ,Carl Joseph,250
+1,E14000819,Liberal Democrats,ISLAM,Dawud,368
+1,E14000819,Independent,LAWTON,Terence Henry,632
+1,E14000819,UKIP,HODGSON,David,1452
+1,E14000819,Conservative,YOUNG,Jacob,9531
+1,E14000819,Labour,MCDONALD,Andrew Joseph,23404
+1,E14000820,Liberal Democrats,FOOTE-WOOD,Chris,1354
+1,E14000820,Labour,HARVEY,Tracy,22623
+1,E14000820,Conservative,CLARKE,Simon Richard,23643
+1,E14000821,CPA,SAMS,Venetia Rosemary,169
+1,E14000821,Green Party,FRANCIS,Alan Herbert,1107
+1,E14000821,UKIP,WYATT,Jeffrey Mark,1390
+1,E14000821,Liberal Democrats,SHEPHERD-DUBEY,Imogen Lisa,2499
+1,E14000821,Labour,PULLEN,Charlynne Marie Chantal,28392
+1,E14000821,Conservative,LANCASTER,John Mark,30367
+1,E14000822,Green Party,FINDLAY,Graham Edward,1179
+1,E14000822,UKIP,PEDDLE,Vincent James,1833
+1,E14000822,Liberal Democrats,MAHER,Tahir,1895
+1,E14000822,Labour,O`NEILL,Hannah Frances,28987
+1,E14000822,Conservative,STEWART,Iain Aitken,30652
+1,E14000823,CPP,COKE,Des,223
+1,E14000823,Green Party,COLLINS,Laura,644
+1,E14000823,UKIP,HILTON,Richard,1054
+1,E14000823,Liberal Democrats,MATHYS,Claire,1494
+1,E14000823,Conservative,KEARNS,Alicia,11664
+1,E14000823,Labour,MCDONAGH,Siobhain,33039
+1,E14000824,UKIP,MOORE,Judy,1352
+1,E14000824,Green Party,FEWSTER,Jacuetta Jane,1463
+1,E14000824,Labour,GREEN,Marc Patrick,7864
+1,E14000824,Liberal Democrats,KENNEDY,Paul Gilbert,10955
+1,E14000824,Conservative,BERESFORD,Paul,35092
+1,E14000825,Green Party,SINCLAIR,Cait,478
+1,E14000825,UKIP,GILLESPIE,Robert Wilson,1333
+1,E14000825,Liberal Democrats,SEVERN,Matthew James,1699
+1,E14000825,Labour,SINGLETON,Vikki Irene,20374
+1,E14000825,Conservative,MORRIS,David Thomas,21773
+1,E14000826,Liberal Democrats,DOBSON,Craig,1361
+1,E14000826,Labour,DAWSON,Neil,24446
+1,E14000826,Conservative,JENKYNS,Andrea Marie,26550
+1,E14000827,Green Party,MELLOR,Henry,1251
+1,E14000827,Liberal Democrats,HARRISON,David,7786
+1,E14000827,Labour,RENYARD,Julie,10167
+1,E14000827,Conservative,LEWIS,Julian Murray,32162
+1,E14000828,Pirate Party,HJERLING,Des,483
+1,E14000828,Green Party,RICHARDS,Janet Elizabeth,1454
+1,E14000828,Liberal Democrats,SCRIVEN,Terry,4781
+1,E14000828,Labour,GRAHAM,Jo,9739
+1,E14000828,Conservative,SWAYNE,Desmond Angus,33170
+1,E14000829,UKIP,ARUNDEL,Xandra,1419
+1,E14000829,Liberal Democrats,WATTS,David Kenneth,2786
+1,E14000829,Labour,LEE,Chantal,16344
+1,E14000829,Conservative,JENRICK,Robert Edward,34493
+1,E14000830,Apolitical Democrats,YATES,David Edward,304
+1,E14000830,Green Party,FIELD,Paul John,1531
+1,E14000830,Labour,SKIRVIN,Alexander Allen,8596
+1,E14000830,Liberal Democrats,BUNTING,Judith Ann,13019
+1,E14000830,Conservative,BENYON,Richard Henry Ronald,37399
+1,E14000831,Green Party,THOMPSON,Peter Stuart John,595
+1,E14000831,UKIP,MUAT,David,1482
+1,E14000831,Liberal Democrats,COTT,Nicholas Martin,1812
+1,E14000831,Conservative,KYTE,Stephen James,9134
+1,E14000831,Labour,ONWURAH,Chi,24071
+1,E14000832,Green Party,FORD,Alistar Christian,755
+1,E14000832,UKIP,SANDERSON,Tony,1315
+1,E14000832,Liberal Democrats,TAYLOR,Wendy Barbara,2574
+1,E14000832,Conservative,KITCHEN,Simon John,8866
+1,E14000832,Labour,BROWN,Nicolas Hugh,28127
+1,E14000833,Newcastle First,MOORE,Brian David,353
+1,E14000833,Green Party,WHALLEY,Alison Juliette,513
+1,E14000833,UKIP,MARRON,Timothy Thomas,1780
+1,E14000833,Liberal Democrats,LOWER,Anita Anne,2533
+1,E14000833,Conservative,CRUTE,Duncan Carlyle,16380
+1,E14000833,Labour,MCKINNELL,Catherine,26729
+1,E14000834,Liberal Democrats,JONES,William Nigel,1624
+1,E14000834,Conservative,MEREDITH,Owen Llyod,21094
+1,E14000834,Labour,FARRELLY,Christopher Paul,21124
+1,E14000835,Green Party,DRISCOLL,Kathryn Jane,926
+1,E14000835,Liberal Democrats,CHADWICK,Marie,10601
+1,E14000835,Labour,OSBEN,James William,11475
+1,E14000835,Conservative,MORRIS,Anne Marie,28635
+1,E14000836,Liberal Democrats,ROBERTS,Clarke Douglas Phillip,693
+1,E14000836,Yorkshire,GASCOIGNE,Daniel James,1431
+1,E14000836,UKIP,THOMPSON,Lewis,3030
+1,E14000836,Conservative,LEE,Andrew,14769
+1,E14000836,Labour,COOPER,Yvette,29268
+1,E14000837,SLP,HAWKINS,Robert James,138
+1,E14000837,CPA,ALLMAN,John William,185
+1,E14000837,Labour,BASSETT,Joy,6151
+1,E14000837,Liberal Democrats,RODGERSON,Danile John,18635
+1,E14000837,Conservative,MANN,Scott Leslie,25835
+1,E14000838,Green Party,KNIGHT,Richard Antony,753
+1,E14000838,UKIP,CROWTHER,Stephen James,1187
+1,E14000838,Labour,CANN,Mark Michael Robert,7063
+1,E14000838,Liberal Democrats,HARVEY,Nicholas Barton,21185
+1,E14000838,Conservative,HEATON-JONES,Peter,25517
+1,E14000839,Green Party,TUTTON,John Craig,1607
+1,E14000839,Liberal Democrats,PANTON,Thomas,7556
+1,E14000839,Labour,OSBORNE,Pat,10392
+1,E14000839,Conservative,HOARE,Simon James,36169
+1,E14000840,Liberal Democrats,MARTIN,Craig,1981
+1,E14000840,UKIP,ROLLINGS,Kenneth Richard,2408
+1,E14000840,Conservative,GLOSSOP,Laetitia Sophie,12978
+1,E14000840,Labour,JONES,Kevan David,25917
+1,E14000841,Green Party,FLEMING,Philippa Deirdre Nell,1215
+1,E14000841,UKIP,STRACHAN,Duncan Anthony,1896
+1,E14000841,Liberal Democrats,RUTHERFORD,�Stephen�John�,3693
+1,E14000841,Labour,VAUGHAN,Julian Paul,18277
+1,E14000841,Conservative,BURT,Alistair James Hendrie,39139
+1,E14000842,ED,GOLDSPINK,Stephen Kenneth Savil,293
+1,E14000842,Green Party,JOHNSON,Ruth Margaret,1024
+1,E14000842,UKIP,TALBOT,Robin Lee,2174
+1,E14000842,Liberal Democrats,FOWER,Darren,2383
+1,E14000842,Labour,RUSTIDGE,Kenneth Stephen,13070
+1,E14000842,Conservative,BARCLAY,Stephen,34340
+1,E14000843,Green Party,KESTEVEN,David John,719
+1,E14000843,Liberal Democrats,LOMAX,David William,1390
+1,E14000843,UKIP,BUSH,James Harry,1565
+1,E14000843,Labour,ENGEL,Natascha,21923
+1,E14000843,Conservative,ROWLEY,Lee Benjamin,24783
+1,E14000844,Independent,BLAY,Robert John Charles,367
+1,E14000844,UKIP,GASCOIGNE,Michael,1061
+1,E14000844,Green Party,SPRADBERY,Charles,1476
+1,E14000844,Liberal Democrats,COCKARILL,Graham John,6987
+1,E14000844,Labour,JONES,Barry,9982
+1,E14000844,Conservative,JAYAWARDENA,Ranil Malcolm,37754
+1,E14000845,Green Party,LEE,Timothy Peter,2965
+1,E14000845,Liberal Democrats,SHEPARD,Nicole Marie,4276
+1,E14000845,Labour,SWANNEY,Douglas Martin,15752
+1,E14000845,Conservative,HEALD,Oliver,32587
+1,E14000846,Independent,HUGHES,Shaun,588
+1,E14000846,Green Party,CALVERLEY,Sally Clare Roff,1245
+1,E14000846,Liberal Democrats,RIGBY,Amanda,4461
+1,E14000846,Labour,MOSS,Robin,18757
+1,E14000846,Conservative,REES-MOGG,Jacob William,28992
+1,E14000847,Independent,DEVINE,Arthur St John,363
+1,E14000847,Independent,NORRIS,Sasha Rose Alicia,577
+1,E14000847,Green Party,CHOWNS,Eleanor Elizabeth,2771
+1,E14000847,Liberal Democrats,FALCONER,Jeanie Hay Helen,5874
+1,E14000847,Labour,PAGE,Roger William,9495
+1,E14000847,Conservative,WIGGIN,William David,31097
+1,E14000848,Labour,BURKE,Stephen Bernard,5180
+1,E14000848,Conservative,WILD,James Oliver,21748
+1,E14000848,Liberal Democrats,LAMB,Norman Peter,25260
+1,E14000849,Green Party,KERR,Duncan Alistair,1722
+1,E14000849,Liberal Democrats,THORNHILL,Thomas Shaun Stuart,2948
+1,E14000849,Labour,CURRIE,Graham Roger,17287
+1,E14000849,Conservative,PATERSON,Owen William,33642
+1,E14000850,Green Party,PATTISON,Charley Jean,1976
+1,E14000850,Independent,DAVIES,Donald Alan,3929
+1,E14000850,Liberal Democrats,FOORD,Richard John,5982
+1,E14000850,Labour,CHAMBERS,Gregory Lawrence,16502
+1,E14000850,Conservative,FOX,Liam,33605
+1,E14000851,Green Party,BENTLEY,Andrew Hedley John,858
+1,E14000851,UKIP,HALDEN,Stephen Frank,1564
+1,E14000851,Liberal Democrats,WEBSTER,Elizabeth Margaret,1962
+1,E14000851,Labour,DEMPSEY,Mark Edward,21096
+1,E14000851,Conservative,TOMLINSON,Justin Paul,29431
+1,E14000852,CPA,WHITE,Iris,128
+1,E14000852,Green Party,TARGETT,Ed,825
+1,E14000852,Liberal Democrats,PENNINGTON,Martyn Harry,1586
+1,E14000852,UKIP,EGAN,Clive Keith,2198
+1,E14000852,Labour,REHAL,Frances,16425
+1,E14000852,Conservative,GALE,Roger,27163
+1,E14000853,Green Party,COLLINS,Martin William ,669
+1,E14000853,Liberal Democrats,STONE,Greg ,1494
+1,E14000853,UKIP,LEGG,Gary Matthew ,2101
+1,E14000853,Conservative,NEWMAN,Henry John ,14172
+1,E14000853,Labour,GLINDON,Mary Theresa ,33456
+1,E14000854,Green Party,KONDAKOR,Keith Anthony,940
+1,E14000854,Liberal Democrats,COX,James Edward Maitland,1028
+1,E14000854,Labour,JACKSON,Julie Ann,18350
+1,E14000854,Conservative,TRACEY,Craig Paul,26860
+1,E14000855,Green Party,GUTHRIE,John Gregor Lawson,1255
+1,E14000855,UKIP,WHITBY,John William Stanley,2518
+1,E14000855,Liberal Democrats,SMITH,Bridget Zoe Dorrington,3168
+1,E14000855,Labour,RAMSBOTTOM,Iain Michael,19521
+1,E14000855,Conservative,VARA,Shailesh Lakhman,37529
+1,E14000856,Green Party,HORSMAN,Dominic Clare James,530
+1,E14000856,UKIP,BREEZE,Alan John,2150
+1,E14000856,Liberal Democrats,TEMPLE,Owen Leighton,3398
+1,E14000856,Conservative,HART,Sarah-Ann,16516
+1,E14000856,Labour,PIDCOCK,Laura,25308
+1,E14000857,Green Party,HILL,Dan,1334
+1,E14000857,UKIP,CLARK,Roger,1467
+1,E14000857,Liberal Democrats,PAYTON,Alex,5708
+1,E14000857,Labour,FITCHET,Andy,13792
+1,E14000857,Conservative,MALTHOUSE,Kit,36471
+1,E14000858,Green Party,WOOLLEY,Mia Alexandra,1101
+1,E14000858,Liberal Democrats,WYATT,Michael,3420
+1,E14000858,Labour,SHEAHAN,Sean David,17867
+1,E14000858,Conservative,BRIDGEN,Andrew James,31153
+1,E14000859,Green Party,DE WHALLEY,Andrew Michael,851
+1,E14000859,Liberal Democrats,MOSS-ECCARDT,Rupert William George,1393
+1,E14000859,UKIP,STONE,Michael,1539
+1,E14000859,Labour,RUST,Joanne Edna Sarah,15620
+1,E14000859,Conservative,BELLINGHAM,Henry Campbell,29408
+1,E14000860,Independent,TWEEDIE,Lisa Anne,376
+1,E14000860,UKIP,SINGH,Paddy,871
+1,E14000860,Green Party,CHAMBERLAIN,Phil,1141
+1,E14000860,Labour,BALDREY,Peter Neil,9399
+1,E14000860,Liberal Democrats,MATHER,Brian George Felton,9521
+1,E14000860,Conservative,GRAY,James Whiteside,32398
+1,E14000861,Green Party,MILLER,Steve,636
+1,E14000861,Liberal Democrats,SMID,George,1015
+1,E14000861,UKIP,BULLOCK,Jonathan Deryck,1404
+1,E14000861,Labour,KEEBLE,Sally,18258
+1,E14000861,Conservative,ELLIS,Michael T,19065
+1,E14000862,Green Party,MABBUTT,Scott Kyle,696
+1,E14000862,Liberal Democrats,HOPE,Jill,1405
+1,E14000862,UKIP,GIBBINS,Rose Elizabeth,1630
+1,E14000862,Labour,MCKEEVER,Kevin Martin Joseph,18072
+1,E14000862,Conservative,LEWER,Andrew Iain,19231
+1,E14000863,Pirate Party,MATTHEWS,Liam,340
+1,E14000863,Green Party,HOLMES,Adrian St John,782
+1,E14000863,Liberal Democrats,LANHAM,Hugh Christopher,1480
+1,E14000863,Labour,JONES,Chris,21393
+1,E14000863,Conservative,SMITH,Chloe Rebecca,21900
+1,E14000864,Green Party,BEARMAN,Richard,1492
+1,E14000864,Liberal Democrats,WRIGHT,James,2841
+1,E14000864,Conservative,HEMPSALL,Lana,15715
+1,E14000864,Labour,LEWIS,Clive,31311
+1,E14000865,EYHPP,BISHOP,David Laurence,195
+1,E14000865,Green Party,BOETTGE,Katharina,698
+1,E14000865,UKIP,PALMER,Robert Guy Michael,817
+1,E14000865,Liberal Democrats,HOLLIDAY,Barry Ian,1003
+1,E14000865,Conservative,MURRAY,Simon Peregrine Gauvain,8512
+1,E14000865,Labour,LESLIE,Christopher Michael,28102
+1,E14000866,Green Party,JONES,Kirsty Lemara,538
+1,E14000866,Liberal Democrats,JONES,Tadeusz Zdzislaw Edward,674
+1,E14000866,UKIP,CROSBY,Stephen John,2133
+1,E14000866,Conservative,TINLEY,John Robert,11907
+1,E14000866,Labour,NORRIS,Alexander James Jordan,23067
+1,E14000867,Green Party,MCGREGOR,Adam Fergus,598
+1,E14000867,UKIP,HOLLAS,David Ian,1103
+1,E14000867,Liberal Democrats,SUTTON,Tony Bernard,1564
+1,E14000867,Conservative,HUNT,Jane Marion,14851
+1,E14000867,Labour,GREENWOOD,Lilian Rachel,30013
+1,E14000868,Green Party,BROOKES,Christopher James,763
+1,E14000868,Liberal Democrats,BRIGHTON-KNIGHT,Richard Adrian,914
+1,E14000868,UKIP,CARPENTER,Craig Stephen,1619
+1,E14000868,Labour,JOHNSON,Philip,19016
+1,E14000868,Conservative,JONES,Marcus Charles,23755
+1,E14000869,CPA,NWADIKEDURUIBE,Chinwe,83
+1,E14000869,BNP,JONES,Michael,324
+1,E14000869,Green Party,MORAN,Derek,820
+1,E14000869,Liberal Democrats,HEFFERNAN,Drew Lee,1572
+1,E14000869,UKIP,VACHHA,Freddy,1619
+1,E14000869,Labour,HACKETT,Danny Paul,14079
+1,E14000869,Conservative,BROKENSHIRE,James Peter,29545
+1,E14000870,Liberal Democrats,SMITH,Jonathan Paul,1683
+1,E14000870,UKIP,BOND,Ian James,2278
+1,E14000870,Conservative,ALI,Kashif,17447
+1,E14000870,Labour,ABRAHAMS,Debbie,25629
+1,E14000871,Green Party,KING,Adam,439
+1,E14000871,Liberal Democrats,HARKNESS,Garth,956
+1,E14000871,UKIP,KEATING,Ruth,1899
+1,E14000871,Conservative,GLENNY,Christopher,12648
+1,E14000871,Labour,MCMAHON,Jim,29846
+1,E14000872,Green Party,GALLOWAY,Tamara Eileen,1060
+1,E14000872,UKIP,PHILP,Brian John,2023
+1,E14000872,Liberal Democrats,FEAKES,Alex,3315
+1,E14000872,Labour,DE GRUCHY,Nigel Ronald Anthony,12301
+1,E14000872,Conservative,JOHNSON,Jo,31762
+1,E14000873,Independent,ARTWELL,Chaka,255
+1,E14000873,Green Party,SANDERS,Larry,1785
+1,E14000873,Liberal Democrats,JOHNSON,Kirsten Renee,4904
+1,E14000873,Conservative,BARTINGTON,Suzanne Elizabeth,11834
+1,E14000873,Labour,DODDS,Anneiliese Jane,35118
+1,E14000874,UKIP,HARRIS,Alan Paul,751
+1,E14000874,Labour,TIDBALL,Marie,7573
+1,E14000874,Conservative,BLACKWOOD,Nicola Claire,25440
+1,E14000874,Liberal Democrats,MORAN,Layla Michelle,26256
+1,E14000875,Green Party,BARNETT,Ian Royston,502
+1,E14000875,BNP,PARKER,Brian Norton,718
+1,E14000875,Liberal Democrats,LISHMAN,Gordon Arthur,941
+1,E14000875,Labour,BLACKBURN,Wayne,20707
+1,E14000875,Conservative,STEPHENSON,Andrew George,21986
+1,E14000876,Liberal Democrats,BAKER ,Penny ,2042
+1,E14000876,UKIP,BOOKER  ,John Charles ,3453
+1,E14000876,Labour,SMITH  ,Angela Christine ,22807
+1,E14000876,Conservative,WILSON  ,Nicola Jayne ,21485
+1,E14000877,Independent,DAVIES,Jonathan Michael,412
+1,E14000877,Green Party,LAWSON,Douglas Ian,1029
+1,E14000877,UKIP,WILDE,Kerryanne Mckay,1142
+1,E14000877,Liberal Democrats,HUGHES,Neil,3641
+1,E14000877,Labour,MCEVOY,Lola,12168
+1,E14000877,Conservative,STEWART,Rory,28078
+1,E14000878,Green Party,RADIC,Fiona Jane,848
+1,E14000878,Liberal Democrats,SELLICK,Rebeka Louise,1597
+1,E14000878,Conservative,JACKSON,Stewart James,22343
+1,E14000878,Labour,ONASANYA,Fiona Oluyinka,22950
+1,E14000879,Green Party,POPE,Joshua George,536
+1,E14000879,Liberal Democrats,REED,Graham Richard,917
+1,E14000879,UKIP,NOBLE,Wendy ,1849
+1,E14000879,Labour,DANN,Sue,18548
+1,E14000879,Conservative,MERCER,Johnny,23567
+1,E14000880,Independent,BAMPING,Danny,237
+1,E14000880,Green Party,SHEAFF,Daniel Michael,604
+1,E14000880,Liberal Democrats,BEWLEY,Henrietta Sarah,1244
+1,E14000880,UKIP,ELLISON,Richard Michael,1364
+1,E14000880,Conservative,COLVILE,Oliver Newton,20476
+1,E14000880,Labour,POLLARD,Luke,27283
+1,E14000881,CTP,CAINE,Marty,551
+1,E14000881,Green Party,OLIVER,Adrian John,1299
+1,E14000881,Liberal Democrats,PLUMMER,Mike,4433
+1,E14000881,Labour,TAYLOR,Katie,14679
+1,E14000881,Conservative,SYMS,Robert Andrew Raymond,28888
+1,E14000882,Independent,BARKER,David James,136
+1,E14000882,UKIP,MCQUEEN,Nicholas George,849
+1,E14000882,Green Party,LANT,Bethan Angharad,989
+1,E14000882,Independent,RAHMAN,Oliur,1477
+1,E14000882,Liberal Democrats,BAGSHAW,Elaine Sheila,3959
+1,E14000882,Conservative,WILFORD,Christopher,11846
+1,E14000882,Labour,FITZPATRICK,James,39558
+1,E14000883,LP,JENKINS,Joe,130
+1,E14000883,Green Party,HAWKINS,Ken,791
+1,E14000883,UKIP,FITZGERALD,Mike,1926
+1,E14000883,Liberal Democrats,SANDERS,Darren,2608
+1,E14000883,Labour,KHAN,Rumai Abdullah,15895
+1,E14000883,Conservative,MORDAUNT,Penny,25860
+1,E14000884,Green Party,MCCULLOCH,Ian David,712
+1,E14000884,UKIP,CHIPPINDALL-HIGGIN,Kevan George William,1129
+1,E14000884,Liberal Democrats,VERNON-JACKSON,Robert Gerald,7699
+1,E14000884,Conservative,DRUMMOND,Flick,16736
+1,E14000884,Labour,MORGAN,Stephen James,18290
+1,E14000885,Green Party,POWER,Anne Vivienne,348
+1,E14000885,Liberal Democrats,DARBY,Neil George,1204
+1,E14000885,UKIP,PLATT,Simon Phillip,1348
+1,E14000885,Conservative,BEATY,Kevin Michael,8487
+1,E14000885,Labour,HENDRICK,Mark Phillip,24210
+1,E14000886,Independent,WHARTON,Michael,291
+1,E14000886,Yorkshire,BUXTON,Bob,1138
+1,E14000886,Liberal Democrats,NIXON,Allen Douglas,1761
+1,E14000886,Labour,MCCARGO,Ian Joseph,25219
+1,E14000886,Conservative,ANDREW,Stuart James,25550
+1,E14000887,Independent,RICHARDSON,Catherine Jane,58
+1,E14000887,UKIP,WARD,PATRICIA MARY,477
+1,E14000887,Green Party,FLETCHER,Benjamin Joseph,1107
+1,E14000887,Liberal Democrats,MERCER,Ryan,5448
+1,E14000887,Labour,PATIL,Neeraj,19125
+1,E14000887,Conservative,GREENING,Justine,20679
+1,E14000888,Green Party,HILL,Paul Ellis,1062
+1,E14000888,Liberal Democrats,TINDALL,Ron,1557
+1,E14000888,UKIP,SMITH,Peter Phillip,2326
+1,E14000888,Labour,DANIELS,Mark Jonathon,13464
+1,E14000888,Conservative,FRANCOIS,Mark Gino,36914
+1,E14000889,MAD,KIRKWOOD,Andrew Cleverdon,142
+1,E14000889,Independent,TURBERVILLE,Mickael Jeffery,188
+1,E14000889,Green Party,JOHANNESSEN,Kizzi Miranda,1093
+1,E14000889,Liberal Democrats,WOODS,Jenny Claire,3378
+1,E14000889,Conservative,WILSON,Robert Owen Biggs,23344
+1,E14000889,Labour,RODDA,Matthew Richard Allen,27093
+1,E14000890,Green Party,WITHAM,James Marcus Richard,979
+1,E14000890,Liberal Democrats,O'CONNELL,Meri,3041
+1,E14000890,Labour,BAILEY,Olivia Joanna,22435
+1,E14000890,Conservative,SHARMA,Alok Kumar,25311
+1,E14000891,UKIP,GALLACHER,Christopher Arthur,1950
+1,E14000891,Liberal Democrats,MASON,Josh David,2849
+1,E14000891,Conservative,GIBSON,Peter Alexander,14138
+1,E14000891,Labour,TURLEY,Anna Catherine,23623
+1,E14000892,Independent,WOODHALL,Sally Kristina,99
+1,E14000892,Green Party,WHITE,Kevin,380
+1,E14000892,Liberal Democrats,JUNED,Susan Aysha,1173
+1,E14000892,UKIP,SWANSBOROUGH,Paul James,1371
+1,E14000892,NHAP,STOTE,Neal James,2239
+1,E14000892,Labour,BLAKE,Rebecca,16289
+1,E14000892,Conservative,MACLEAN,Rachel Helen,23652
+1,E14000893,UKIP,FOX,Joseph Brian,1542
+1,E14000893,Green Party,ESSEX,Jonathan Christopher St. Aubyn,2214
+1,E14000893,Liberal Democrats,TARRANT,Anna Frances,5889
+1,E14000893,Labour,BRAMPTON,Toby William,13282
+1,E14000893,Conservative,BLUNT,Crispin Jeremy Rupert,30896
+1,E14000894,Green Party,SOWTER,Graham Hugh,1314
+1,E14000894,Liberal Democrats,KNOW,Allan Mclean,3247
+1,E14000894,Labour,HINDER,David Love,18720
+1,E14000894,Conservative,EVANS,Nigel Martin,31919
+1,E14000895,Green Party,YORKE,Fiona Elizabeth,1739
+1,E14000895,Yorkshire,PEARSON,Christopher John,2106
+1,E14000895,Liberal Democrats,ABEL,Tobie James,3360
+1,E14000895,Labour,PERRY,Daniel,13350
+1,E14000895,Conservative,SUNAK,Rishi,36458
+1,E14000896,UKIP,JEWELL,Peter Anthony Edward,426
+1,E14000896,Labour,TUITT,Catherine Joyce,5773
+1,E14000896,Liberal Democrats,OLNEY,Sarah,28543
+1,E14000896,Conservative,GOLDSMITH,Zac,28588
+1,E14000897,UKIP,BAKSA,Christopher Michael,1641
+1,E14000897,Independent,DANCZUK,Simon,883
+1,E14000897,Conservative,HOWARD,Jane Elizabeth Ann,14216
+1,E14000897,Liberal Democrats,KELLY,Andrew John,4027
+1,E14000897,GMHV,LITTLEWOOD,Andy,242
+1,E14000897,Labour,LLOYD,Anthony Joseph,29035
+1,E14000898,Independent,CHIGURI,Primerose ,129
+1,E14000898,CPA,BENSON,Steve Ayorinde ,163
+1,E14000898,Green Party,HYNER,Sonia Lesley ,781
+1,E14000898,Liberal Democrats,RICKETTS,Bart Lloyd ,1189
+1,E14000898,UKIP,ALLEN,David John ,2893
+1,E14000898,Labour,MURRAY,Teresa Margaret ,19382
+1,E14000898,Conservative,TOLHURST,Kelly Jane ,29232
+1,E14000899,Green Party,CROSS,Simon Ashley,804
+1,E14000899,Liberal Democrats,GWIZDALA,James Peter Anthony,1265
+1,E14000899,UKIP,HOOKWAY,Neil John,1777
+1,E14000899,Independent,WOODLEY,Ronald Alan,2924
+1,E14000899,Labour,DALTON,Ruth Ashley Charman,17465
+1,E14000899,Conservative,DUDDRIDGE,James Philip,23013
+1,E14000900,Green Party,HUGHES,David,815
+1,E14000900,Liberal Democrats,SANDERSON,Ian Victor,1215
+1,E14000900,UKIP,BEADLE,Andrew,2350
+1,E14000900,Labour,LEATHERBARROW,Angelina,15893
+1,E14000900,Conservative,ROSINDELL,Andrew Richard,29671
+1,E14000901,JACP,JERRARD,Don,271
+1,E14000901,Green Party,CALLAGHAN,Ian Keith,953
+1,E14000901,Labour,PAFFEY,Darren James,9614
+1,E14000901,Liberal Democrats,ROYCE,Catherine Margaret,10622
+1,E14000901,Conservative,NOKES,Caroline Fiona Ellen,28668
+1,E14000902,Green Party,PAYNE,John David,824
+1,E14000902,Liberal Democrats,BONNER,Sean,1550
+1,E14000902,Labour,BARNES,Alyson,22283
+1,E14000902,Conservative,BERRY,James Jacob Gilchrist,25499
+1,E14000903,Green Party,MARTIN,Paul Neville,869
+1,E14000903,Liberal Democrats,PRUSZYNSKI,Katie Mary,1155
+1,E14000903,UKIP,HUNTER,Lee James,3704
+1,E14000903,Conservative,EDDY,Bethan Sian,19939
+1,E14000903,Labour,BARRON,Kevin John,23821
+1,E14000904,Yorkshire,BOWER,Michael Andrew,1432
+1,E14000904,Liberal Democrats,CARTER,Adam Jonathon,1754
+1,E14000904,UKIP,COWLES,Allen,3316
+1,E14000904,Conservative,BELLIS,James Howard,10017
+1,E14000904,Labour,CHAMPION,Sarah Deborah,21404
+1,E14000905,Green Party,BLISS,Graham William,953
+1,E14000905,Liberal Democrats,ROODHOUSE,Jerry,2851
+1,E14000905,Labour,EDWARDS,Claire,19660
+1,E14000905,Conservative,PAWSEY,Mark Julian Francis,27872
+1,E14000906,UKIP,BRAINE,Richard William Maguire,1171
+1,E14000906,Green Party,GREEN,Sarah Charmian,1268
+1,E14000906,Liberal Democrats,CUNLIFFE,Alexander Martin,3813
+1,E14000906,Labour,LURY,Rebecca Anna-Marie,16575
+1,E14000906,Conservative,HURD,Nicholas Richard,30555
+1,E14000907,Green Party,LAWRANCE,Lee-Anne,1347
+1,E14000907,UKIP,WOOD,Nicholas,1675
+1,E14000907,Liberal Democrats,VINCENT,John,3765
+1,E14000907,Labour,DENT,Fiona,13386
+1,E14000907,Conservative,HAMMOND,Phillip,31436
+1,E14000908,UKIP,FAITHFULL,Matthew Eric,1490
+1,E14000908,Green Party,MALLENDER,George Richard,1626
+1,E14000908,Liberal Democrats,PHOENIX,Jayne,2759
+1,E14000908,Labour,MELLEN,David,22213
+1,E14000908,Conservative,CLARKE,Kenneth Harry,30223
+1,E14000909,Green Party,MCQUILLAN,Alastair,1755
+1,E14000909,UKIP,SCUTTER,John Frederick Charles,1869
+1,E14000909,Liberal Democrats,REYNOLDS,Ed,4711
+1,E14000909,Labour,PETO,Heather Warren James,13065
+1,E14000909,Conservative,DUNCAN,Alan James Carter,36169
+1,E14000910,UKIP,HOWE,Lorna Ann,2091
+1,E14000910,Liberal Democrats,HIBBS,Michael Anthony,8528
+1,E14000910,Labour,BERNEY,Carol Jane,12663
+1,E14000910,Conservative,BADENOCH,Olukemi,37629
+1,E14000911,Green Party,OLSEN,Wendy ,809
+1,E14000911,Liberal Democrats,REID,John Campbell,1286
+1,E14000911,UKIP,BARNES,Christopher,2320
+1,E14000911,Conservative,SUGARMAN,Jason,12036
+1,E14000911,Labour,LONG-BAILEY,Rebecca,31168
+1,E14000912,Independent,PENDRAGON,King Arthur,415
+1,E14000912,Green Party,OUBRIDGE,Brig,1152
+1,E14000912,UKIP,PALETHORPE,Dean,1191
+1,E14000912,Liberal Democrats,SAMPLE,Liberal Democrat,5982
+1,E14000912,Labour,CORBIN,Tom,13619
+1,E14000912,Conservative,GLEN,John Phillip,30952
+1,E14000913,Independent,JOHNSON,Gordon,82
+1,E14000913,Yorkshire,BLACK,William,369
+1,E14000913,Independent,FREEMAN,John,680
+1,E14000913,Green Party,MALONE,David,915
+1,E14000913,Liberal Democrats,LOCKWOOD,Robert Graham,1354
+1,E14000913,UKIP,CROSS,Sam,1682
+1,E14000913,Labour,BROADBENT,Eric,20966
+1,E14000913,Conservative,GOODWILL,Robert,24401
+1,E14000914,Liberal Democrats,DOWNES,Ryk,554
+1,E14000914,UKIP,TALLISS,Andrew Raymond,1247
+1,E14000914,Conservative,MUMBY?CROFT,Holly,17485
+1,E14000914,Labour,DAKIN,Nicholas,20916
+1,E14000915,Green Party,WILSON,Melissa,686
+1,E14000915,Liberal Democrats,PSALLIDAS,Stephen Anthony,797
+1,E14000915,UKIP,GRANT,John William,1763
+1,E14000915,Conservative,DAVISON,Dehenna Sheridan,16143
+1,E14000915,Labour,WILSON,Philip,22202
+1,E14000916,Green Party,CARTER,Michael Leslie,656
+1,E14000916,Liberal Democrats,LEWIS,Daniel George,1381
+1,E14000916,Conservative,MARSDEN,Jade Louise,17212
+1,E14000916,Labour,ESTERSON,William Roffen,32830
+1,E14000917,UKIP,PYCROFT,Anthony Roy,1713
+1,E14000917,Liberal Democrats,DELHOY,Callum,2293
+1,E14000917,Labour,BOWGETT,David John,19149
+1,E14000917,Conservative,ADAMS,Nigel,32921
+1,E14000918,Green Party,DODD,Phillip,1673
+1,E14000918,UKIP,CUSHWAY,Graham Russell,1894
+1,E14000918,Liberal Democrats,BULLION,Alan James,4280
+1,E14000918,Labour,CLARK,Christopher Robert,10727
+1,E14000918,Conservative,FALLON,Michael,32644
+1,E14000919,Green Party,BENNETT ,Natalie ,3848
+1,E14000919,Labour,BLOMFIELD ,Paul Christopher ,33963
+1,E14000919,Yorkshire,CARRINGTON ,Jack Patrick ,197
+1,E14000919,UKIP,COOK ,Dominic Michael ,1060
+1,E14000919,Liberal Democrats,MOHAMMED ,Shaffaq ,2465
+1,E14000919,Pirates,MORAN ,Robert Edward ,91
+1,E14000919,Conservative,ROE ,Stephanie ,6215
+1,E14000919,SDP,WESTNIDGE ,Joe ,38
+1,E14000920,Labour,BETTS ,Clive James Charles ,25520
+1,E14000920,Conservative,CAWREY ,Lindsey Ann ,13722
+1,E14000920,UKIP,DAWSON ,Dennise Ann ,2820
+1,E14000920,SDP,OBEROI ,Ishleen ,102
+1,E14000920,Liberal Democrats,ROSS ,Colin Arthur ,1432
+1,E14000921,Liberal Democrats,CLEMENT-JONES ,Simon William ,1061
+1,E14000921,WRP,DRIVER ,Mike ,137
+1,E14000921,Labour,FURNISS ,Gill ,28193
+1,E14000921,Green Party,KUBO ,Christine Gilligan ,737
+1,E14000921,UKIP,HARPER ,Shane ,2645
+1,E14000921,Conservative,NAUGHTON ,Michael James ,9050
+1,E14000921,SDP,RAHMAN ,Muzafar ,47
+1,E14000922,Liberal Democrats,CLEGG ,Nick ,19756
+1,E14000922,Labour,O�MARA ,Jared ,21881
+1,E14000922,Green Party,ROBIN ,Logan ,823
+1,E14000922,UKIP,THURLEY ,John Gordon ,929
+1,E14000922,Conservative,WALKER ,Ian Geoffrey ,13561
+1,E14000922,SDP,WINSTONE ,Steven Dominic ,70
+1,E14000923,UKIP,DENBY ,Howard ,1977
+1,E14000923,Conservative,GREGORY ,Gordon Christopher ,12696
+1,E14000923,Labour,HAIGH ,Louise ,26524
+1,E14000923,SDP,OBEROI ,Jaspreet ,64
+1,E14000923,Liberal Democrats,OTTEN ,Joe ,2022
+1,E14000923,Green Party,WALSH ,Declan Paul ,943
+1,E14000924,Green Party,FINDLEY,Mo,664
+1,E14000924,Liberal Democrats,THOMAS,Becky,1113
+1,E14000924,UKIP,BESTWICK,Stuart James,1801
+1,E14000924,Labour,PRINGLE,Mike,22294
+1,E14000924,Conservative,SPENCER,Mark Steven,27492
+1,E14000925,WEP,WALKER,Sophie,1040
+1,E14000925,Liberal Democrats,JONES,Caroline Rosemary,2202
+1,E14000925,Labour,CLAPCOTE,Steven,22736
+1,E14000925,Conservative,DAVIES,Philip,27417
+1,E14000926,Green Party,BULLARD,Emma Catherine Mary,1067
+1,E14000926,UKIP,HIGGINBOTTOM,Edward Arthur,1363
+1,E14000926,Liberal Democrats,FRASER,Hannah,4254
+1,E14000926,Labour,DAVIES,Laura Louisa,22446
+1,E14000926,Conservative,KAWCZYNSKI,Daniel Robert,29073
+1,E14000927,Independent,MCCALL,Lee Robert,292
+1,E14000927,MRLP,YOUNG,Mad Mike,403
+1,E14000927,Green Party,LINDOP,Mark Richard,558
+1,E14000927,Liberal Democrats,NEVOIS,Keith Stuart,1392
+1,E14000927,Independent,BALDOCK,Mike,2133
+1,E14000927,Labour,ROLFE,Mike,15700
+1,E14000927,Conservative,HENDERSON,Gordon Leonard,30911
+1,E14000928,Yorkshire,RENDER,Jack Malcolm Hopper,1539
+1,E14000928,Green Party,BROWN,Andrew Kenneth,3734
+1,E14000928,Labour,WOODHEAD,Alan Peter,16440
+1,E14000928,Conservative,SMITH,Julian Richard,36425
+1,E14000929,Independent,COYNE,Paul,900
+1,E14000929,Green Party,MCKENNA,Fiona,968
+1,E14000929,UKIP,CHADD,Sally,1954
+1,E14000929,Liberal Democrats,PEPPER,Ross David,2722
+1,E14000929,Labour,CLARKE ,Jim,17008
+1,E14000929,Conservative,JOHNSON,Caroline Elizabeth,42245
+1,E14000930,Independent,JANIK,Paul,417
+1,E14000930,UKIP,PEREZ,Karen,1228
+1,E14000930,Liberal Democrats,MCCANN,Thomas Diamond,1308
+1,E14000930,Conservative,VIVIS,Mark Richard Egner,17172
+1,E14000930,Labour,DHESI,Tanmanjeet Singh,34170
+1,E14000931,Green Party,MCLOUGHLIN,Maximillian Benedykt Patrick,1157
+1,E14000931,UKIP,GARCARZ,Andrew,1291
+1,E14000931,Liberal Democrats,ADEYEMO,Adekunle Nurudeen,8901
+1,E14000931,Labour,KNOWLES,Nigel,12414
+1,E14000931,Conservative,KNIGHT,Julian Carlton,32985
+1,E14000932,Independent,HADWIN,Richard Thomas,991
+1,E14000932,Green Party,SIMON,Theo,2347
+1,E14000932,Labour,DROMGOOLE,Sean Adam,10998
+1,E14000932,Liberal Democrats,BLACKBURN,Mark David Harry,13325
+1,E14000932,Conservative,WARBURTON,David John,36231
+1,E14000933,BNP,BORG,Paul,383
+1,E14000933,Green Party,HARMAN,Simeon Richard Phillip,680
+1,E14000933,Liberal Democrats,BANERJI,Reetendra Nath,732
+1,E14000933,UKIP,WHITTLE,Peter Robin,3193
+1,E14000933,Labour,TAYLOR,Bryon Kingsley,15321
+1,E14000933,Conservative,METCALFE,Stephen James,26811
+1,E14000934,Green Party,SAGGERS,Simon Peter,1512
+1,E14000934,Liberal Democrats,VAN DE VEN,Susan Elizabeth Kerr,12102
+1,E14000934,Labour,GREEF,Daniel James,17679
+1,E14000934,Conservative,ALLEN,Heidi-Suzanne,33631
+1,E14000935,Green Party,KATS,Ruud Martinus,917
+1,E14000935,Liberal Democrats,JOHNSON,Lorraine Karen,1870
+1,E14000935,Labour,PEARSON,Robert William,18937
+1,E14000935,Conservative,WHEELER,Heather Kay,30907
+1,E14000936,Green Party,ORRELL,Jonathan Martin,2278
+1,E14000936,Liberal Democrats,LEGG,Howard Richard,3053
+1,E14000936,Labour,WARR,Tashi Maria,17440
+1,E14000936,Conservative,DRAX,Richard Grosvenor,29135
+1,E14000937,Liberal Democrats,NETHISINGHA,Lucy Kathleen,11958
+1,E14000937,Labour,JONES,Huw,17443
+1,E14000937,Conservative,FRAZER,Lucy Claire,33601
+1,E14000938,Green Party,CORNEY,Martin Charles Stewart,1335
+1,E14000938,Liberal Democrats,HUTTY,Phil,10346
+1,E14000938,Labour,DERRICK,Gareth Gwyn James,12050
+1,E14000938,Conservative,MURRAY,Sheryll,29493
+1,E14000939,Independent,STRINGER,Victor Richard,342
+1,E14000939,Green Party,WILSHIRE,Daniel Luke,894
+1,E14000939,Liberal Democrats,CAMBRIDGE,Julia,1433
+1,E14000939,UKIP,SMITH,Nicola Jane,2185
+1,E14000939,Labour,KOWALEWSKI,Wojciech Stanislaw,10282
+1,E14000939,Conservative,HAYES,John Henry,35179
+1,E14000940,Green Party,MORGAN,Mary Scott,1092
+1,E14000940,UKIP,HELMER,Roger,2235
+1,E14000940,Liberal Democrats,WEBB,Gregory Philip,2403
+1,E14000940,Labour,ASLAM,Muhammad Shabbir,16164
+1,E14000940,Conservative,COSTA,Alberto Castrenze,34795
+1,E14000941,Green Party,ROWETT,Catherine Joanna,1555
+1,E14000941,Liberal Democrats,BROWN,Christopher John,5074
+1,E14000941,Labour,GLAVIN,Danielle Clare,18902
+1,E14000941,Conservative,BACON,Richard Michael,35580
+1,E14000942,Independent,PHILLIS,Josh,297
+1,E14000942,Green Party,DONALDSON,Denise Ann,1357
+1,E14000942,UKIP,WICKENS,Nigel Mark,1363
+1,E14000942,Liberal Democrats,LOFTS,Chris,3623
+1,E14000942,Labour,JOHNSON,Sophie,17759
+1,E14000942,Conservative,LEADSOM,Andrea Jacqueline,40599
+1,E14000943,NHAP,JARNELL,Mark Andrew,341
+1,E14000943,Green Party,WIGHT,Andrew Edward,494
+1,E14000943,UKIP,SMITH,Mark Lawrence,1387
+1,E14000943,Liberal Democrats,WRIGHT,John Patrick,2073
+1,E14000943,Labour,GIBSON,Julie Patricia,21559
+1,E14000943,Conservative,KENNEDY,Seema Louise Ghiassi,28980
+1,E14000944,Liberal Democrats,GORDON,Gita,681
+1,E14000944,Green Party,FORD,Shirley Florence,1437
+1,E14000944,UKIP,ELVIN,Richard Peter,3006
+1,E14000944,Conservative,BUCHAN,Felicity Christina,10570
+1,E14000944,Labour,LEWELL-BUCK,Emma Louise,25078
+1,E14000945,Green Party,MCILVENNA,Claire,1182
+1,E14000945,Liberal Democrats,MYERS,Hilary Alice,1348
+1,E14000945,Labour,FREEMAN,Adam Ashley,12923
+1,E14000945,Conservative,WILLIAMSON,Gavin Alexander,35656
+1,E14000946,UKIP,POWLESLAND,Aidan Christopher Ulrich,1449
+1,E14000946,Green Party,LINDSAY,Robert James,1723
+1,E14000946,Liberal Democrats,AALDERS-DUNTHORNE,Andrew Paul,3154
+1,E14000946,Labour,BISHTON,Emma Jane,15080
+1,E14000946,Conservative,CARTLIDGE,James Roger,32829
+1,E14000947,Green Party,KIMBERLEY-FAIRBOURN,Talis,747
+1,E14000947,UKIP,COSTELLO,Martin Paul,1291
+1,E14000947,Liberal Democrats,PAJAK,Stanley James,2079
+1,E14000947,Labour,CHURCH,Sarah,22345
+1,E14000947,Conservative,BUCKLAND,Robert James,24809
+1,E14000948,CPA,FISHER,Faith Miracle,115
+1,E14000948,Independent,GARBUTT,Tim,181
+1,E14000948,Green Party,ROPER,Trevor Burnell,809
+1,E14000948,Liberal Democrats,WILLIAMS,Jordan Luke,1514
+1,E14000948,UKIP,PIPER,Rev. Stuart,2997
+1,E14000948,Labour,ARA,Raushan,18875
+1,E14000948,Conservative,MACKINLAY,Craig,25262
+1,E14000949,CPA,MAPOH,Morenike Adesoye,301
+1,E14000949,Green Party,RENNIE,Morvern Ann,950
+1,E14000949,Liberal Democrats,NORTON,Daniel Millington,2630
+1,E14000949,Labour,SCOTT,Daniel,18793
+1,E14000949,Conservative,SELOUS,Andrew Edmund Armstrong,32961
+1,E14000950,Green Party,SCUTT,Win,1133
+1,E14000950,UKIP,ROSS,Ian,1540
+1,E14000950,Liberal Democrats,VOADEN,Caroline Jane,2732
+1,E14000950,Labour,DAVEY,Philli[[A ,15818
+1,E14000950,Conservative,STREETER,Gary Nicolas,31634
+1,E14000951,UKIP,ANDERSON,Mark,1293
+1,E14000951,Green Party,DE HOEST,Paul,1576
+1,E14000951,Liberal Democrats,TOWNSEND,Christopher,7078
+1,E14000951,Labour,WAKELY,Rob,15578
+1,E14000951,Conservative,GAUKE,David Michael,35128
+1,E14000952,Liberal Democrats,GORDON,Stephen Joseph,2365
+1,E14000952,UKIP,WILLIAMS,David Rhys,2575
+1,E14000952,Labour,SMITH,Peter David,14582
+1,E14000952,Conservative,TRUSS,Elizabeth Mary,32894
+1,E14000953,UKIP,WEBBER,Mark Adrian,1083
+1,E14000953,Liberal Democrats,PURKISS,Ollie,5967
+1,E14000953,Labour,BLACK,David Peter,7606
+1,E14000953,NHAP,IRVINE,Louise,12093
+1,E14000953,Conservative,HUNT,Jeremy,33683
+1,E14000954,Independent,SILCOCKS,Liam Bruce,590
+1,E14000954,Green Party,WALFORD,Christopher Howard,1445
+1,E14000954,Liberal Democrats,CARBIN,Trevor William,5360
+1,E14000954,Labour,PICTOR,Laura Michelle,14515
+1,E14000954,Conservative,MURRISON,Andrew William,32841
+1,E14000955,Green Party,PEARCE,Rosie Beth,725
+1,E14000955,UKIP,ROSE,Kim,1122
+1,E14000955,Liberal Democrats,BELL,Eleanor,1421
+1,E14000955,Labour,LETTS,Simon Jonathon,21742
+1,E14000955,Conservative,SMITH,Royston Matthew,21773
+1,E14000956,Independent,MORRELL,Keith,680
+1,E14000956,Independent,POPE,Andrew Douglas,816
+1,E14000956,Liberal Democrats,GRAVATT,Thomas Stephen,1892
+1,E14000956,Conservative,HOLMES,Paul John,16006
+1,E14000956,Labour,WHITEHEAD,Alan Patrick Vincent,27509
+1,E14000957,Independent,PILLEY,Jason Stephen,187
+1,E14000957,SIA,CALLAGHAN,Tino,305
+1,E14000957,Green Party,ELLIS,Dominic George,831
+1,E14000957,UKIP,STANSFIELD,John David,1666
+1,E14000957,Liberal Democrats,SALEK,Lucy Victoria,2110
+1,E14000957,Labour,WARE-LANE,Julian Gabriel St. John,16046
+1,E14000957,Conservative,AMESS,David Anthony Andrew,26046
+1,E14000958,UKIP,DURRANCE,Terry John,1127
+1,E14000958,Liberal Democrats,MCGUIRE,Sue,12661
+1,E14000958,Labour,SAVAGE,Liz,15627
+1,E14000958,Conservative,MOORE,Damien,18541
+1,E14000959,Green Party,JACOBS,Paul John,1105
+1,E14000959,UKIP,CUNNINGHAM,Redvers Paul,2296
+1,E14000959,Liberal Democrats,SHIMELL,Rosamund Joy,2755
+1,E14000959,Labour,GEACH,Rebecca,15267
+1,E14000959,Conservative,KWARTENG,Kwasi,28692
+1,E14000960,Green Party,EASTON,Jack Edwards,828
+1,E14000960,Labour,POLLARD,Kerry Patrick,13137
+1,E14000960,Liberal Democrats,COOPER,Daisy,18462
+1,E14000960,Conservative,MAIN,Anne Margaret,24571
+1,E14000961,Liberal Democrats,GILBERT,Stephen David John,11642
+1,E14000961,Labour,NEIL,Kevin Michael,15714
+1,E14000961,Conservative,DOUBLE,Steve,26856
+1,E14000962,Green Party,PARKINGSON,Rachel,1220
+1,E14000962,Liberal Democrats,MORRISON,Tom,1287
+1,E14000962,UKIP,PEERS,Peter,2097
+1,E14000962,Conservative,NG,Jackson,13606
+1,E14000962,Labour,MCGINN,Conor Patrick,32012
+1,E14000963,Green Party,NORTHEY,Jess,1417
+1,E14000963,UKIP,HITCHIN,Mark Joseph,1953
+1,E14000963,Liberal Democrats,SPENCER,Brian Thomas,2101
+1,E14000963,Conservative,MCRANDAL,Ed,11536
+1,E14000963,Labour,RIMMER,Marie Elizabeth,35879
+1,E14000964,Labour,DREW,Christopher John,7298
+1,E14000964,Liberal Democrats,GEORGE,Andrew Henry,21808
+1,E14000964,Conservative,THOMAS,Derek,22120
+1,E14000965,Green Party,PEARCE   ,Tony,1265
+1,E14000965,Liberal Democrats,TINKER   ,Christine Mary,1540
+1,E14000965,Labour,WILLIAMS   ,David,20695
+1,E14000965,Conservative,LEFROY   ,Jeremy John Elton,28424
+1,E14000966,Green Party,SHONE,Mike,541
+1,E14000966,Liberal Democrats,JEBB,Henry,1494
+1,E14000966,Independent,SHELDON,Nicholas,1524
+1,E14000966,Labour,JONES,Dave,15133
+1,E14000966,Conservative,BRADLEY,Karen,25963
+1,E14000967,Green Party,WOOD,Julie,991
+1,E14000967,Liberal Democrats,ANKERS,Paul John,996
+1,E14000967,Conservative,DOWSE,Thomas David,16193
+1,E14000967,Labour,REYNOLDS,Jonathon Neil,24277
+1,E14000968,Green Party,SNELLING,Victoria Louise,1085
+1,E14000968,Liberal Democrats,GIBSON,Barbara Ann,2032
+1,E14000968,Labour,TAYLOR,Sharon Jane,21412
+1,E14000968,Conservative,MCPARTLAND,Stephen Anthony,24798
+1,E14000969,Green Party,LAWSON,Gary,591
+1,E14000969,UKIP,KELLY,John Howard,1088
+1,E14000969,Liberal Democrats,HAWTHORNE,Daniel,1778
+1,E14000969,Conservative,HAMILTON,Daniel Robert,11805
+1,E14000969,Labour,COFFEY,Ann,26282
+1,E14000970,Green Party,ROBSON,Emma,358
+1,E14000970,Liberal Democrats,BROWN,Sarah Louise,646
+1,E14000970,UKIP,STRIKE,Ted,1834
+1,E14000970,Conservative,FLETCHER,Mark Peter,15589
+1,E14000970,Labour,CUNNINGHAM,Alex,24304
+1,E14000971,Green Party,FITZGERALD,Jo,371
+1,E14000971,Liberal Democrats,DURNING,Drew,951
+1,E14000971,UKIP,CUTTERSIDE,David Michael,1186
+1,E14000971,Conservative,WHARTON,James Stephen,25214
+1,E14000971,Labour,WILLIAMS,Paul Daniel,26102
+1,E14000972,Independent,FIELDING MORRISS,Barbara Ellen Rhoda,210
+1,E14000972,Green Party,COLCLOUGH,Adam,378
+1,E14000972,Liberal Democrats,ANDRAS,Peter Emil,680
+1,E14000972,UKIP,HAROLD,Michael,1608
+1,E14000972,Conservative,JELLYMAN,Daniel Mark,13186
+1,E14000972,Labour,SNELL,Gareth Craig,17083
+1,E14000973,Green Party,ROUXEL,Douglas Peter,685
+1,E14000973,Liberal Democrats,WHELAN,Richard Mark,916
+1,E14000973,Conservative,ADAMS,Benedict Burne,18913
+1,E14000973,Labour,SMEETH,Ruth Lauren,21272
+1,E14000974,Green Party,ZABLOCKI,Jan,643
+1,E14000974,Liberal Democrats,WILKES,Ian Frank,808
+1,E14000974,Labour,FLELLO,Robert Charles Douglas,19788
+1,E14000974,Conservative,BRERETON,Jack Edgar,20451
+1,E14000975,Green Party,PANCHERI   ,Samantha Jay,707
+1,E14000975,UKIP,WHITFIELD   ,Edward Henry,1370
+1,E14000975,Liberal Democrats,LEWIS   ,Martin Wyn,2222
+1,E14000975,Labour,HALE   ,Sam,14119
+1,E14000975,Conservative,CASH   ,Bill,31614
+1,E14000976,Green Party,MOHR,Andrew Paul,493
+1,E14000976,Liberal Democrats,BRAMALL,Christopher Ashley,1083
+1,E14000976,UKIP,WILSON,Glen Patrick,1801
+1,E14000976,Labour,LOWE,Peter Leslie,18052
+1,E14000976,Conservative,JAMES,Margot Cathleen,25706
+1,E14000977,Independent,DARWOOD,Thomas Faithful,219
+1,E14000977,Independent,SPURWAY,Janet Lynette,255
+1,E14000977,Green Party,GILES,Domonic Stephen,1345
+1,E14000977,Liberal Democrats,ADAMS,Elizabeth Francesca,6357
+1,E14000977,Labour,KENNER,Jeffery Simon,11699
+1,E14000977,Conservative,ZAHAWI,Nadhim,33657
+1,E14000978,UKIP,STEPHENSON,Robert,349
+1,E14000978,Green Party,GRIFFITHS,Nicole Ruth,1696
+1,E14000978,Liberal Democrats,DAVIES,Alexander David John,3611
+1,E14000978,Conservative,CADDY,Kim,11927
+1,E14000978,Labour,UMUNNA,Chuka Harrison,38212
+1,E14000979,CPA,DOMAN,Rose,122
+1,E14000979,Green Party,INGLESON,Michael James,641
+1,E14000979,Liberal Democrats,FRYER,Anna Corrina,1001
+1,E14000979,UKIP,BEAUMONT,Andrew,1094
+1,E14000979,Conservative,COOKE,Lisa Jane,13814
+1,E14000979,Labour,GREEN,Katherine Anne,33519
+1,E14000980,UKIP,GOGERLY,Glenville Alexander,1039
+1,E14000980,Green Party,LUNNON,Sarah,1423
+1,E14000980,Liberal Democrats,WILKINSON,Maximillian Peter Mcgregor,2053
+1,E14000980,Conservative,CARMICHAEL,Neil,29307
+1,E14000980,Labour,DREW,David Elliot,29994
+1,E14000981,Independent,YOUNG,Phillip Anderson,810
+1,E14000981,Green Party,O'NOLAN,Eamonn,1802
+1,E14000981,Liberal Democrats,SANDBACH,James Peter Charles,4048
+1,E14000981,Labour,MATTHEWS,Cameron Graham,17701
+1,E14000981,Conservative,COFFEY,Therese Anne,33713
+1,E14000982,Independent,COCKBURN,Sean Christopher,305
+1,E14000982,Green Party,FEATHERSTONE,Rachel Sara,705
+1,E14000982,Liberal Democrats,HODSON,Niall Dane,1777
+1,E14000982,UKIP,LEIGHTON,Gary James,2209
+1,E14000982,Conservative,OLIVER,Robert Geoffrey,15059
+1,E14000982,Labour,ELLIOT,Julie,25056
+1,E14000983,Green Party,GALLIFORD,Sharon Rose,2258
+1,E14000983,Liberal Democrats,BARKER,Ann-Marie,6271
+1,E14000983,Labour,ATROSHI,Laween,12175
+1,E14000983,Conservative,GOVE,Michael Andrew,37118
+1,E14000984,Green Party,JACKSON-PRIOR,Claire Elizabeth,871
+1,E14000984,Labour,CRAVEN,Bonnie,10663
+1,E14000984,Liberal Democrats,AHMAD,Amna,13869
+1,E14000984,Conservative,SCULLY,Paul Stuart,26567
+1,E14000985,Independent,SOPHIA,Hannah,482
+1,E14000985,Green Party,RATCLIFF,David Martin,965
+1,E14000985,Liberal Democrats,WILKINSON,Jennifer Jane,2302
+1,E14000985,Labour,POCOCK,Rob,16885
+1,E14000985,Conservative,MITCHELL,Andrew,32224
+1,E14000986,Labour,HAMMOND,Andrew,16401
+1,E14000986,Conservative,PINCHER,Christopher John,28748
+1,E14000986,Liberal Democrats,PINKETT,Jenny,1961
+1,E14000987,Independent,ABEL,Quentin,920
+1,E14000987,Green Party,HENNERLEY,Nigel Robert,1024
+1,E14000987,Liberal Democrats,WILSON,Gareth George,4431
+1,E14000987,Labour,RUSHWORTH,Sam,13977
+1,E14000987,Conservative,MCVEY,Esther Louise,28764
+1,E14000988,Green Party,MARTIN,Clive Patrick,1151
+1,E14000988,UKIP,DIMMICK,Alan Ivor,1434
+1,E14000988,Labour,JEVON,Martin Lee Paul,9689
+1,E14000988,Liberal Democrats,AMOS,Gideon John,17446
+1,E14000988,Conservative,CLARK,Rebecca Faye,33333
+1,E14000989,Green Party,SHIRLEY,Luke,898
+1,E14000989,Liberal Democrats,KING,Susan Mary,954
+1,E14000989,Labour,SAHOTA,Kuldip Singh,21057
+1,E14000989,Conservative,ALLEN,Lucy,21777
+1,E14000990,UKIP,COLLINS,Simon Paul,1205
+1,E14000990,Green Party,CODY,Cate,1576
+1,E14000990,Liberal Democrats,CLUCAS,Cait,7981
+1,E14000990,Labour,KANG,Manjinder Singh,12874
+1,E14000990,Conservative,ROBERTSON,Laurence Anthony,35448
+1,E14000991,Independent,STEEL,James Alexander Drummond,107
+1,E14000991,UKIP,HARLOW,Christopher William,1197
+1,E14000991,Green Party,POOLE,Sabrina Helen Marie,1747
+1,E14000991,Liberal Democrats,GANT,Andrew John,9748
+1,E14000991,Labour,HUBAND,Mark Christopher,10702
+1,E14000991,Conservative,CLIFTON-BROWN,Geoffery Robert,36201
+1,E14000992,Independent,EASTON,Fay Shirley,380
+1,E14000992,Green Party,MCCARTHY,Patrick,804
+1,E14000992,Liberal Democrats,KEYES,Roderick Alan,1345
+1,E14000992,UKIP,ALLEN,Denis Graham,1656
+1,E14000992,Labour,HARRISON,Dylan,17887
+1,E14000992,Conservative,PRITCHARD,Mark Andrew,27451
+1,E14000993,Independent,TATE,Phillip James,542
+1,E14000993,Liberal Party,CLARK,John,753
+1,E14000993,Green Party,BRAMPTON,Martin,1100
+1,E14000993,UKIP,HORTON,Toby,1532
+1,E14000993,Liberal Democrats,KEAL,Dinah Elizabeth,3859
+1,E14000993,Labour,AVERY,Alan Phillip,14571
+1,E14000993,Conservative,HOLLINRAKE,Kevin Paul,33572
+1,E14000994,Green Party,HAMILTON,Iain Adams,633
+1,E14000994,Labour,MEAD,Brian,6112
+1,E14000994,Liberal Democrats,YOUNG,Claire Louise,15937
+1,E14000994,Conservative,HALL,Luke,28008
+1,E14000995,Liberal Democrats,MCNAMARA,Kevin Michael Peter,798
+1,E14000995,UKIP,AKER,Tim Mark,10112
+1,E14000995,Labour,KENT,John George,19535
+1,E14000995,Conservative,DOYLE-PRICE,Jacqueline,19880
+1,E14000996,Green Party,WESTCOTT,Gill,2035
+1,E14000996,Liberal Democrats,WILSON,Matthew Ronald,4639
+1,E14000996,Labour,KOLEK,Caroline,15670
+1,E14000996,Conservative,PARISH,Neil,35471
+1,E14000997,UKIP,BULLEN,Colin Richard,1857
+1,E14000997,Green Party,CLARK,April Elizabeth,2335
+1,E14000997,Liberal Democrats,MILLER,Keith,3787
+1,E14000997,Labour,JONES,Dylan Alexander,12710
+1,E14000997,Conservative,TUGENDHAT,Tom,36218
+1,E14000998,UKIP,COSHALL,Ryan,339
+1,E14000998,Green Party,OBIRI-DARKO,Esther,845
+1,E14000998,Liberal Democrats,GLASSBROOK,Alexander James,3057
+1,E14000998,Conservative,WATKINS,Daniel Richard,19236
+1,E14000998,Labour,ALLIN-KHAN,Rosena Chantelle,34694
+1,E14000999,Green Party,MOSS,Sam,652
+1,E14000999,UKIP,MCINTYRE,Tony,1213
+1,E14000999,Labour,RAYBOULD,Paul Andrew,9310
+1,E14000999,Liberal Democrats,BREWER,Deborah Ellen Clare,12858
+1,E14000999,Conservative,FOSTER,Kevin,27141
+1,E14001000,Independent,JULIAN,Robin,794
+1,E14001000,Green Party,JORDAN,Chris,1622
+1,E14001000,Liberal Democrats,CHALMERS,David Nigel,10526
+1,E14001000,Labour,BARRY,Vince,12926
+1,E14001000,Conservative,COX,Geoffrey,33612
+1,E14001001,UKIP,HARVEY,Steven James,1240
+1,E14001001,Green Party,HODGSON,Jacqi,2097
+1,E14001001,Liberal Democrats,BRAZIL,Julian,6466
+1,E14001001,Labour,MESSER,Gerrie Lee,13495
+1,E14001001,Conservative,WOLLASTON,Sarah,26972
+1,E14001002,UKIP,RUMBLE,Patricia Ann,462
+1,E14001002,Green Party,FRANCIS,Janelle Andrae,1276
+1,E14001002,Liberal Democrats,HALEY,Brian Andrew,1687
+1,E14001002,Conservative,STACEY,Myles,5665
+1,E14001002,Labour,LAMMY,David,40249
+1,E14001003,Green Party,PENNINGTON,Amanda Alice,831
+1,E14001003,UKIP,ODGERS,Duncan Charles,897
+1,E14001003,Liberal Democrats,NOLAN,Rob,8465
+1,E14001003,Labour,KIRKHAM,Jayne Susannah,21331
+1,E14001003,Conservative,NEWTON,Sarah Louise,25123
+1,E14001004,WEP,THOMAS,C�line,702
+1,E14001004,Green Party,BISDEE,Trevor Tyrone,1441
+1,E14001004,UKIP,HOARE,Chris,1464
+1,E14001004,Liberal Democrats,SADLER,Rachel Cerys,5355
+1,E14001004,Labour,WOODGATE,Charles Francis,14391
+1,E14001004,Conservative,CLARK,Greg,30856
+1,E14001005,Labour,DUNNE,Katherine Sarah,6114
+1,E14001005,Conservative,MATHIAS,Dr Tania ,25207
+1,E14001005,Liberal Democrats,CABLE,Vince,34969
+1,E14001006,Independent,THE DURHAM COBBERLER,Anthony Jull,124
+1,E14001006,Green Party,ERSKINE,Julia Anne,629
+1,E14001006,UKIP,HOUGHTON,Steward William,1257
+1,E14001006,Liberal Democrats,JOHN CHRISTOPHER ,Appleby,1724
+1,E14001006,Conservative,VARLEY,Nick,20729
+1,E14001006,Labour,CAMPBELL,Alan,32395
+1,E14001007,Green Party,KEIR,Mark Alan,884
+1,E14001007,UKIP,KEMP,Elizabeth Helen,1577
+1,E14001007,Liberal Democrats,ROBSON,Rosina Jane,1835
+1,E14001007,Labour,LO,Vincent,18682
+1,E14001007,Conservative,JOHNSON,Alexander Boris,23716
+1,E14001008,PPUK,CHAPMAN,Mark,172
+1,E14001008,WEP,IYENGAR,Harini,539
+1,E14001008,Green Party,HASNAIN,Gulnar Imteyaz,1152
+1,E14001008,Conservative,THEIS,Dolly,10277
+1,E14001008,Liberal Democrats,TURNER,George Nicholas,11326
+1,E14001008,Labour,HOEY,Kate,31576
+1,E14001009,Independent,ALI,Wajid Mohammed,367
+1,E14001009,Liberal Democrats,CRONIN,Denis Finbarr,943
+1,E14001009,Yorkshire,BROWN,Lucy Victoria,1176
+1,E14001009,Conservative,CALVERT,Antony Jaimes,20811
+1,E14001009,Labour,CREAGH,Mary Helen,22987
+1,E14001010,Green Party,CLOUGH,Lily,637
+1,E14001010,Liberal Democrats,CHILDS,Paul Phillip,772
+1,E14001010,UKIP,CAPLIN,Debra Lynsay,1160
+1,E14001010,Conservative,LIVSEY,Andy,11232
+1,E14001010,Labour,EAGLE,Angela,34552
+1,E14001011,Liberal Democrats,PARASAM,Isabelle,586
+1,E14001011,UKIP,HAZELL,Elizabeth Anne,2295
+1,E14001011,Labour,WINNICK,David Julian,16318
+1,E14001011,Conservative,HUGHES,Edmund Francis,18919
+1,E14001012,Liberal Democrats,WELLINGS PURVIS,Anna Rachel,587
+1,E14001012,UKIP,BENNETT,Derek,1805
+1,E14001012,Conservative,BIRD,James Andrew,16394
+1,E14001012,Labour,VAZ,Valerie,25286
+1,E14001013,Green Party,JOHNS,Andrew David,1190
+1,E14001013,Liberal Democrats,OBASI,Ukonu,1384
+1,E14001013,Conservative,SAMUEL,Molly Irene,6776
+1,E14001013,Labour,CREASY,Stella Judith,38793
+1,E14001014,Green Party,LEYLAND,Steven John,715
+1,E14001014,UKIP,HURST,Melaine,1483
+1,E14001014,Liberal Democrats,TEBBUTT,Joan Carol,2015
+1,E14001014,Conservative,GALLEY,Chris,13903
+1,E14001014,Labour,LAVERY,Ian,24338
+1,E14001015,UKIP,MCLEOD,David Jack,1284
+1,E14001015,Green Party,ROBERTS,Susan Clare,1546
+1,E14001015,Liberal Democrats,CARRIGAN,Christopher,9234
+1,E14001015,Labour,EDEN,Rachel Claire,17079
+1,E14001015,Conservative,VAIZEY,Edward Henry Butler,34459
+1,E14001016,UKIP,MAGHER,Daryl,1349
+1,E14001016,Conservative,MANGNALL,Anthony,10521
+1,E14001016,Liberal Democrats,MANLEY-GREEN,Bryan,777
+1,E14001016,Green Party,REDDING,Mark,555
+1,E14001016,Labour,SPELLAR,John,27004
+1,E14001017,Green Party,MCATEER,Lyndsay,619
+1,E14001017,Liberal Democrats,KRIZANAC,Stefan,1207
+1,E14001017,UKIP,ASHINGTON,James,1561
+1,E14001017,Conservative,ALLEN,Val,17774
+1,E14001017,Labour,JONES,Helen Mary,27356
+1,E14001018,Independent,BOULTON,John,1217
+1,E14001018,Liberal Democrats,BARR,Bob,3339
+1,E14001018,Conservative,MOWAT,David John,27445
+1,E14001018,Labour,RASHID,Faisal,29994
+1,E14001019,UKIP,DHILLON,Prabhjiet Singh,799
+1,E14001019,Green Party,CHILVERS,Jonathon,1198
+1,E14001019,Liberal Democrats,SOLMAN,Nicholas James,2810
+1,E14001019,Conservative,WHITE,Christopher Mark Francis,24021
+1,E14001019,Labour,WESTERN,Matthew Raymond,25227
+1,E14001020,Green Party,CHANTKOWSKI,Michal,514
+1,E14001020,Liberal Democrats,APPLEBY,Tom,961
+1,E14001020,UKIP,FOSTER,Bryan George,2761
+1,E14001020,Conservative,GULLIS,Jonathon Edward,11699
+1,E14001020,Labour,HODGSON,Sharon,24639
+1,E14001021,Green Party,MURRAY,Alexander John Oxtoby,721
+1,E14001021,UKIP,GREEN,Ian Frederick James,1184
+1,E14001021,Liberal Democrats,STOTESBURY,Ian Alexander Eric,5335
+1,E14001021,Labour,OSTROWSKI,Christopher Michael,24639
+1,E14001021,Conservative,HARRINGTON,Richard Irwin,26731
+1,E14001022,Independent,BARRON,Allyson Margaret,326
+1,E14001022,Liberal Democrats,HOWE,Jacky,1012
+1,E14001022,Green Party,BRAMBLEY-CRAWSHAW,Elfrede Mary,1332
+1,E14001022,UKIP,POOLE,Bertie Robert,1933
+1,E14001022,Labour,BARKER,Sonia Valerie,19428
+1,E14001022,Conservative,ALDOUS,Peter James Guy,28643
+1,E14001023,UKIP,BURTON,Nicola Audrey,1798
+1,E14001023,Green Party,STOCKS,Colin Geoffrey,1959
+1,E14001023,Liberal Democrats,BOWERS,Chris,6281
+1,E14001023,Labour,SMITH,Angela Louise,13399
+1,E14001023,Conservative,GHANI,Nus,37027
+1,E14001024,Green Party,COPEMAN,Christopher George Theodore,786
+1,E14001024,Liberal Democrats,ROBERTS,Paul David,1623
+1,E14001024,Conservative,EVANS,Graham Thomas,22138
+1,E14001024,Labour,AMESBURY,Mike,26066
+1,E14001025,Green Party,HORNETT,Jonathan Terence,956
+1,E14001025,Liberal Democrats,NELSON,Chris,1782
+1,E14001025,UKIP,SHIPHAM,Allan James,1804
+1,E14001025,Labour,WATTS,Andrea Jayne,18119
+1,E14001025,Conservative,BONE,Peter William,30579
+1,E14001026,CPA,CORKE ,Lorna Irene Bromley,320
+1,E14001026,Labour,MERRYFIELD,Andy,7129
+1,E14001026,Liberal Democrats,MUNT,Tessa Jane,22906
+1,E14001026,Conservative,HEAPPEY,James Stephen,30488
+1,E14001027,Independent,JONES,Melvyn,178
+1,E14001027,Green Party,SAYERS,Christianne Nirvanha Lyons,835
+1,E14001027,Liberal Democrats,QUINTON,Nigel Alan,3836
+1,E14001027,UKIP,MILLIKEN,Dean James,1441
+1,E14001027,Labour,MIAH,Anawar Babul,19005
+1,E14001027,Conservative,SHAPPS,Grant,26374
+1,E14001028,Liberal Democrats,MIDDLETON,Janice,1656
+1,E14001028,Conservative,JACKSON,Steven Paul,13744
+1,E14001028,Labour,HEALEY,John,28547
+1,E14001029,Conservative,CRANE,Emma,14951
+1,E14001029,Green Party,MACEFIELD,John,533
+1,E14001029,Independent,RANKINE,Colin,325
+1,E14001029,Liberal Democrats,TRENCH,Karen,625
+1,E14001029,Labour,WATSON,Tom,22664
+1,E14001030,UKIP,ANDERTON,Star,2320
+1,E14001030,Labour,BAILEY,Adrian,18789
+1,E14001030,Green Party,BUCKMAN,Robert,323
+1,E14001030,Liberal Democrats,CLUCAS,Flo,333
+1,E14001030,Conservative,HARDIE,Andrew,14329
+1,E14001031,Green Party,CLAYTON,Kelvin Charles,1631
+1,E14001031,Labour,RHODES,Lee,10896
+1,E14001031,Liberal Democrats,CANNING,Andrew James,13990
+1,E14001031,Conservative,LETWIN,Oliver,33081
+1,E14001032,CPA,SHEDOWO,Kayode,353
+1,E14001032,Green Party,SPRACKLIN,Michael John,957
+1,E14001032,UKIP,BEATTIE,Rosamund Catherine,1134
+1,E14001032,Liberal Democrats,REYNOLDS,Paul Edward Michael,1836
+1,E14001032,Conservative,SPENCER,Michael Patrick,9837
+1,E14001032,Labour,BROWN,Lyn Carol,46591
+1,E14001033,WVPTF,BRAID,David Oswald,269
+1,E14001033,Green Party,HIGGINS,Nathaniel Kevan Stewart,680
+1,E14001033,Liberal Democrats,BARTON,Joanne,1069
+1,E14001033,Conservative,CURRIE,Samuel Peter,20341
+1,E14001033,Labour,COOPER,Rosemary Elizabeth,32030
+1,E14001034,Green Party,ALLWRIGHT,Donald Francis,935
+1,E14001034,Liberal Democrats,TEALBY-WATSON,Elfreda,2180
+1,E14001034,UKIP,FLOOD,Julian,2396
+1,E14001034,Labour,JERRERYS,Michael John,14586
+1,E14001034,Conservative,HANCOCK,Matthew David John,31649
+1,E14001035,UKIP,SAVAGE,Michael David,1481
+1,E14001035,Green Party,MCVEY,Natalie Maria,1605
+1,E14001035,Liberal Democrats,MCMILLAN-SCOTT,Edward Hugh Christian,5307
+1,E14001035,Labour,CHARLES,Samantha Kay,13375
+1,E14001035,Conservative,BALDWIN,Harriet Mary Morison,34703
+1,E14001036,Independent,DHARAMSI,Abby Jan-Mohamed,91
+1,E14001036,Green Party,TANDY,Emmanuelle Catherine,595
+1,E14001036,Liberal Democrats,HARDING-LAST,Alex Harding,2253
+1,E14001036,Conservative,HALL,Lindsey Jayne Bruce,14422
+1,E14001036,Labour,BUCK,Karen Patricia,25934
+1,E14001037,Independent,ELLIS,Mr Fishfinger,309
+1,E14001037,Labour,ALDRIDGE,Eli Aldridge,4783
+1,E14001037,Conservative,AIREY,James,22909
+1,E14001037,Liberal Democrats,FARRON,Tim Farron,23686
+1,E14001038,Green Party,BASU,Suneil,888
+1,E14001038,UKIP,HIMS,Helen Dorothy,1932
+1,E14001038,Liberal Democrats,BELL,Mike,5175
+1,E14001038,Labour,TAYLOR,Timothy James,18438
+1,E14001038,Conservative,PENROSE,John David,29982
+1,E14001039,Green Party,PATTERSON,William John,753
+1,E14001039,Liberal Democrats,CLAYTON,Mark,916
+1,E14001039,UKIP,RYDING,Nathan Alan,2750
+1,E14001039,Conservative,WILLIAMS,Alexander Paul,13548
+1,E14001039,Labour,NANDY,Lisa Eva,29575
+1,E14001040,UKIP,MCDONALD,David,553
+1,E14001040,Green Party,BARABELL,Charles,1231
+1,E14001040,Liberal Democrats,QUILLIAM,Carl,7472
+1,E14001040,Labour,UDDIN,Imran,18324
+1,E14001040,Conservative,HAMMOND,William,23946
+1,E14001041,TJACP,MORSE,Teresa Mary,149
+1,E14001041,UKIP,LYON,Martin Edward,695
+1,E14001041,Green Party,WAINWRIGHT,Andrew Karl,846
+1,E14001041,Labour,CHALONER,Mark,6007
+1,E14001041,Liberal Democrats,PORTER,Jacqueline Anne,19730
+1,E14001041,Conservative,BRINE,Stephen Charles,29729
+1,E14001042,Green Party,MCKEOWN,Fintan Thomas,1435
+1,E14001042,Liberal Democrats,TISI,Julian Peter,5434
+1,E14001042,Labour,SHEARMAN,Peter Leonard Broughton,12334
+1,E14001042,Conservative,AFRIYIE,Adam,34718
+1,E14001043,Green Party,ROBERTS,Amanda,454
+1,E14001043,Liberal Democrats,CARUBIA,Chris,1322
+1,E14001043,Conservative,SYKES,Adam Christopher,17548
+1,E14001043,Labour,MCGOVERN,Allison,25871
+1,E14001044,Green Party,COYNE,John Bernard Cowan,429
+1,E14001044,Liberal Democrats,REISDORF,Peter Timothy Clifford,1155
+1,E14001044,Conservative,CALDEIRA,Tony,18501
+1,E14001044,Labour,GREENWOOD,Margaret,23866
+1,E14001045,Green Party,ABBOTT,James Edward,1832
+1,E14001045,Liberal Democrats,HAYES,Josephine Mary,2715
+1,E14001045,Labour,BARLOW,Philip Robert,13024
+1,E14001045,Conservative,PATEL,Priti Sushi,31670
+1,E14001046,UKIP,CRAIG,Alexander Alan,980
+1,E14001046,Green Party,LASKO,Claire Elaine,1053
+1,E14001046,Liberal Democrats,LEFFMAN,Liz,12457
+1,E14001046,Labour,CARTER,Laetisia Catherine,12598
+1,E14001046,Conservative,COURTS,Robert Alexander,33839
+1,E14001047,Independent,AKBERALI,Hassan Badrudin,200
+1,E14001047,Green Party,BRIERLEY,James William,1092
+1,E14001047,UKIP,DE LEON,Troy,1161
+1,E14001047,Liberal Democrats,FORSTER-WARNER,William Paul,9711
+1,E14001047,Labour,COLLEY,Fiona Margaret,13179
+1,E14001047,Conservative,LORD,Jonathan George Caladine,29903
+1,E14001048,Green Party,SEYMOUR,Russell Stewart,1364
+1,E14001048,Liberal Democrats,JONES,Clive Richard,9512
+1,E14001048,Labour,CROY,Andy,15008
+1,E14001048,Conservative,REDWOOD,John Alan,33806
+1,E14001049,Green Party,WOOD,Clive ,482
+1,E14001049,Liberal Democrats,JENKINS ,Ian Clive ,570
+1,E14001049,UKIP,EARDLEY ,Graham ,1479
+1,E14001049,Conservative,MACKEN,Sarah ,14695
+1,E14001049,Labour,REYNOLDS ,Emma Elizabeth ,19282
+1,E14001050,Green Party,BERTAUT ,Amy Jennifer,421
+1,E14001050,Liberal Democrats,MATHIS,Ben,448
+1,E14001050,UKIP,HODGSON,Barry,1675
+1,E14001050,Conservative,MULLAN,Keiran,12623
+1,E14001050,Labour,MCFADDEN,Pat,21137
+1,E14001051,Independent,SINGH,Jagmeet,358
+1,E14001051,Green Party,CANTRILL,Andrea,579
+1,E14001051,Liberal Democrats,QUAMBY,Sarah Rheannon May,784
+1,E14001051,UKIP,JONES,Rob,1012
+1,E14001051,Conservative,UPPAL,Paul,18714
+1,E14001051,Labour,SMITH,Elanor Patricia,20899
+1,E14001052,Compass,SHUKER,Mark Wayne William,38
+1,E14001052,Independent,RUGG,Alexander Bernard Willis,109
+1,E14001052,Green Party,STEPHEN,Louis Joseph Shay,1211
+1,E14001052,UKIP,HICKLING,Paul Simon,1354
+1,E14001052,Liberal Democrats,KEARNEY,Stephen Andrew,1757
+1,E14001052,Labour,SQUIRES,Joy,22223
+1,E14001052,Conservative,WALKER,Robin Caspar,24731
+1,E14001053,Independent,IVINSON,Roy Alan,278
+1,E14001053,Liberal Democrats,ROBERTS,Phill,1133
+1,E14001053,UKIP,KEMP,George Masterton,1556
+1,E14001053,Conservative,VASEY ,Clark,17392
+1,E14001053,Labour,HAYMAN,Sue,21317
+1,E14001054,Green Party,DYLAN,Tom,842
+1,E14001054,Liberal Democrats,CLARKSON,Kate ,1087
+1,E14001054,Conservative,LINDLEY,Iain David ,17667
+1,E14001054,Labour,KEELEY,Barbara Mary,26046
+1,E14001055,Green Party,CORNISH,Benjamin William Philip,1614
+1,E14001055,UKIP,WITHERS,Mark Frazer,1635
+1,E14001055,Liberal Democrats,THORPE,Hazel Irene,2982
+1,E14001055,Labour,COOPER,Rebecca Claire,18091
+1,E14001055,Conservative,BOTTOMLEY,Peter James,30181
+1,E14001056,Green Party,SIMS,Peter James,1182
+1,E14001056,UKIP,PHOENIX,Richard Neal,1210
+1,E14001056,Liberal Democrats,GUY,Steve,4147
+1,E14001056,Labour,RAJA,Rafiq,20188
+1,E14001056,Conservative,BAKER,Steve,26766
+1,E14001057,Green Party,NORBURY,Ruth,973
+1,E14001057,Liberal Democrats,POTTER,John James,2551
+1,E14001057,Labour,HEATON-BENTLEY,Michelle,18438
+1,E14001057,Conservative,WALLACE,Ben,30684
+1,E14001058,Green Party,CAULFIELD,Brett Raymond,1025
+1,E14001058,UKIP,CONNOLLY,George,1777
+1,E14001058,Liberal Democrats,MIAH,Shazu,1943
+1,E14001058,Labour,LAMB,Matthew,16525
+1,E14001058,Conservative,GARNIER,Mark Robert Timothy,29859
+1,E14001059,Independent,FRANCIS AUGUSTINE,Luckson,185
+1,E14001059,Green Party,JERROME,Dan,576
+1,E14001059,Conservative,GREEN,Fiona Mary,13581
+1,E14001059,UKIP,BAYLEY-SANDERSON,Mike,1475
+1,E14001059,Liberal Democrats,JONES,William,1504
+1,E14001059,Labour,KANE,Mike,28525
+1,E14001060,Independent,PRITCHARD,Katy,919
+1,E14001060,Green Party,WOOD,Robert Charles,1052
+1,E14001060,Labour,MARTIN,Ian James,7418
+1,E14001060,Liberal Democrats,ROUNDELL GREENE,Jo,17646
+1,E14001060,Conservative,FYSH,Marcus John Hudson,32369
+1,E14001061,Liberal Democrats,LOVE,Nick,2475
+1,E14001061,Conservative,YOUNG,Ed,16019
+1,E14001061,Labour,MASKELL,Rachael,34594
+1,E14001062,Green Party,VINCENT,Bethan,1094
+1,E14001062,Liberal Democrats,BLANCHARD,James Christopher,5910
+1,E14001062,Labour,CHARTER-REID,Luke,21067
+1,E14001062,Conservative,STURDY,Julian Charles,29356
+1,N06000001,Independent,BECK,Bobby,54
+1,N06000001,SDLP,DE FAOITE,Seamus,167
+1,N06000001,Conservative,BODEL,Shelia,446
+1,N06000001,Green Party,MILNE,Georgina,561
+1,N06000001,Sinn F�in,O'DONNELL,Mairead,894
+1,N06000001,UUP,LEGGE,Hazel,1408
+1,N06000001,Alliance,LONG,Naomi,15443
+1,N06000001,DUP,ROBINSON,Gavin,23917
+1,N06000002,WP,WEIR,Gemma,360
+1,N06000002,Green Party,O'HARA,Malachai George,644
+1,N06000002,SDLP,MCAULEY,Martin,2058
+1,N06000002,Alliance,NELSON,Sam,2475
+1,N06000002,Sinn F�in,FINUCANE,John,19159
+1,N06000002,DUP,DODDS,Nigel,21240
+1,N06000003,Conservative,SALIER,Clare,246
+1,N06000003,UUP,HENDERSON,Michael,1527
+1,N06000003,Green Party,BAILEY,Clare,2241
+1,N06000003,Sinn F�in,� MUILLEOIR,M�irt�n Samuel,7143
+1,N06000003,Alliance,BRADSHAW,Paula,7946
+1,N06000003,SDLP,MCDONNNELL,Alisdair,11303
+1,N06000003,DUP,PENGELLY,Emma Little,13299
+1,N06000004,WP,CAMPBELL,Conor,348
+1,N06000004,Alliance,EASTWOOD,Sorcha,731
+1,N06000004,SDLP,ATTWOOD,Tim,2860
+1,N06000004,PBP Alliance,CARROLL,Gerry,4132
+1,N06000004,DUP,MCCOUBREY,Frank,5455
+1,N06000004,Sinn F�in,MASKEY,Paul,27107
+1,N06000005,Conservative,LOGAN,Mark,963
+1,N06000005,SDLP,MCKILLOP,Margaret Anne,1278
+1,N06000005,Sinn F�in,MCMULLAN,Oliver,3555
+1,N06000005,UUP,STEWARD,John,4524
+1,N06000005,Alliance,DICKSON,Stewart Clyde,5930
+1,N06000005,DUP,WILSON,Sammy,21873
+1,N06000006,Conservative,ST CLAIR-LEGGE,Liz,330
+1,N06000006,Alliance,MCCAW,Chris,2538
+1,N06000006,UUP,HOLMES,Richard John,3135
+1,N06000006,SDLP,QUIGLEY,Stephanie,4423
+1,N06000006,Sinn F�in,NICHOLL,Sermot,10881
+1,N06000006,DUP,CAMPBELL,Gregory,19723
+1,N06000007,Green Party,JONES,Tanya,423
+1,N06000007,Alliance,CAMPBELL,Noreen,886
+1,N06000007,SDLP,GARRITY,Mary,2587
+1,N06000007,UUP,ELLIOT,Tom,24355
+1,N06000007,Sinn F�in,GILDERNEW,Michelle,25230
+1,N06000008,Alliance,DOHERTY,John,847
+1,N06000008,PBP Alliance,HARKIN,Shaun,1377
+1,N06000008,DUP,MIDDLETON,Gary,7398
+1,N06000008,SDLP,DURKAN,Mark,18087
+1,N06000008,Sinn F�in,MACCALLION,Elisha,18256
+1,N06000009,Independent,ORR,Jonny,222
+1,N06000009,Conservative,NICKLES,Ian,462
+1,N06000009,Sinn F�in,RUSSELL,Jacqui,1567
+1,N06000009,SDLP,CATNEY,Pat,3384
+1,N06000009,Alliance,MCINTYRE,Aaron,4996
+1,N06000009,UUP,BUTLER,Robbie,7533
+1,N06000009,DUP,DONALDSON,Jeffery,26762
+1,N06000010,Alliance,WATSON,Fay,1094
+1,N06000010,UUP,GLASGOW,Mark,3017
+1,N06000010,SDLP,QUINN,Malachy,4563
+1,N06000010,DUP,BUCHANAN,Keith Alexander,12565
+1,N06000010,Sinn F�in,MOLLOY,Francie,25455
+1,N06000011,Alliance,COADE,Jackie,1256
+1,N06000011,UUP,NICHOLSON,Sam,4425
+1,N06000011,SDLP,MCNULTY,Justin,9055
+1,N06000011,DUP,IRWIN,William,13177
+1,N06000011,Sinn F�in,BRADY,Mickey,25666
+1,N06000012,SDLP,O'LOAN,Declan,2574
+1,N06000012,Alliance,O'LYNN,Patricia,2723
+1,N06000012,TUV,GASTON,Timothy,3282
+1,N06000012,UUP,MINFORD,Jackson,3482
+1,N06000012,Sinn F�in,MCSHANE,Cara,7878
+1,N06000012,DUP,PAISLEY,Ian R.K.,28521
+1,N06000013,Independent,REYNOLDS,Gavan,37
+1,N06000013,SDLP,MCNEILL,Cao�mhe,400
+1,N06000013,Sinn F�in,MACCARTNEY,Th�r�se,531
+1,N06000013,Conservative,SHIVERS,Frank,941
+1,N06000013,Green Party,AGNEW,Steven,2549
+1,N06000013,Alliance,MUIR,Andrew,3639
+1,N06000013,DUP,EASTON,Alex,14940
+1,N06000013,Independent,HERMON,Sylvia,16148
+1,N06000014,SDLP,LYNCH,Roisin,2362
+1,N06000014,Alliance,KELLY,Neil,3203
+1,N06000014,Sinn F�in,KEARNEY,Declan,7797
+1,N06000014,UUP,KINAHAN,Danny,13300
+1,N06000014,DUP,GIRVAN,Paul,16508
+1,N06000015,Alliance,MCMURRAY,Andrew,1814
+1,N06000015,UUP,MCKEE,Harold,2002
+1,N06000015,DUP,FORSYTHE,Diane,8867
+1,N06000015,SDLP,RITCHIE,Margaret,17882
+1,N06000015,Sinn F�in,HAZZARD,Chris,20328
+1,N06000016,Conservative,HISCOTT,Claire,507
+1,N06000016,Green Party,BAMFORD,Ricky,607
+1,N06000016,Sinn F�in,MURPHY,Carole,1083
+1,N06000016,SDLP,BOYLE,Joe,2404
+1,N06000016,UUP,NESBITT,Mike,4419
+1,N06000016,Alliance,ARMSTRONG,Kellie,5693
+1,N06000016,DUP,SHANNON,Jim,24036
+1,N06000017,Alliance,DOYLE,Tara,2319
+1,N06000017,SDLP,MCALINDEN,Declan,4397
+1,N06000017,UUP,BEATTIE,Doug,7900
+1,N06000017,Sinn F�in,O'DOWD,John,14325
+1,N06000017,DUP,SIMPSON,David,22317
+1,N06000018,CIST Alliance,BROWN,Barry,393
+1,N06000018,Green Party,MCCLEAN,Ciaran,427
+1,N06000018,Alliance,DONNELLY,Stephen William,1000
+1,N06000018,UUP,CLARKE,Alicia Rosalind,2253
+1,N06000018,SDLP,MCCROSSAN,Daniel Christopher,5635
+1,N06000018,DUP,BUCHANAN,Thomas Ernest,11718
+1,N06000018,Sinn F�in,MCELDUFF,Barry,22060
+1,S14000001,Independent,DURKIN,Richard John,522
+1,S14000001,Liberal Democrats,DAVIDSON,Isobel,1693
+1,S14000001,Conservative,O'KEEFE,Grace,8341
+1,S14000001,Labour,VINEGOLD,Orr,11031
+1,S14000001,SNP,BLACKMAN,Kirsty,15170
+1,S14000002,Liberal Democrats,WISON,Jenny,2610
+1,S14000002,Labour,O'DWYER,Callum,9143
+1,S14000002,SNP,MCCAIG,Callum John,13994
+1,S14000002,Conservative,THOMSON,Ross,18746
+1,S14000003,Liberal Democrats,MCROBERT,Ewan,802
+1,S14000003,Conservative,DONNELLAN,Jennifer Mary,8813
+1,S14000003,Labour,MCFARLANE,Helen,14096
+1,S14000003,SNP,GRAY,Neil,14291
+1,S14000004,Liberal Democrats,SNEDDON,Clive Roderick,1308
+1,S14000004,Labour,CAMPBELL,William Wishart,5233
+1,S14000004,SNP,WEIR,Michael Fraser,15503
+1,S14000004,Conservative,HAIR,Kirstene Janette,18148
+1,S14000005,Labour,KELLY,Michael James,6044
+1,S14000005,Liberal Democrats,REID,Alan,8745
+1,S14000005,Conservative,MULVANEY,Gary,15976
+1,S14000005,SNP,O�HARA,Brendan,17304
+1,S14000006,Liberal Democrats,DAVID LESLIE,Callum,872
+1,S14000006,Labour,ANN MOCHAN,Carol,11024
+1,S14000006,SNP,WILSON,Corri,15776
+1,S14000006,Conservative,GRANT,Bill,18550
+1,S14000007,Liberal Democrats,MILNE,Galen,1448
+1,S14000007,Labour,STOTT,Caitlin Margaret,3936
+1,S14000007,SNP,WHITEFORD,Eldith,16283
+1,S14000007,Conservative,DUGUID,David James,19976
+1,S14000008,Liberal Democrats,BURGESS,Caroline ,2482
+1,S14000008,Labour,DAVIDSON,Ian ,4519
+1,S14000008,SNP,KERR,Calum ,17153
+1,S14000008,Conservative,LAMONT,John ,28213
+1,S14000009,Conservative,MACKIE,Struan,6990
+1,S14000009,Labour,BELL,Olivia,3833
+1,S14000009,Liberal Democrats,STONE,Jamie,11061
+1,S14000009,SNP,MONAGHAN,Paul William ,9017
+1,S14000010,Liberal Democrats,INGLIS,Tom,1050
+1,S14000010,Labour,MCDONALD,Nairn,11762
+1,S14000010,Conservative,MARTIN,Caroline Joy Hollins,15504
+1,S14000010,SNP,WHITFORD,Philippa,16771
+1,S14000011,Liberal Democrats,BENNIE,David,922
+1,S14000011,Conservative,HALBERT,Robyn Sarah,7318
+1,S14000011,SNP,BOSWELL,Phillip John,17607
+1,S14000011,Labour,GAFFNEY,Hugh Lawrence,19193
+1,S14000012,UKIP,PEARSON,Carl Dean,605
+1,S14000012,Liberal Democrats,ACKLAND,Rod,1238
+1,S14000012,Conservative,JOHNSTON,Stephen Charles,8010
+1,S14000012,Labour,FISHER,Elisha,14858
+1,S14000012,SNP,MCDONALD,Stuart Campbell,19122
+1,S14000013,Independent,JIN,Yen Hongmei,538
+1,S14000013,Liberal Democrats,MITCHELL,Joan,1241
+1,S14000013,Labour,GOODARE,Daniel,10775
+1,S14000013,SNP,ARKLESS,Richard,16701
+1,S14000013,Conservative,JACK,Alister,22344
+1,S14000014,Liberal Democrats,FERRY,John,1949
+1,S14000014,Labour,BEATTIE,Douglas,8102
+1,S14000014,SNP,MCALLAN,Mairi,14736
+1,S14000014,Conservative,MUNDELL,David Gordon,24177
+1,S14000015,Liberal Democrats,MCINTYRE,Christopher,1615
+1,S14000015,Labour,BRENNAN,Lesley,11176
+1,S14000015,Conservative,PRICE,Eleanor,11746
+1,S14000015,SNP,HOSIE,Stewart,18391
+1,S14000016,Independent,DOBSON,Sean David,403
+1,S14000016,Liberal Democrats,BLAIN,Jenny,1189
+1,S14000016,Conservative,CORMACK,Darren,6257
+1,S14000016,Labour,COWAN,Alan,12783
+1,S14000016,SNP,LAW,Chris,18045
+1,S14000017,Liberal Democrats,CALDER,James Stuart ,3019
+1,S14000017,Conservative,HACKING,Belinda Anne ,12593
+1,S14000017,Labour,HILTON,Cara Laura ,17277
+1,S14000017,SNP,CHAPMAN,Douglas ,18121
+1,S14000018,Labour,MCNALLY,Callum,7531
+1,S14000018,Conservative,MECHAN,Shelia,7563
+1,S14000018,SNP,NICOLSON,John,15684
+1,S14000018,Liberal Democrats,SWINSON,Jo,21023
+1,S14000019,UKIP,MACKAY,Janice,628
+1,S14000019,Liberal Democrats,MCGARRY,Paul,1590
+1,S14000019,Conservative,MCGEEVER,Mark,13704
+1,S14000019,Labour,MCADAMS,Monique,17157
+1,S14000019,SNP,CAMERON,Lisa,21023
+1,S14000020,Independent,ALLAN,Mike ,367
+1,S14000020,Liberal Democrats,WILSON,Elisabeth Mary ,1738
+1,S14000020,Conservative,LOW,Sheila ,16540
+1,S14000020,SNP,KEREVAN,George ,17075
+1,S14000020,Labour,WHITFIELD ,Martin ,20158
+1,S14000021,Liberal Democrats,MORTON,Aileen,1112
+1,S14000021,Labour,MCDOUGALL,Blair George Mcdougall ,14346
+1,S14000021,SNP,OSWALD,Kirsten Frances Oswald ,16784
+1,S14000021,Conservative,MASTERTON,Paul ,21496
+1,S14000022,Liberal Democrats,GRAY,Tristan Philip Pierre,1849
+1,S14000022,Conservative,MACKIE,Katie Crichton,8081
+1,S14000022,Labour,KING,Patsy,15084
+1,S14000022,SNP,SHEPPARD,Tommy,18509
+1,S14000023,Green Party,SLATER,Lorna Jane,1727
+1,S14000023,Liberal Democrats,VEART,Martin,2579
+1,S14000023,Conservative,MCGILL,Iain,15385
+1,S14000023,Labour,MUNRO,Gordon John,17618
+1,S14000023,SNP,BROCK,Deidre Leanne,19243
+1,S14000024,Liberal Democrats,BEAL,Alan Christopher,1388
+1,S14000024,Conservative,SMITH,Stephanie Jane Harley,9428
+1,S14000024,SNP,EADIE,Jim,10755
+1,S14000024,Labour,MURRAY,Ian,26269
+1,S14000025,Liberal Democrats,MIR,Aisha Jawaid,2124
+1,S14000025,Labour,CHOUDHURY,Foysol Hussain,13213
+1,S14000025,Conservative,BRIGGS,Miles Edward Frank,16478
+1,S14000025,SNP,CHERRY,Joanna Catherine,17575
+1,S14000026,SIR,WHITTET,Mark Robertson,132
+1,S14000026,Labour,TELFORD,Mandy,7876
+1,S14000026,Conservative,BATHO,Sandy,11559
+1,S14000026,SNP,GIUGLIANO,Toni,15120
+1,S14000026,Liberal Democrats,JARDINE,Christine Anne,18108
+1,S14000028,UKIP,MARTIN,Stuart,712
+1,S14000028,Green Party,PICKERING,Debra Ann,908
+1,S14000028,Liberal Democrats,REID,Austin,1120
+1,S14000028,Conservative,LAIDLAW,Callum,14088
+1,S14000028,Labour,MARTIN,Craig,16029
+1,S14000028,SNP,MCNALLY,Johnny,20952
+1,S14000029,Liberal Democrats,NELSON,Isabel,1045
+1,S14000029,Conservative,FAIRBANKS,Charlotte,5014
+1,S14000029,Labour,HAMEED,Faten,13829
+1,S14000029,SNP,THEWLISS,Alison,16096
+1,S14000030,SDP,MARSHALL,Steven,148
+1,S14000030,Independent,FINEGAN,Karin,158
+1,S14000030,UKIP,J.FERGUSON,John,504
+1,S14000030,Liberal Democrats,CLARK,Matthew,576
+1,S14000030,Conservative,KERR,Thomas,6816
+1,S14000030,Labour,WATSON,Kate,13949
+1,S14000030,SNP,LINDEN,David,14024
+1,S14000031,Liberal Democrats,SHEPHERD,Calum,1153
+1,S14000031,Green Party,HARVIE,Patrick,3251
+1,S14000031,Conservative,CULLEN,Stuart,4935
+1,S14000031,Labour,DUNCAN-GLANCY,Pam,11537
+1,S14000031,SNP,GRADY,Patrick,12597
+1,S14000032,Liberal Democrats,DONALDSON,Daniel,637
+1,S14000032,Conservative,WYLIE,Jack,4106
+1,S14000032,SNP,MCLAUGHLIN,Anne,13395
+1,S14000032,Labour,SWEENEY,Paul,13637
+1,S14000033,Liberal Democrats,SPEIRS,James,1387
+1,S14000033,Conservative,LAND,Christopher,7002
+1,S14000033,Labour,SHANKS,Michael,13947
+1,S14000033,SNP,MONAGHAN,Carol,16508
+1,S14000034,Liberal Democrats,HOYLE,Ewan,1447
+1,S14000034,Conservative,MUIR,Taylor,8506
+1,S14000034,Labour,DINNING,Eileen,16285
+1,S14000034,SNP,MCDONALD,Stewart,18312
+1,S14000035,UKIP,HEMY,Sarah,481
+1,S14000035,Liberal Democrats,DENTON-CARDEW,Ben,661
+1,S14000035,Conservative,HADDOW,Thomas,5524
+1,S14000035,Labour,KERR,Matt,14326
+1,S14000035,SNP,STEPHENS,Chris,14386
+1,S14000036,Liberal Democrats,BELL,Rebecca Louise ,1208
+1,S14000036,Conservative,BROWN,Andrew Robert ,7876
+1,S14000036,Labour,CRAIK,Altany Steel Andrew ,14024
+1,S14000036,SNP,GRANT,Peter ,17291
+1,S14000037,Liberal Democrats,EVANS,David,6230
+1,S14000037,Labour,MUAT,Kirsten Rose,6340
+1,S14000037,SNP,SALMOND,Alex,19254
+1,S14000037,Conservative,CLARK,Colin James,21861
+1,S14000038,Liberal Democrats,STEVENS,David ,978
+1,S14000038,Conservative,WILSON,David ,8399
+1,S14000038,Labour,MCCLUSKEY,Martin ,14666
+1,S14000038,SNP,COWAN,Ronnie ,15050
+1,S14000039,SCP,BOYD,Donald Macleod ,612
+1,S14000039,Conservative,TULLOCH,Nicolas,16118
+1,S14000039,Labour,ROBB,Mike ,8552
+1,S14000039,Liberal Democrats,CUNNINGHAM,Ritchie,6477
+1,S14000039,SNP,HENDRY,Drew ,21042
+1,S14000040,Liberal Democrats,LANG,Irene,994
+1,S14000040,Conservative,HARPER,Alison,12404
+1,S14000040,Labour,DOVER,Laura,13421
+1,S14000040,SNP,BROWN,Alan,19690
+1,S14000041,UKIP,COBURN,David Adam ,540
+1,S14000041,Liberal Democrats,WOOD,Malcolm Alexander ,1118
+1,S14000041,Conservative,DEMPSEY,Dave ,10762
+1,S14000041,SNP,MULLIN,William Arthur Roger ,16757
+1,S14000041,Labour,LAIRD,Lesley ,17016
+1,S14000042,UKIP,MCKAY,Donald,550
+1,S14000042,Liberal Democrats,ROBB,Colin,1214
+1,S14000042,Labour,HILLAND,Andrew,16084
+1,S14000042,Conservative,CORBETT,Poppy,16178
+1,S14000042,SNP,CRAWLEY,Angela,16444
+1,S14000043,Liberal Democrats,PATTLE,Sally,1926
+1,S14000043,Conservative,KENNEDY,Charles John,16311
+1,S14000043,Labour,COOMBES,Joan Margaret,17469
+1,S14000043,SNP,DAY,Martyn,20388
+1,S14000044,Liberal Democrats,DUNDAS,Charles Christopher,1512
+1,S14000044,Conservative,TIMSON,Damian Joseph,12799
+1,S14000044,Labour,WOLFSON,Rhea Caroline,17158
+1,S14000044,SNP,BARDELL,Hannah Mary,21036
+1,S14000045,Liberal Democrats,LAIRD,Ross,1721
+1,S14000045,Conservative,DONNELLY,Chris,11521
+1,S14000045,SNP,THOMPSON,Owen George,15573
+1,S14000045,Labour,ROWLEY,Danielle,16458
+1,S14000046,Independent,GLEN,Anne Betty,204
+1,S14000046,Liberal Democrats,LINKLATER,Alex,1078
+1,S14000046,Labour,KIRBY,Jo,5208
+1,S14000046,SNP,ROBERTSON,Angus,18478
+1,S14000046,Conservative,ROSS,Douglas,22637
+1,S14000047,UKIP,WILSON,Neil,534
+1,S14000047,Liberal Democrats,FINLAYSON,Yvonne,920
+1,S14000047,Conservative,GALLACHER,Meghan,8490
+1,S14000047,Labour,FEENEY,Angela,15832
+1,S14000047,SNP,FELLOWS,Marion,16150
+1,S14000027,Liberal Democrats,PATERSON,James,250
+1,S14000027,SCP,COMRMACK,John,1108
+1,S14000027,Conservative,MCCROSKRIE,Daniel Stephen,2441
+1,S14000027,Labour,MACDONALD,Elasaid,5006
+1,S14000027,SNP,MACNEIL,Angus Brendan,6013
+1,S14000048,Liberal Democrats,DICKSON,Mark ,1124
+1,S14000048,Labour,RIMICANS,Christopher ,13040
+1,S14000048,Conservative,ROCKS,David ,14818
+1,S14000048,SNP,GIBSON,Patricia ,18451
+1,S14000049,ISDB,SCOTT-HAYWARD,Mike ,224
+1,S14000049,Labour,GARTON,Rosalind Erica ,4026
+1,S14000049,Conservative,MIKLINSKI,Tony ,10088
+1,S14000049,Liberal Democrats,RICHES,Janet Elizabeth ,13741
+1,S14000049,SNP,GETHINS,Stephen Patrick ,13743
+1,S14000050,Liberal Democrats,STEFANOV,Iliyan ,1742
+1,S14000050,Labour,ROSS,Joanne Mary ,10847
+1,S14000050,SNP,AHMED-SHEIKH ,Tasmina ,19110
+1,S14000050,Conservative,GRAHAM,Luke Patrick ,22469
+1,S14000051,Independent,HILL,Stuart,245
+1,S14000051,UKIP,SMITH,Robert,283
+1,S14000051,Conservative,HALCRO JOHNSTON,Jamie,2024
+1,S14000051,Labour,BARTON,Robina Rendall,2664
+1,S14000051,SNP,BRETT,Miriam,6749
+1,S14000051,Liberal Democrats,CARMICHAEL,Alaxander Morrision,11312
+1,S14000052,Liberal Democrats,BOYD,John Robert,1476
+1,S14000052,Conservative,GARDINER,David John,12842
+1,S14000052,Labour,TAYLOR,Alison Suzanne Watt,14842
+1,S14000052,SNP,NEWLANDS,Gavin Andrew Stuart,17455
+1,S14000053,Independent,MACK,Paul,876
+1,S14000053,Liberal Democrats,MCCARTIN,Eileen,1327
+1,S14000053,Conservative,THOMSON,Amy Louise,8122
+1,S14000053,Labour,DOWLING,Alison Jean,14423
+1,S14000053,SNP,BLACK,Mhairi,16964
+1,S14000054,Liberal Democrats,BARRETT,Peter Anthony,2589
+1,S14000054,Labour,ROEMELLE,David Hugo,5349
+1,S14000054,Conservative,DUNCAN,Ian,21783
+1,S14000054,SNP,WISHART,Pete,21804
+1,S14000055,Independent,CAMPBELL,Ronnie ,499
+1,S14000055,Something New,STURROCK,Stick,177
+1,S14000055,Labour,O DONNGHAILE,Peter,4695
+1,S14000055,Conservative,MACKENZIE,Robert,9561
+1,S14000055,Liberal Democrats,DAVIS ,Jean,8042
+1,S14000055,SNP,BLACKFORD,Ian ,15480
+1,S14000056,Independent,DIXON,Andy,371
+1,S14000056,UKIP,SANTOS,Caroline,465
+1,S14000056,Liberal Democrats,BROWN,Robert Edwards,2158
+1,S14000056,Conservative,LE BLOND,Ann,9941
+1,S14000056,SNP,FERRIER,Margaret,18836
+1,S14000056,Labour,KILLEN,Gerard,19101
+1,S14000057,WEP,RUMMERY,Kirstein,337
+1,S14000057,Liberal Democrats,CHAMBERLAIN,Wendy Anne,1683
+1,S14000057,Labour,KANE,Christopher,10902
+1,S14000057,SNP,PATERSON,Steven Alexander,18143
+1,S14000057,Conservative,KERR,Stephen Charles,18291
+1,S14000058,Liberal Democrats,MCCONNACHIE WADDELL,John Robert,4461
+1,S14000058,Labour,BLACK,Barry,5706
+1,S14000058,SNP,DONALDSON,Stuart,16754
+1,S14000058,Conservative,BOWIE,Andrew,24704
+1,S14000059,Liberal Democrats,LOUISE-PLENDERLEITH,Rebecca,1009
+1,S14000059,Conservative,HUTTON,Penny,7582
+1,S14000059,Labour,MITCHELL,Jean-Anne,16602
+1,S14000059,SNP,DOCHERTY,Martin,18890
+1,W07000049,Liberal Democrats,PHILLIPS,Cen,599
+1,W07000049,UKIP,JONES,Caroline,1345
+1,W07000049,Plaid Cymru,BENNISON,Andrew Leonard John,2761
+1,W07000049,Conservative,VIDAL,Sadie Roisin,5901
+1,W07000049,Labour,KINNOCK,Stephen Nathan,22662
+1,W07000058,Liberal Democrats,LESITER-BURGESS,Sarah Ivonne,941
+1,W07000058,Plaid Cymru,JONES,Wyn Ellis,3170
+1,W07000058,Labour,OWEN,Emily Hannah,13702
+1,W07000058,Conservative,BEBB,Guto Ap Owain,14337
+1,W07000043,Liberal Democrats,WIMMIAMS,Peter Roy,1077
+1,W07000043,UKIP,GRIFFITHS,David Phillip,1117
+1,W07000043,Plaid Cymru,HURST,Jacqueline,1171
+1,W07000043,Conservative,KNIGHTLY,Laura,18080
+1,W07000043,Labour,TAMI,Mark Richard,23315
+1,W07000057,Liberal Democrats,DAVIES,Calum Dafydd,648
+1,W07000057,Conservative,PARRY,Phillippa Claire,4614
+1,W07000057,Labour,CLARKE,Mary Gwen Griffiths,11427
+1,W07000057,Plaid Cymru,WILLIAMS,Hywel,11519
+1,W07000072,Liberal Democrats,SULLIVAN,Cameron,295
+1,W07000072,Independent,BROWNING,Vicki Leanne,666
+1,W07000072,UKIP,MAY,Dennis Walter,973
+1,W07000072,Conservative,WEST,Tracey Michelle,4783
+1,W07000072,Plaid Cymru,COPNER,Nigel Joseph,6880
+1,W07000072,Labour,SMITH,Nicholas Desmond John,18787
+1,W07000068,UKIP,GILBERT ,Peter ,576
+1,W07000068,Liberal Democrats,GIBSON-WATT ,James ,12043
+1,W07000068,Plaid Cymru,HENEGHAN ,Kate ,1299
+1,W07000068,Labour,LODGE ,Dan ,7335
+1,W07000068,Conservative,DAVIES ,Chris ,20081
+1,W07000073,Independent,ROBSON,Isabel Rose,646
+1,W07000073,UKIP,WILLIAMS,Alun,781
+1,W07000073,Liberal Democrats,PRATT,Jonathan Edward,919
+1,W07000073,Plaid Cymru,WATKINS,Rhys David,1783
+1,W07000073,Conservative,ROBSON,Karen,17213
+1,W07000073,Labour,MOON,Madeleine,21913
+1,W07000076,Green Party,CREAK,Andrew,447
+1,W07000076,Liberal Democrats,DAVID,Kay,725
+1,W07000076,UKIP,WILKS,Liz,1259
+1,W07000076,Plaid Cymru,WHITTLE,Lindsay Geoffrey,5962
+1,W07000076,Conservative,PRATT,Jane,10413
+1,W07000076,Labour,DAVID,Wayne,22491
+1,W07000050,UKIP,SARUL-ISLAM,Mohammed,343
+1,W07000050,Green Party,SMITH,Benjamin Timothy George,420
+1,W07000050,Plaid Cymru,HOOPER,Mark Jonathon,999
+1,W07000050,Liberal Democrats,PARROTT,Eluned Sian,5415
+1,W07000050,Conservative,STAFFORD,Gregory James,7997
+1,W07000050,Labour,STEVENS,Joanna Meriel,25193
+1,W07000051,UKIP,OLDFIELD,Gary Wayne,582
+1,W07000051,Liberal Democrats,HEMSLEY,Matthew,1714
+1,W07000051,Plaid Cymru,WEBB,Steffan Paul,1738
+1,W07000051,Conservative,WILLIAMS,Alun Craig,21907
+1,W07000051,Labour,MCM0RRIN,Anna Rhiannon,26081
+1,W07000080,Pirates,HEDGES,Nathaniel Jebediah,170
+1,W07000080,Green Party,SLAUGHTER,Anthony David,532
+1,W07000080,UKIP,BEVAN,Andrew,942
+1,W07000080,Liberal Democrats,SANDS,Emma Elizabeth,1430
+1,W07000080,Plaid Cymru,TITHERINGTON,Ian Richard,2162
+1,W07000080,Conservative,REES,Bleddyn William Vaughan,15318
+1,W07000080,Labour,DOUGHTY,Stephen John,30182
+1,W07000079,UKIP,LEWIS,Richard Vaughan,698
+1,W07000079,Liberal Democrats,MEREDITH,Alexander David,1214
+1,W07000079,Plaid Cymru,DEEM,Michael Andrew Christopher,4418
+1,W07000079,Conservative,SMITH,Matthew James,13874
+1,W07000079,Labour,BRENNAN,Kevin Denis,26425
+1,W07000067,Liberal Democrats,PROSSER,Lesley Ann,920
+1,W07000067,UKIP,HAMILTON,Mostyn Neil,985
+1,W07000067,Conservative,HUGHES,Anthony Havard Maengwyn,10778
+1,W07000067,Labour,DARKIN,David Llewelyn,12219
+1,W07000067,Plaid Cymru,EDWARDS,David Jonathan,16127
+1,W07000066,UKIP,EDWARDS,Phil,905
+1,W07000066,Liberal Democrats,CAMERON,Alistar Ronald,956
+1,W07000066,Plaid Cymru,THOMAS,Abi,3933
+1,W07000066,Labour,TIERNEY,Marc Liam,16661
+1,W07000066,Conservative,HART,Simon Anthony,19771
+1,W07000064,MRLP,"TRINDER (KNOWN AS SIR DUDLEY, THE CRAZED) ",Dudley Lewis Cavell ,157
+1,W07000064,Green Party,HAM ,Grenville Morgan ,542
+1,W07000064,UKIP,"HARRISON (KNOWN AS HARRISON, TOM) ",Thomas George ,602
+1,W07000064,Conservative,DAVIS ,Ruth Rosamond ,7307
+1,W07000064,Labour,MULHOLAND ,Dinah ,8017
+1,W07000064,Liberal Democrats,WILLIAMS ,Mark Fraser ,11519
+1,W07000064,Plaid Cymru,LAKE ,Ben Morgan ,11623
+1,W07000062,Liberal Democrats,ROBERTS,Bruce Simon Spearing,731
+1,W07000062,UKIP,BASSFORD- BARTON,Jeanette Stefani,802
+1,W07000062,Plaid Cymru,ALLEN,Christopher James,2293
+1,W07000062,Conservative,BAYNES,Simon Robert Maurice,14646
+1,W07000062,Labour,JONES,Susan Elan,19002
+1,W07000059,Liberal Democrats,BABU,Victor,1091
+1,W07000059,Plaid Cymru,ROBERTS,Dilwyn Owain,3918
+1,W07000059,Labour,THOMAS,Gareth,16104
+1,W07000059,Conservative,JONES,David Ian,19541
+1,W07000070,Liberal Democrats,KNIGHT,Nicola Louise,585
+1,W07000070,UKIP,MCLEAN,Ian Andrew,1271
+1,W07000070,Plaid Cymru,WALTERS,Liz,4376
+1,W07000070,Conservative,DEWHURST,Keith,6166
+1,W07000070,Labour,CLWYD,Ann,19404
+1,W07000042,Liberal Democrats,RIPPETH,Thomas Phillip,1031
+1,W07000042,Plaid Cymru,ROWLINSON,Paul John,1481
+1,W07000042,Conservative,WRIGHT,Matthew Gerard,16333
+1,W07000042,Labour,HANSON,David George,20573
+1,W07000061,UKIP,FRANCIS CHARLES,Wykes,614
+1,W07000061,Liberal Democrats,STEPHEN WILLIAM,Churchman,937
+1,W07000061,Labour,MATHEW JAMES,Norman,6273
+1,W07000061,Conservative,NEIL,Fairlamb,8837
+1,W07000061,Plaid Cymru,LIZ SAVILLE,Roberts,13687
+1,W07000046,Pirate Party UK,WINSTANLEY,Jason,149
+1,W07000046,UKIP,FORD,Ross Gareth,642
+1,W07000046,Liberal Democrats,EVANS,Howard William,931
+1,W07000046,Plaid Cymru,ROBERTS,Harri Llwyd,1669
+1,W07000046,Conservative,DAVIES,Henry Byron,19458
+1,W07000046,Labour,ANTONIAZZI,Antonia Louise,22727
+1,W07000077,Liberal Democrats,KIDNER,Matthew,685
+1,W07000077,UKIP,SMYTH,Joe,1605
+1,W07000077,Plaid Cymru,JONES,Darren,2739
+1,W07000077,Conservative,THOMAS,Dan,9826
+1,W07000077,Labour,EVANS,Chris,21238
+1,W07000045,Liberal Democrats,DANIELS,Rory,548
+1,W07000045,UKIP,REES,Ken,1331
+1,W07000045,Plaid Cymru,ARTHUR,Mari Frances Gaynor,7351
+1,W07000045,Conservative,DAVIES,Stephen Andrew,9544
+1,W07000045,Labour,GRIFFITH,Nia Rhiannon,21568
+1,W07000071,Liberal Democrats,GRIFFEN,Bob,841
+1,W07000071,UKIP,ROWLANDS,Daivd John,1484
+1,W07000071,Plaid Cymru,KITCHER,Amy,2740
+1,W07000071,Conservative,JORGENSEN,Pauline Alison,6073
+1,W07000071,Labour,JONES,Gerald,22407
+1,W07000054,UKIP,NEALE,Roy Anthony,762
+1,W07000054,Green Party,CHANDLER,Ian Roy,954
+1,W07000054,Plaid Cymru,DAMON,Carole Sian,1338
+1,W07000054,Liberal Democrats,GERMAN,Veronica,2064
+1,W07000054,Labour,JONES,Ruth Lorraine,18205
+1,W07000054,Conservative,DAVIES,David Thomas Charles,26411
+1,W07000063,Green Party,CHALONER ,Richard ,524
+1,W07000063,Plaid Cymru,MORGAN HUGHES ,Aled ,1960
+1,W07000063,Labour,WYN JONES ,Iwan ,5542
+1,W07000063,Liberal Democrats,DODDS ,Jane ,8790
+1,W07000063,Conservative,DAVIES ,Glyn ,18075
+1,W07000069,Liberal Democrats,LITTLE,Frank,732
+1,W07000069,UKIP,PRITCHARD,Richard Herbert,1419
+1,W07000069,Plaid Cymru,WILLIAMS,Daniel Gwydion,5339
+1,W07000069,Conservative,LOWE,Orla Sarah,9082
+1,W07000069,Labour,CHRISTINA,Elizabeth,21713
+1,W07000055,Independent,AHMED,Nadeem,188
+1,W07000055,Conservative,ASGHAR,Natasha Batool,12801
+1,W07000055,Liberal Democrats,BROWN,Peter James,966
+1,W07000055,UKIP,GORMAN,Ian William,1180
+1,W07000055,Labour,MORDEN,Jessica Elizabeth,20804
+1,W07000055,Plaid Cymru,WIXCEY,Cameron Thomas,881
+1,W07000056,Green Party,BARTOLOTTI,Philippa Jane,497
+1,W07000056,Plaid Cymru,BOWLER,Morgan Owen,1077
+1,W07000056,UKIP,EDWARDS,Stanley Leslie John,1100
+1,W07000056,Labour,FLYNN,Paul Philip,22723
+1,W07000056,Conservative,JONES-EVANS,Angela,17065
+1,W07000056,Liberal Democrats,LOCKYER,Sarah-Louise,976
+1,W07000074,Liberal Democrats,FRANCIS,Gerald Leslie,594
+1,W07000074,UKIP,DAVIES,Glenda Marie,1235
+1,W07000074,Plaid Cymru,MARSHALL,Huw,2796
+1,W07000074,Conservative,WALLIS,Jamie,9354
+1,W07000074,Labour,ELMORE,Chris,23225
+1,W07000075,UKIP,HUNTER-CLARKE,Robin James,1071
+1,W07000075,Liberal Democrats,POWELL,Michael John,1963
+1,W07000075,Plaid Cymru,ELIN,Fflur,4102
+1,W07000075,Conservative,ASH,Juliette,10655
+1,W07000075,Labour,SMITH,Owen,22103
+1,W07000065,NSW,MAILE,Rodney Hood,31
+1,W07000065,UKIP,BALE,Susan Irene,850
+1,W07000065,Liberal Democrats,KILMISTER,Robert Phillip,1106
+1,W07000065,SWSL,OVERTON,Christopher,1209
+1,W07000065,Plaid Cymru,WILLIAMS,Owain Llyr,2711
+1,W07000065,Labour,THOMPSON,Phillippa ,17988
+1,W07000065,Conservative,CRABB,Stephen,18302
+1,W07000052,Liberal Democrats,ROBERTS,Karen,277
+1,W07000052,UKIP,KENRICK,Janet,880
+1,W07000052,Conservative,CROSBIE,Virginia,3333
+1,W07000052,Plaid Cymru,CENNARD,Branwen,7350
+1,W07000052,Labour,BRYANT,Chris,21096
+1,W07000048,Green Party,EVANS,Christopher Michael John,359
+1,W07000048,Liberal Democrats,HASTED,Charley,625
+1,W07000048,UKIP,JOHNSON,Clifford Roy,1040
+1,W07000048,Plaid Cymru,PHILLIPS,Steffan John,1689
+1,W07000048,Conservative,BOUCHER,Daniel Stephen,9139
+1,W07000048,Labour,HARRIS,Carolyn,22307
+1,W07000047,SPGB,JOHNSON,Brian,92
+1,W07000047,Green Party,WHITTALL,Michael Alan,434
+1,W07000047,Liberal Democrats,O'CARROLL,Michael Ely,1269
+1,W07000047,Plaid Cymru,FITTER,Rhydian Elis,1529
+1,W07000047,Conservative,LAWTON,Craig James Robert,11680
+1,W07000047,Labour,DAVIES,Geraint,22278
+1,W07000053,Liberal Democrats,BEST,Andrew James,852
+1,W07000053,Plaid Cymru,REES,Jeff,2059
+1,W07000053,Conservative,SMITH,Graham Steven,11894
+1,W07000053,Labour,THOMAS-SYMONDS,Nick,22134
+1,W07000053,UKIP,WILLIAMS,Ian Michael,1490
+1,W07000060,Liberal Democrats,WILLIAMS,William Gwyn,666
+1,W07000060,Plaid Cymru,WYATT,David Lee,1551
+1,W07000060,Conservative,DAVIES,James Michael,17044
+1,W07000060,Labour,RUANE,Christopher Shaun,19423
+1,W07000078,Pirates,ELSTON,David Anthony,127
+1,W07000078,WEP,LOVELL,Sharon,177
+1,W07000078,Green Party,DAVIS-BARKER,Stephen,419
+1,W07000078,UKIP,HUNTER-CLARKE,Melaine Jade,868
+1,W07000078,Liberal Democrats,GERONI,Jennifer Nia,1020
+1,W07000078,Plaid Cymru,JOHNSON,Ian James,2295
+1,W07000078,Labour,BEAVAN,Camilla,23311
+1,W07000078,Conservative,CAIRNS,Alun,25501
+1,W07000044,Liberal Democrats,O�TOOLE  ,CAROLE GEORGINA TETLEY,865
+1,W07000044,Plaid Cymru,HARPER,Carrie,1753
+1,W07000044,Conservative,ATKINSON,Andrew Mark,15321
+1,W07000044,Labour,LUCAS,Ian Colin,17153
+1,W07000041,Liberal Democrats,JACKSON,Sarah May,479
+1,W07000041,Plaid Cymru,JONES,Ieuan Wyn,10237
+1,W07000041,Conservative,DAVIES,Tomos Dafydd,10384
+1,W07000041,Labour,OWEN,Albert,15643
+1,W07000041,UKIP,TURNER,James Nicholas,624
